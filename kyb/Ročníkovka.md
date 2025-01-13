@@ -1,0 +1,24 @@
+## lokátor
+- co
+	- zařízení rozděleno na dvě části
+		- lokátor
+			- 1. lvl - kompas k majáku na displeji
+			- 2. lvl - přidělat to na autíčko
+		- maják
+			- na malé vzdálenosti - infrared LED
+			- na delší - rádio
+			- pokud by se nám chtělo, tak i GPS
+- motivace
+	- v základu jednoduché, ale velký potenciál na rozšíření
+- samotný úkol
+	- 1.lvl
+		- nadesignovat a sestrojit maják s lokátorem
+		- kalibrovat pro největší přesnost
+		- zjistit kdy je ideální jaká metoda pro navádění
+		- vytvořit výstup na displej
+	- 2.lvl
+		- "autonomní" autíčko
+		- detekce kolizí
+- do budoucna
+	- složitější nebo chytřejší vozidlo
+	- složitější nebo chytřejší navigace

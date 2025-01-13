@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "8d742f764cfb8923",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f79d2b837e12364",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db423768c048e4f9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250109084303.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250109084303"
+            }
+          },
+          {
+            "id": "745b62837d606482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEF/induktur(cívky)/cívky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cívky"
+            }
+          },
+          {
+            "id": "698a5bd84801adc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9d5ef776a963e8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf6da81bb6c041f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e232afcdb0e18de0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "75104b4a756a1675",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d3fe478ed03ffde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02a373b36a322b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "b893673b0330a4ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4471139d7de0df01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "82d00574c74ff5a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "93393c920a4f75ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d743cceba235683",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "a9f09e85acfde163",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "698a5bd84801adc5",
+  "lastOpenFiles": [
+    "TEF/induktur(cívky)/Transformátor.md",
+    "README.md",
+    "Images/Drawing 2024-12-05 08.11.22.excalidraw.md",
+    "test.md",
+    "[Images/cívky]().md",
+    "Images/Drawing 2024-12-05 08.20.53.excalidraw.md",
+    "Images/Drawing 2024-11-06 11.18.46.excalidraw.md",
+    "Images/Drawing 2024-11-06 11.24.39.excalidraw.md",
+    "Images/Drawing 2024-11-06 11.33.22.excalidraw.md",
+    "Images/Drawing 2024-11-07 08.05.35.excalidraw.md",
+    "Images/Drawing 2024-11-07 08.13.43.excalidraw.md",
+    "Images/Drawing 2024-11-20 11.08.44.excalidraw.md",
+    "Images/Drawing 2024-11-28 08.04.29.excalidraw.md",
+    "Images/Drawing 2024-11-28 08.13.48.excalidraw.md",
+    "Images/Drawing 2024-11-28 08.34.20.excalidraw.md",
+    "Images/Drawing 2024-11-28 08.40.32.excalidraw.md",
+    "Images/Drawing 2025-01-13 22.25.53.excalidraw.md",
+    "TEF/induktur(cívky)/cívky.md",
+    "[Images",
+    "Untitled.canvas",
+    "2025-01-13.md",
+    "TEF/Kondezátory/KONDENZÁTOR.md",
+    "TEF/polovodiče/LED.md",
+    "TEF/veličiny/IMPEDANCE.md",
+    "TEF/veličiny/odpor.md",
+    "TEF/polovodiče/USMĚRŇOVAČ.md",
+    "Images/Pasted image 20250109084303.png",
+    "Images/struktura tranzistoru.png",
+    "Images/můstek.png",
+    "Images/můstek graf.png",
+    "Images/dvousměrný usměrňovač s kondenzátorem.png",
+    "Images/dvousměrný usměrňovač s kondenzátorem graf.png",
+    "Images/dvousměrný usměrňovač graf.png",
+    "Images/jednosměrný usměrňovač s kondenzátorem graf.png",
+    "Images/jednosměrný usměrňovač s kondenzátorem.png",
+    "Images/jednosměrný usměrňovač graf.png",
+    "repo/test.md",
+    "repo/README.md",
+    "repo",
+    "Images",
+    "sex"
+  ]
+}
