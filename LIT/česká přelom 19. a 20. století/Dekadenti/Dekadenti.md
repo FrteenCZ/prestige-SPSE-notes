@@ -1,0 +1,4 @@
+- básníci z okruhu časopisu Moderní revue (Karel Hlaváček, Jiří Karásek ze Lvovic)
+- pocity marnosti, společenského úpadku
+- motivy smrti, melancholie, erotiky
+- l'art pour l'art = umění pro umění
