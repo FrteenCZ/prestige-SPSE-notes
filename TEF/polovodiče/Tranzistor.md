@@ -1,10 +1,18 @@
-- bipolární
+- ### bipolární
 	- činnost
 		- majoritní a menoritní nosiče
 		- řízen proudem báze
 	- 2 přechody
 		- PNP / NPN
-- unipolární
+	- Funkce
+		- ![[Transistor zapojení.png]]
+		- NPN
+			- ![[NPN zapojení.png]]
+		- PNP
+			- ![[PNP zapojení.png]]
+		- společný base/emitor/collector
+			- ![[společný base_emitor_collector.png]]
+- ### unipolární
 	- činnost
 		- jen majoritní nosiče
 		- řízení el. polem
