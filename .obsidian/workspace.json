@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEF/polovodiče/Tranzistor.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tranzistor"
+              "title": "README"
             }
           }
         ]
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,6 +173,7 @@
   },
   "active": "80a25808e55af2a9",
   "lastOpenFiles": [
+    "TEF/polovodiče/Tranzistor.md",
     "TEF/induktur(cívky)/cívky.md",
     "LIT/Česká literaura 2.pol. 19. stol./Lumírovci/Jaroslav Vrchlický.md",
     "LIT/česká přelom 19. a 20. století/česká přelom 19. a 20. století.md",
@@ -179,7 +181,6 @@
     "LIT/česká přelom 19. a 20. století/česká moderna/Josef Svatopluk Machar.md",
     "Images/KONDENZATOR_SCHEM.md",
     "Images/kondezatory.md",
-    "TEF/polovodiče/Tranzistor.md",
     "Images/společný base_emitor_collector.png",
     "Images/PNP zapojení.png",
     "Images/Pasted image 20250109084303.png",

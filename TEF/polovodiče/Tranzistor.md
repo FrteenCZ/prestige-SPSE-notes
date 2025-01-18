@@ -12,6 +12,15 @@
 			- ![[PNP zapojení.png]]
 		- společný base/emitor/collector
 			- ![[společný base_emitor_collector.png]]
+			-   
+
+| Veličina              | SE              | SB              | SC              |
+| --------------------- | --------------- | --------------- | --------------- |
+| **Vstupní odpor**     | malý až střední | velmi malý      | velmi velký     |
+| **Výstupní odpor**    | velký           | velmi velký     | velmi malý      |
+| **Napěťové zesílení** | velké           | velmi velké     | < 1             |
+| **Proudové zesílení** | velké           | < 1             | velké           |
+| **Výkonové zesílení** | velké           | malé až střední | malé až střední |
 - ### unipolární
 	- činnost
 		- jen majoritní nosiče
