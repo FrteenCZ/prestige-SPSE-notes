@@ -2,3 +2,7 @@
 - pocity marnosti, společenského úpadku
 - motivy smrti, melancholie, erotiky
 - l'art pour l'art = umění pro umění
+- ### autoři
+	- [[Jiří Karásek ze Lvovic]]
+	- [[Karel Hlaváček]]
+	- [[František Xaver Šalda]]
