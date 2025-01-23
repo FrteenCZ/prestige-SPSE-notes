@@ -1,3 +1,6 @@
+- Volt-amperová charakteritika
+	- ![[Pasted image 20250123084541.png]]
+	- ![[Pasted image 20250123084638.png]]
 - ### bipolární
 	- činnost
 		- majoritní a menoritní nosiče
@@ -12,7 +15,6 @@
 			- ![[PNP zapojení.png]]
 		- společný base/emitor/collector
 			- ![[společný base_emitor_collector.png]]
-			-   
 
 | Veličina              | SE              | SB              | SC              |
 | --------------------- | --------------- | --------------- | --------------- |
