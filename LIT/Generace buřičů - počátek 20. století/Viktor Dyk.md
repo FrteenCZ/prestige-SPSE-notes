@@ -5,3 +5,5 @@
 - zprvu obdivovatel TGM, pak jeho kritik a odpůrce 
 - vášnivý šachista
 - zemřel na mrtvici při koupání v Chorvatsku
+- ### dílo
+	- novela **Krysař**

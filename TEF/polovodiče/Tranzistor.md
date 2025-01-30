@@ -24,9 +24,17 @@
 | **Proudové zesílení** | velké           | < 1             | velké           |
 | **Výkonové zesílení** | velké           | malé až střední | malé až střední |
 - ### unipolární
+	- FET - field effect tranzistor
 	- činnost
 		- jen majoritní nosiče
-		- řízení el. polem
+		- řízení el. polem => napětím řídící elektrody
+	- princip
+		- napětí ovlivňuje šířku kanálu
+		- ![[Pasted image 20250129112718.png]]
+		- ![[Pasted image 20250129112944.png]]
+
+
+
 - Historie
 	- elektronky
 - ### struktura
