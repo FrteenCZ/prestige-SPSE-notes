@@ -24,3 +24,5 @@
 	- [[Fráňa Šrámek]]
 	- [[Karel Toman]]
 	- [[Viktor Dyk]]
+	- [[František Gellner]]
+	- [[Petr Bezruč]]
