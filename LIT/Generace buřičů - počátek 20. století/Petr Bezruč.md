@@ -1,6 +1,6 @@
 - vlastním jménem Vladimír Vašek
 - z rodiny učitele a slezského buditele 
-- **pohyboval se kolem Ostravy
+- **SLEZÁK
 - po studiu na gymnáziu studoval filologii na univerzitě v Praze, **studia nedokončil** 
 - trávil mnoho času v hospodách pitkami se spolužáky 
 - vrátil se domů, aby pomohl matce - sama se musela starat ještě o pět dětí, zadlužená

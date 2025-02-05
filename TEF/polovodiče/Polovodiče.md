@@ -33,5 +33,7 @@ od diody až k IO(integrovaný obvod)
 	- široký rozsah frekvencí
 	- pracují spolehlivě
 	- dlouhá životnost
-- ![[DIODA]]
-- ![[TEF/polovodiče/Tranzistor]]
+- [[DIODA]]
+- [[TRANZISTOR]]
+# vícevrstvé
+- [[TYRISTOR]]
