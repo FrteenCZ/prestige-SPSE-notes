@@ -35,5 +35,7 @@ od diody až k IO(integrovaný obvod)
 	- dlouhá životnost
 - [[DIODA]]
 - [[TRANZISTOR]]
-# vícevrstvé
-- [[TYRISTOR]]
+- **vícevrstvé
+	- [[TYRISTOR]]
+	- [[DIAK]]
+	- [[TRIAK]]

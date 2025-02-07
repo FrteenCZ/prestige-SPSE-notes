@@ -1,4 +1,4 @@
-- Volt-amperová charakteritika
+N- Volt-amperová charakteritika
 	- ![[Pasted image 20250123084541.png]]
 	- ![[Pasted image 20250123084638.png]]
 - ### bipolární
