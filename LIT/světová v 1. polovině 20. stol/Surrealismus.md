@@ -1,0 +1,5 @@
+- po 1. sv. válce ve Francii
+- umělecký směr a životní styl - usiluje o osvobození mysli, zdůrazňuje podvědomí, zachycuje sny, představy, pocity a myšlenky
+- vliv psychoanalýzy (Sigmund Freud)
+- metoda tvoření, při níž je fantazie nezávislá na vnější realitě, dílo vzniká pomocí tzv. **volného toku asociací** bez rozumové kontroly
+- André Breton-autor Manifestu surrealismu, básník
