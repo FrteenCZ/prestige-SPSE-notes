@@ -11,3 +11,4 @@
 - [[Surrealismus]]
 # Autoři
 - [[Guillaume Apollinaire]]
+- [[Christian Morgenstern]]
