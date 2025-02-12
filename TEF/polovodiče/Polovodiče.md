@@ -39,3 +39,4 @@ od diody až k IO(integrovaný obvod)
 	- [[TYRISTOR]]
 	- [[DIAK]]
 	- [[TRIAK]]
+- [[optické součástky]]
