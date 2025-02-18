@@ -12,3 +12,5 @@
 # Autoři
 - [[Guillaume Apollinaire]]
 - [[Christian Morgenstern]]
+- ztracená generace
+	- [[Erich Maria Remarque]]
