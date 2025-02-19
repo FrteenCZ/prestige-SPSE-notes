@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIT/světová v 1. polovině 20. stol/Autoři/Erich Maria Remarque.md",
+                "file": "TEF/polovodiče/optické součástky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erich Maria Remarque"
+              "title": "optické součástky"
+            }
+          },
+          {
+            "id": "ab26d313aef0781b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEF/polovodiče/optické součástky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "optické součástky"
+            }
+          },
+          {
+            "id": "9ad7155f0436b892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEF/polovodiče/optické součástky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "optické součástky"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,14 +214,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09121e0847091825",
+  "active": "9ad7155f0436b892",
   "lastOpenFiles": [
+    "TEF/polovodiče/FOTODIODA.md",
+    "Images/Pasted image 20250219113836.png",
+    "Images/Pasted image 20250219113800.png",
+    "Images/Photodiode_symbol_CS.svg",
+    "Images/Photodiode_symbol_CS 1.svg",
+    "Images/Pasted image 20250219113414.png",
+    "TEF/polovodiče/optické součástky.md",
+    "TEF/polovodiče/Fotorezistor.md",
+    "Images/Pasted image 20250219113026.png",
+    "Images/Pasted image 20250219112948.png",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Erich Maria Remarque.md",
     "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
     "LIT/světová v 1. polovině 20. stol/Surrealismus.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Erich Maria Remarque.md",
     "README.md",
     "TEF/polovodiče/Polovodiče.md",
-    "TEF/polovodiče/optické součástky.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Christian Morgenstern.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Guillaume Apollinaire.md",
     "LIT/světová v 1. polovině 20. stol/Autoři",
@@ -218,16 +255,6 @@
     "Images/Pasted image 20250206083812.png",
     "Images/Drawing 2025-02-06 08.19.57.excalidraw.md",
     "Images/Pasted image 20250206082534.png",
-    "Images/Untitled.md",
-    "Images/Pasted image 20250206081554.png",
-    "Images/Pasted image 20250206081331.png",
-    "Images/Thyristor_I-V_diagram_obsidian.svg",
-    "Images/Thyristor_I-V_diagram.svg",
-    "Images/Thyristor_I-V_diagram_darkmode 1.svg",
-    "Images/Thyristor_I-V_diagram_darkmode.svg",
-    "LIT/Generace buřičů - počátek 20. století/František Gellner.md",
-    "LIT/Generace buřičů - počátek 20. století/Petr Bezruč.md",
-    "Images/struktura tranzistoru.png",
     "CJK",
     "MAT",
     "LIT/Generace buřičů - počátek 20. století",
