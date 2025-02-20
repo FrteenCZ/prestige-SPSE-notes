@@ -15,4 +15,4 @@
 - antifašistické
 - úspěch mu přineslo vydání **Na západní frontě klid**
 	- celosvětově známé, o rok později zfilmováno
-	- z 1. sv. v., o generaci lidi, kterým válka zničila život, i když ji přežili
+	- z 1. sv. v., o generaci lidí, kterým válka zničila život, i když ji přežili
