@@ -4,3 +4,4 @@ Fyzikální jev, kdy na materiál (kov, polovodič, ...) dopadá ELEKTROMAGNETIC
 - [[FOTOREZISTOR]]
 - [[FOTODIODA]]
 - [[FOTOTRANZISTOR]]
+- [[OPTOČLEN]]
