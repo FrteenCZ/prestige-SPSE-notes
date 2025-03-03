@@ -14,3 +14,4 @@
 - [[Christian Morgenstern]]
 - ztracená generace
 	- [[Erich Maria Remarque]]
+	- [[Ernest Hemingway]]
