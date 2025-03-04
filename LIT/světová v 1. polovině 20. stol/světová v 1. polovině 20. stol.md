@@ -15,3 +15,7 @@
 - ztracená generace
 	- [[Erich Maria Remarque]]
 	- [[Ernest Hemingway]]
+	- [[Francis Scott Fitzgerald]]
+	- [[Thomas Mann]]
+	- [[Bertolt Brecht]]
+	- [[Romain Rolland]]
