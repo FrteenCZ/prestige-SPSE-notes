@@ -22,3 +22,9 @@ Logický obvod => logické členy => logické funkce
 	- NOR - negovaný součet
 	- XOR - exlusivní OR
 	- NXOR - negovaný exlusivní OR
+## PLC (Programmable Logic Controller)
+- arduino
+- rasberry pi
+## číselné soustavy
+- desítková
+- binárka
