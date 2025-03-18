@@ -19,3 +19,6 @@
 	- [[Thomas Mann]]
 	- [[Bertolt Brecht]]
 	- [[Romain Rolland]]
+	- [[John Steinbeck]]
+	- [[Boris Pasternak]]
+	- [[Franz Kafka]]
