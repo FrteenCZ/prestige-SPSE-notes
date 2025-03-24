@@ -22,3 +22,4 @@
 	- [[John Steinbeck]]
 	- [[Boris Pasternak]]
 	- [[Franz Kafka]]
+	- [[Egon Erwin Kisch]]
