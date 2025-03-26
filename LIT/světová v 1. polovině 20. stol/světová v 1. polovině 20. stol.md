@@ -1,3 +1,4 @@
+# Před první světovou 
 ## Společnost
 - vědecko-technické objevy a vymoženosti
 - nový způsob života ve městě: elektřina, automobil fotografie, film, zábava kabarety, biograf, gramo rádio, velká nabídka tiskovin
@@ -23,4 +24,20 @@
 	- [[Boris Pasternak]]
 	- [[Franz Kafka]]
 	- [[Egon Erwin Kisch]]
-# Po první světové
+# Mezi válkami
+- umělecká svoboda
+- úleva z konce války - vitalismus
+- kontakty se západoevropskou literaturou i vliv socialistických myšlenek z východu
+## směry
+- proletářská poezie
+- poetismus
+- surrealismus
+- spirituální proud
+- katolický proud
+## Devětsil
+- sdružení avantgardních umělců
+- založen r. 1920 v Praze
+- zakládající členové: Vladislav Vančura, Karel Teige, Jaroslav Seifert
+- cílem pořádat kulturní akce, vydávat almanachy
+- sdružuje autory poezie i prózy, teoretiky umění, divadelníky a ostatní umělce
+- nejprve proletářská orientace, od r. 1923 příklon k poetismu (odchod Jiřího Wolkera), po zániku Devětsilu vstoupila řada členů do Skupiny surrealistů
