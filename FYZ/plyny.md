@@ -3,7 +3,7 @@ $$p_{1}V_{1}=p_{2}V_{2}$$
 - *T*=konst.
 - *pV* diagram: **izoterma** (hyperbola)
 
-## Izochorikcý děj - Charlesův zákon
+## Izochorický děj - Charlesův zákon
 $$\frac{p_{1}}{T_{1}}=\frac{p_{2}}{T_{2}}$$
 - *V* = konst.
 - *pV* diagram: izochora
