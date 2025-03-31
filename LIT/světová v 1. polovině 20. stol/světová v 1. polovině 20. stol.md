@@ -41,3 +41,10 @@
 - cílem pořádat kulturní akce, vydávat almanachy
 - sdružuje autory poezie i prózy, teoretiky umění, divadelníky a ostatní umělce
 - nejprve proletářská orientace, od r. 1923 příklon k poetismu (odchod Jiřího Wolkera), po zániku Devětsilu vstoupila řada členů do Skupiny surrealistů
+## proletářská poezie
+- 20. léta reakce na sociální bídu a důsledky 1. sv. v.
+- zobrazování třídních protikladů, zdůrazňování role dělnictva, cílem byla sociální spravedlnost
+- v časopisech Kmen, Červen, Proletkult a Revue Devětsilu
+- teoretik: S. K. Neumann
+- [[Jiří Wolker]]: formulace základních principů (Proletářské umění, 1922): revolučnost, stranickost, tendenčnost, třídnost, kolektivismus, politická angažovanost (marxistická filozofie)
+- [[Jiří Wolker]], Josef Hora

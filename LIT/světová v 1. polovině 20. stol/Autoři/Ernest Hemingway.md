@@ -7,12 +7,11 @@
 - člen bohémské skupiny v Paříži, vice se věnoval psaní
 - dobrodružné výpravy do Afriky
 - reporter občanské války ve Španělsku
-- poslední léta trávil na Kube
+- poslední léta trávil na Kubě
 - život pravděpodobně ukončil sebevraždou (zastřelením)
 ## dílo
-- novela **Starec a mole**
-	- dvoudenní zápas starého kubánského rybáře Santiaga
-	- s obrovskou rybou
+- novela **Stařec a moře**
+	- dvoudenní zápas starého kubánského rybáře Santiaga s obrovskou rybou
 	- Nobelova cena; zfilmováno
 - novela **Smrt odpoledne**
 	- téma koridy

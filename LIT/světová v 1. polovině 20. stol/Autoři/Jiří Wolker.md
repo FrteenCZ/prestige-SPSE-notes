@@ -1,0 +1,6 @@
+- rodák z Prostějova, studoval práva, současně navštěvoval přednášky literatury
+- hrál na hudební nástroje, sám komponoval, zhudebňoval své verše
+- odchod z katolické církve, vstup do KSČ
+- člen Literární skupiny (Brno) a Devětsilu z obou odešel vadila mu politická neangažovanost
+- zemřel na tuberkulózu
+- psali pohádky pro děti (sociální aspekty, hrdinové obyčejní lidé)
