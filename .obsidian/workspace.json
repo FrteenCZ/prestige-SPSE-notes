@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "220bbeba3fe93b20",
+        "id": "1098aae6f9302d33",
         "type": "tabs",
         "children": [
           {
-            "id": "a9ba6584442db6b2",
+            "id": "d4e37cfba7dfd63f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIT/světová v 1. polovině 20. stol/Autoři/Guillaume Apollinaire.md",
+                "file": "FYZ/plyny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guillaume Apollinaire"
-            }
-          },
-          {
-            "id": "f41d27ecb8bbd98e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/světová v 1. polovině 20. stol/Autoři/John Steinbeck.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "John Steinbeck"
-            }
-          },
-          {
-            "id": "ee92f3d58dda3fae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/světová v 1. polovině 20. stol/Autoři/Francis Scott Fitzgerald.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Francis Scott Fitzgerald"
-            }
-          },
-          {
-            "id": "0c151a4cc9054f41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/světová v 1. polovině 20. stol/Autoři/John Steinbeck.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "John Steinbeck"
-            }
-          },
-          {
-            "id": "e88d9cdb8dfd71bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/molekoule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "molekoule"
-            }
-          },
-          {
-            "id": "cf6711d40b5153e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/světová v 1. polovině 20. stol/Autoři/Egon Erwin Kisch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Egon Erwin Kisch"
-            }
-          },
-          {
-            "id": "7ae7b6fd874303d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/molekoule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "molekoule"
+              "title": "plyny"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,30 +171,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ae7b6fd874303d4",
+  "active": "d4e37cfba7dfd63f",
   "lastOpenFiles": [
-    "FYZ/plyny.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Guillaume Apollinaire.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/John Steinbeck.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Francis Scott Fitzgerald.md",
+    "FYZ/molekoule.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Egon Erwin Kisch.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Bertolt Brecht.md",
+    "FYZ/plyny.md",
     "LIT/světová literatura přelomu 19. a 20. století/světová literatura přelomu 19. a 20. století.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Thomas Mann.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/John Steinbeck.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Romain Rolland.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Christian Morgenstern.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Egon Erwin Kisch.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Erich Maria Remarque.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Guillaume Apollinaire.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Ernest Hemingway.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Boris Pasternak.md",
     "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Wolker.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Franz Kafka.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Francis Scott Fitzgerald.md",
     "LIT/světová v 1. polovině 20. stol/Surrealismus.md",
     "LIT/světová v 1. polovině 20. stol/Kubismus.md",
     "LIT/světová v 1. polovině 20. stol/Futurismus.md",
     "LIT/světová v 1. polovině 20. stol/Expresionismus.md",
     "LIT/světová v 1. polovině 20. stol/Dadaismus.md",
-    "FYZ/molekoule.md",
     "TEF/GALVANICKÉ ODDĚLENÍ.md",
     "TEF/číslicová elektronika/číslicová elektronika.md",
     "README.md",

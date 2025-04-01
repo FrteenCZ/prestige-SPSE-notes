@@ -15,3 +15,9 @@ $$\frac{V_{1}}{T_{1}}=\frac{V_{2}}{T_{2}}$$
 - *p* = konst.
 - *pV* diagram: izobara
 - *VT* diagram plynů: grafů se protínají v hodnotě **0 K - absolutní nula**
+
+## Adiabatický děj
+$$p_{1}V_{1}^{\kappa}=p_{2}V_{2}^{\kappa}$$
+- $Q$=0 J
+- Neprobíhá tepelná výměna mezi plynem a okolím
+- *pV* diagram
