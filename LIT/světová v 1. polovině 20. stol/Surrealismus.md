@@ -1,5 +1,12 @@
-- po 1. sv. válce ve Francii
-- umělecký směr a životní styl - usiluje o osvobození mysli, zdůrazňuje podvědomí, zachycuje sny, představy, pocity a myšlenky
-- vliv psychoanalýzy (Sigmund Freud)
-- metoda tvoření, při níž je fantazie nezávislá na vnější realitě, dílo vzniká pomocí tzv. **volného toku asociací** bez rozumové kontroly
-- André Breton-autor Manifestu surrealismu, básník
+- Vzniká **po 1. světové válce ve Francii** jako **umělecký směr i životní styl**.
+- Usiluje o **osvobození mysli**, zdůrazňuje **podvědomí**, **sny**, **představy**, **pocity** a **myšlenky**.
+- **Ovlivněn psychoanalýzou** Sigmunda Freuda – inspirace **halucinacemi**, sny, představami.
+- Metoda tvorby: **psychický automatismus** a **volný tok asociací** bez rozumové kontroly.
+- Důraz na **iracionalitu**, **nahodilost**, **bizarnost**, popření **logiky**, **stereotypů** a pravidel.
+- Dochází ke **zrušení veškerých pravidel verše**, umění se odklání od vnější reality.
+- Uvědomění si **sociální bídy** a **hospodářské krize**, kontrast mezi **realitou a snem**.
+#### Klíčové osobnosti:
+- **André Breton** – francouzský básník, autor _Manifestu surrealismu_.
+- V Česku:
+    - **Teoretik**: Karel Teige
+    - **Básník**: Vítězslav Nezval

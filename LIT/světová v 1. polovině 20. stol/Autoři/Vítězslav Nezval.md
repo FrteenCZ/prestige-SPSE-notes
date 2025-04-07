@@ -1,0 +1,12 @@
+- spisovatel, básník a dramatik, překladatel
+- spoluzakladatel poetismu, vůdčí osobnost čes. surrealismu, vstoupil do KSČ, člen Devětsilu, iniciátor čes. avantgardního hnutí, po 2. sv. v. přiklon k socialistickému realismu
+- rysy tvorby: optimismus, hravost, fantazie, kontakt s moderní evropskou literaturou
+## dílo
+- **poetismus**
+	- **Podivuhodný kouzelník** (1922)-předznamenává poetismus; hravost, radost, sny, představy, exotika, dobrodružstvi
+	- bás. sb. **Pantomima** (1924)-hravost, princip asociace, známá báseň Abeceda
+	- báseň **Akrobat** (1928)
+	- báseň **Edison** (***v maturitni četbě***)
+	- bás. sb. **Sbohem a šáteček** - lyrická mozaika dojmů z cest do Francie a Itálie, smyslové okouzlení, hravost, fantazie
+- **surrealismus**
+	- surrealistické bás. sb. **Žena v množném čísle, Praha s prsty deště, Absolutní hrobař** - asociativní řetězení představ, automatické texty, střídání úhlu pohledu, prolnutí minulosti a přítomnosti

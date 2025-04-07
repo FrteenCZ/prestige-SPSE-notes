@@ -48,3 +48,9 @@
 - teoretik: S. K. Neumann
 - [[Jiří Wolker]]: formulace základních principů (Proletářské umění, 1922): revolučnost, stranickost, tendenčnost, třídnost, kolektivismus, politická angažovanost (marxistická filozofie)
 - [[Jiří Wolker]], Josef Hora
+## směry
+- [[Poetismus]]
+- [[Surrealismus]]
+## Autoři
+- [[Jiří Wolker]]
+- [[Vítězslav Nezval]]
