@@ -2,7 +2,7 @@
 
 ## ⚛️ Vlastnosti ideálního plynu
 - Molekuly mají *zanedbatelné* rozměry vůči středním vzdálenostem.
-  ![[Pasted image 20250407211719.png]]
+![[Pasted image 20250407211719.png]]
 - *Nepůsobí* na sebe přitažlivými silami.  
   ![[Pasted image 20250407212111.png]]
 - Srážky molekul a se stěnami jsou *dokonale pružné* (zachování rychlosti).  
@@ -109,7 +109,7 @@ $$
 p_1V_1^{\chi} = p_2V_2^{\chi}
 $$
 $$
-\chi = \frac{c_p}{c_V}, \quad \chi > 1 \quad \text{(Poissonova konstanta)}
+\chi = \frac{c_p}{c_V}, \quad \chi \to 1 \quad \text{(Poissonova konstanta)}
 $$
 - *pV* diagram: **adiabata**  
 ![[Pasted image 20250407221924.png]]

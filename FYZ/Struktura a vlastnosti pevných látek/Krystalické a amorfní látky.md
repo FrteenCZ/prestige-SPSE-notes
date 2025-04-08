@@ -1,0 +1,24 @@
+- **Krystalické látky**
+	- pravidelné uspořáídání částic v krystalové mřížce
+	- velké přitažlivé síly mezi částicemi
+	- vzdálenost je v půměru 0,5 nm
+	- Většina krystalických látek patří mezi **polykrystaly**
+- **Polykrystaly**
+	- složeny z velkého počtu krystalů, tzv.**zrn**
+	- **rozměry zrna: 10μm-10mm**
+	- uvnitř zrna pravidelná struktura, vzájemná poloha zrn je náhodilá
+	- Př.: všechny kovy, okem viditelná zrna má zinek Zn
+	- jsou **izotropní** - ve všech směrech stejné vlastnosti
+- **Monokrystaly**
+	- rozložení částic se periodicky opkauje v celém krystalu - tzv. **dalekodosahové uspořádání**
+	- 
+- **Amorfní látky**
+	- **krátkovodosahové** periodické uspořádání částic na vzdálenost cca 0,1 nm
+	- Př.: pryskyřice, asfalt, vosk, sklo, plasty
+	- většinou jsou **izotropní**
+	- **nemají pevně dannou teplotu tání**
+- **Polymery**
+	- zvláštní skupinu amorfních látek organického původu
+	- **dlouhé makromolekuly vytvářejí sítě**
+	- Př.: kaučuk, celuóza, bavlna, bílkoviny, celofán
+	- 
