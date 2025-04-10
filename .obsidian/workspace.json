@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2f64a33d1642a8ac",
+        "id": "0ea5ab912d62a20c",
         "type": "tabs",
         "children": [
           {
-            "id": "500ae497008c65a6",
+            "id": "711f89d9f8adcb53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYZ/Struktura a vlastnosti plynů​.md",
+                "file": "CH/Karboxylové kyseliny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Struktura a vlastnosti plynů​"
-            }
-          },
-          {
-            "id": "b6865d506a222332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/Struktura a vlastnosti pevných látek/Krystalické a amorfní látky.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Krystalické a amorfní látky"
-            }
-          },
-          {
-            "id": "8d494d669878ee27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/Struktura a vlastnosti pevných látek/Krystalické a amorfní látky.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Krystalické a amorfní látky"
-            }
-          },
-          {
-            "id": "cba7827c3ad081c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/Struktura a vlastnosti plynů​.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Struktura a vlastnosti plynů​"
+              "title": "Karboxylové kyseliny"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +171,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cba7827c3ad081c9",
+  "active": "711f89d9f8adcb53",
   "lastOpenFiles": [
-    "FYZ/molekoule.md",
+    "CH/Ethery.md",
+    "Images/Obecná struktura etherů.png",
+    "Images/Pasted image 20250410130553.png",
+    "CH/Alkoholy.md",
+    "Images/Terciární alkohol.png",
+    "Images/Sekundární alkohol.png",
+    "Images/Primární alkohol.png",
+    "Images/Pasted image 20250410130134.png",
+    "Images/Pasted image 20250410130105.png",
+    "Images/Pasted image 20250410130013.png",
+    "CH/Aldehydy a ketony.md",
+    "CH/[[Alkoholy]].md",
+    "Images/Untitled.md",
+    "CH/Karboxylové kyseliny.md",
+    "Images/Pasted image 20250410105422.png",
+    "Images/Pasted image 20250410105306.png",
+    "README.md",
+    "Untitled 1.md",
+    "TEF/číslicová elektronika/číslicová elektronika.md",
+    "CH",
     "FYZ/Struktura a vlastnosti plynů​.md",
+    "FYZ/molekoule.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Vítězslav Nezval.md",
     "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
     "LIT/světová v 1. polovině 20. stol/Surrealismus.md",
@@ -227,32 +204,12 @@
     "FYZ/Struktura a vlastnosti pevných látek",
     "TEF/rezistory/proměnné rezistory.md",
     "FYZ/plyny.md",
-    "Images/image-removebg-preview (32).png",
-    "Images/image-removebg-preview (30).png",
     "LIT/světová v 1. polovině 20. stol/Autoři/Guillaume Apollinaire.md",
-    "Images/Pasted image 20250407221924.png",
-    "Images/image-removebg-preview (31) 1.png",
-    "Images/image-removebg-preview (31).png",
-    "Images/Pasted image 20250407221234.png",
-    "Images/Pasted image 20250407221118.png",
-    "Images/Pasted image 20250407220833.png",
-    "Images/Pasted image 20250407212111.png",
-    "Images/Pasted image 20250407211719.png",
     "LIT/světová v 1. polovině 20. stol/Poetismus.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Wolker.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/John Steinbeck.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Francis Scott Fitzgerald.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Egon Erwin Kisch.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Bertolt Brecht.md",
-    "LIT/světová literatura přelomu 19. a 20. století/světová literatura přelomu 19. a 20. století.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Thomas Mann.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Romain Rolland.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Christian Morgenstern.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Erich Maria Remarque.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Ernest Hemingway.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Boris Pasternak.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Franz Kafka.md",
-    "LIT/světová v 1. polovině 20. stol/Kubismus.md",
     "TEF/číslicová elektronika",
     "LIT/světová v 1. polovině 20. stol/Autoři",
     "FYZ",
@@ -261,7 +218,6 @@
     "CJK",
     "MAT",
     "LIT/Generace buřičů - počátek 20. století",
-    "LIT/česká přelom 19. a 20. století/Dekadenti",
     "Untitled.canvas"
   ]
 }
