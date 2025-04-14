@@ -1,4 +1,4 @@
-d# měření teplot
+měření teplot
 - druhy teploměrů
 	- kapalinové (Hg,líh)
 	- bimetalové
