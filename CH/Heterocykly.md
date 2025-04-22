@@ -1,8 +1,7 @@
-# 🧪 Co jsou heterocykly?
-
 Heterocykly jsou **cyklické organické sloučeniny**, které obsahují v kruhu kromě uhlíku i jiné prvky – tzv. **heteroatomy**  
 (např. dusík – N, kyslík – O, síra – S).  
 Obvykle jsou **kapalné** nebo **krystalické**.
+![[Pasted image 20250422144838.png]]
 
 ---
 
