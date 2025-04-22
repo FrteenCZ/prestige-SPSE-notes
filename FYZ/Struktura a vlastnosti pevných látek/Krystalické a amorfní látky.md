@@ -1,25 +1,42 @@
-- **Krystalické látky**
-	- pravidelné uspořáídání částic v krystalové mřížce
-	- velké přitažlivé síly mezi částicemi
-	- vzdálenost je v půměru 0,5 nm
-	- Většina krystalických látek patří mezi **polykrystaly**
-- **Polykrystaly**
-	- složeny z velkého počtu krystalů, tzv.**zrn**
-	- **rozměry zrna: 10μm-10mm**
-	- uvnitř zrna pravidelná struktura, vzájemná poloha zrn je náhodilá
-	- Př.: všechny kovy, okem viditelná zrna má zinek Zn
-	- jsou **izotropní** - ve všech směrech stejné vlastnosti
-- **Monokrystaly**
-	- rozložení částic se periodicky opkauje v celém krystalu - tzv. **dalekodosahové uspořádání**
-	- některé mají pravidelný geometrický tvar​
-	- Př.: NaCl, křemen SiO$_{2}$, diamant​
-	- jsou většinou **anizotropní**​
-- **Amorfní látky**
-	- **krátkodosahové** periodické uspořádání částic na vzdálenost cca 0,1 nm
-	- Př.: pryskyřice, asfalt, vosk, sklo, plasty
-	- většinou jsou **izotropní**
-	- **nemají pevně dannou teplotu tání**
-- **Polymery**
-	- zvláštní skupinu amorfních látek organického původu
-	- **dlouhé makromolekuly vytvářejí sítě**
-	- Př.: kaučuk, celulóza, bavlna, bílkoviny​ celofán, termoplasty (PVC), polyepoxidové pryskyřice (lepidla) ​
+# 💎 Krystalické látky
+- **Pravidelné uspořádání částic** v krystalové mřížce
+- **Silné přitažlivé síly** mezi částicemi
+- Vzdálenost mezi částicemi: cca **0,5 nm**
+- Většina krystalických látek tvoří **polykrystaly**
+
+## 🧱 Polykrystaly
+- Složené z mnoha krystalů = **zrn**
+- Rozměry zrn: **10 μm – 10 mm**
+- Uvnitř zrna: pravidelná struktura
+- Vzájemná poloha zrn je **náhodná**
+- Př.: většina kovů (Zn má zrna viditelná okem)
+- Jsou **izotropní** – ve všech směrech stejné vlastnosti
+
+## 🧊 Monokrystaly
+- Rozložení částic se periodicky **opakuje v celém objemu** (dalekodosahové uspořádání)
+- Někdy mají **pravidelný geometrický tvar**
+- Př.: NaCl, křemen (SiO₂), diamant
+- Jsou většinou **anizotropní** – vlastnosti se liší podle směru
+
+---
+
+# 🌫️ Amorfní látky
+- Mají pouze **krátkodosahové uspořádání** (cca 0,1 nm)
+- **Neuspořádaná struktura** – žádné dalekodosahové pravidelnosti
+- Př.: pryskyřice, asfalt, vosk, sklo, plasty
+- Většinou **izotropní**
+- **Nemají ostrou teplotu tání**
+
+---
+
+# 🧬 Polymery
+- Zvláštní skupina **amorfních látek organického původu**
+- Tvořeny **dlouhými makromolekulami**, které vytvářejí **sítě**
+- Přehled:
+    - kaučuk
+    - celulóza
+    - bavlna
+    - bílkoviny
+    - celofán
+    - termoplasty (např. PVC)
+    - polyepoxidové pryskyřice (např. lepidla)
