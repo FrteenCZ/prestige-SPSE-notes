@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Deformace pevného tělesa​"
             }
+          },
+          {
+            "id": "eb7c7c3609fcab71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/Struktura a vlastnosti pevných látek/Struktura a vlastnosti pevných látek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Struktura a vlastnosti pevných látek"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,10 +200,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da78bc5093fc20db",
+  "active": "eb7c7c3609fcab71",
   "lastOpenFiles": [
-    "FYZ/molekoule.md",
+    "FYZ/Struktura a vlastnosti pevných látek/Síla pružnosti. Normálové napětí​.md",
+    "FYZ/Struktura a vlastnosti pevných látek/Struktura a vlastnosti pevných látek.md",
     "FYZ/Struktura a vlastnosti pevných látek/Deformace pevného tělesa​.md",
+    "Images/Pasted image 20250422224115.png",
+    "FYZ/Molekulová fyzika a termodynamika/Struktura a vlastnosti plynů​.md",
+    "FYZ/Molekulová fyzika a termodynamika/Práce plynu.md",
+    "FYZ/Molekulová fyzika a termodynamika/Kruhový děj s ideálním plynem​.md",
+    "FYZ/Struktura a vlastnosti pevných látek/Krystalické a amorfní látky.md",
+    "FYZ/Struktura a vlastnosti pevných látek/Ideální krystalová mřížka a její poruchy​.md",
+    "FYZ/Struktura a vlastnosti pevných látek/Teplotní roztažnost.md",
+    "FYZ/molekoule.md",
     "Images/smyk.png",
     "Images/ohyb.png",
     "Images/krut.png",
@@ -205,28 +228,19 @@
     "Images/data",
     "Images/46_0.gif",
     "Images/48a.gif",
-    "FYZ/Struktura a vlastnosti pevných látek/Untitled.md",
-    "FYZ/Struktura a vlastnosti pevných látek/Ideální krystalová mřížka a její poruchy​.md",
     "img/Plane.md",
     "img",
-    "FYZ/Struktura a vlastnosti pevných látek/Teplotní roztažnost.md",
     "Images/Plane centered.svg",
     "Images/Volume centered.svg",
-    "Images/Volume centeredPlane centered.svg",
-    "FYZ/Struktura a vlastnosti pevných látek/Struktura a vlastnosti pevných látek.md",
-    "FYZ/Struktura a vlastnosti pevných látek/Krystalické a amorfní látky.md",
     "CH/Substituční deriváty karboxylových kyselin.md",
     "TEF/číslicová elektronika/číslicová elektronika.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Francis Scott Fitzgerald.md",
     "CH/Aminokyseliny.md",
-    "FYZ/Molekulová fyzika a termodynamika/Struktura a vlastnosti plynů​.md",
-    "FYZ/Molekulová fyzika a termodynamika/Kruhový děj s ideálním plynem​.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Jaroslav Seifert.md",
     "CH/Heterocykly.md",
     "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
     "TEF/polovodiče/DIODA.md",
     "TEF/číslicová elektronika/Boolean algebra.md",
-    "FYZ/Molekulová fyzika a termodynamika/Práce plynu.md",
     "CH/Ethery.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Romain Rolland.md",
     "FYZ/Molekulová fyzika a termodynamika/Pasted.md",
