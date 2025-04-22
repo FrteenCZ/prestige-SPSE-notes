@@ -1,0 +1,8 @@
+- básnik, novinář a překladatel, člen hnutí Devetsil, u zrodu poetismu, jediný český nositel Nobelovy. ceny za literaturu (1984)
+- 20. léta uznávaný představitel avantgardy, 1921 vstoupil do nově vznikající KSČ, 1929 podepsal Manifest sedmi (proti bolševizaci a gottwaldovskému vedení) a spolu s dalšími šesti spisovateli vyloučen, vyloučen i z Devětsilu, našel si svůj vlastní styl
+- v 50. letech se nebál kriticky vystoupit na sjezdu čs. spisovatelů, jeho tvorba vydávána až v 60. letech, 1969-70 předseda Svazu čs. spisovatelů
+- v 70. letech především v samizdatu, režim nevěděl, jak s nadaným básníkem naložit, nabízeli vydáváníjeho děl s tím, že nebude veřejně vystupovat
+- Seifert naopak jeden z prvních signatářů Charty 77
+- Nobelovu cenu za něj přebírala kvůli zdravotnímu
+- stavu dcera, v tisku jen malá zmínka
+- za dva roky zemřel

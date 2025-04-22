@@ -11,14 +11,15 @@
 	- jsou **izotropní** - ve všech směrech stejné vlastnosti
 - **Monokrystaly**
 	- rozložení částic se periodicky opkauje v celém krystalu - tzv. **dalekodosahové uspořádání**
-	- 
+	- některé mají pravidelný geometrický tvar​
+	- Př.: NaCl, křemen SiO$_{2}$, diamant​
+	- jsou většinou **anizotropní**​
 - **Amorfní látky**
-	- **krátkovodosahové** periodické uspořádání částic na vzdálenost cca 0,1 nm
+	- **krátkodosahové** periodické uspořádání částic na vzdálenost cca 0,1 nm
 	- Př.: pryskyřice, asfalt, vosk, sklo, plasty
 	- většinou jsou **izotropní**
 	- **nemají pevně dannou teplotu tání**
 - **Polymery**
 	- zvláštní skupinu amorfních látek organického původu
 	- **dlouhé makromolekuly vytvářejí sítě**
-	- Př.: kaučuk, celuóza, bavlna, bílkoviny, celofán
-	- 
+	- Př.: kaučuk, celulóza, bavlna, bílkoviny​ celofán, termoplasty (PVC), polyepoxidové pryskyřice (lepidla) ​

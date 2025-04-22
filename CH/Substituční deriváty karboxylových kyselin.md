@@ -31,18 +31,18 @@
 	- Bezbarvá krystalická látka
 	- Používá se při výrobě plastů
 - **Fosgen**
-	  - Jedovatý derivát oxo-kyselin
+	- Jedovatý derivát oxo-kyselin
 - **Kyselina mléčná**
-	  - Produkt mléčného kvašení cukrů
-	  - Vyskytuje se jako pravotočivá i levotočivá forma
+	- Produkt mléčného kvašení cukrů
+	- Vyskytuje se jako pravotočivá i levotočivá forma
 - **Kyselina jablečná**
-	  - Přítomná v nezralém ovoci
+	- Přítomná v nezralém ovoci
 - **Kyselina citrónová**
-	  - V citrusových plodech
-	  - Důležitá součást Krebsova cyklu
+	- V citrusových plodech
+	- Důležitá součást Krebsova cyklu
 - **Kyselina salicylová**
-	  - Používá se v léčivech
-	  - Derivát: **aspirin**
+	- Používá se v léčivech
+	- Derivát: **aspirin**
 
 ---
 
@@ -54,9 +54,9 @@
 
 ## 🧑‍🔬 Zástupci
 - **Kyselina pyrohroznová** (α-oxopropionová)
-	  - Produkt glykolýzy
-	  - Ostrý zápach
+	- Produkt glykolýzy
+	- Ostrý zápach
 - **Kyselina oxaloctová**
-	  - Meziprodukt v Krebsově cyklu
+	- Meziprodukt v Krebsově cyklu
 - **Kyselina α-ketoglutarová**
-	  - Další klíčový meziprodukt Krebsova cyklu
+	- Další klíčový meziprodukt Krebsova cyklu
