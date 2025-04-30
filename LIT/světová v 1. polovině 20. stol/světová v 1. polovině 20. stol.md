@@ -55,3 +55,4 @@
 - [[Jiří Wolker]]
 - [[Vítězslav Nezval]]
 - [[Jaroslav Seifert]]
+- [[František Halas]]

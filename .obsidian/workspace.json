@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEF/číslicová elektronika/Vyjádření logické funkce.md",
+                "file": "FYZ/Struktura a vlastnosti pevných látek/Síla pružnosti. Normálové napětí​.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vyjádření logické funkce"
+              "title": "Síla pružnosti. Normálové napětí​"
+            }
+          },
+          {
+            "id": "6ba444c6646d1ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/Struktura a vlastnosti pevných látek/Křivka deformace – Hookův zákon​.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Křivka deformace – Hookův zákon​"
+            }
+          },
+          {
+            "id": "072cac41f333c196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIT/světová v 1. polovině 20. stol/Autoři/Jaroslav Seifert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jaroslav Seifert"
+            }
+          },
+          {
+            "id": "d24c13366e0d98c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "a7fdb3228c7f6fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAT/Kružnice.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kružnice"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,14 +228,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "349dffccece62224",
+  "active": "a9f09e85acfde163",
   "lastOpenFiles": [
-    "TEF/číslicová elektronika/Boolean algebra.md",
+    "README.md",
+    "MAT/Kružnice.md",
+    "FYZ/Struktura a vlastnosti kapalin/Povrchová vrstva. Povrchová síla. Povrchové napětí.md",
+    "MAT",
+    "LIT/světová v 1. polovině 20. stol/Autoři/František Halas.md",
+    "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Jaroslav Seifert.md",
+    "FYZ/Struktura a vlastnosti pevných látek/Křivka deformace – Hookův zákon​.md",
+    "FYZ/Struktura a vlastnosti kapalin",
+    "Images/Pasted image 20250425122602.png",
+    "FYZ/Struktura a vlastnosti pevných látek/Síla pružnosti. Normálové napětí​.md",
+    "Images/Pasted image 20250425122431.png",
     "TEF/číslicová elektronika/Vyjádření logické funkce.md",
+    "TEF/číslicová elektronika/Boolean algebra.md",
     "TEF/číslicová elektronika/i.md",
     "FYZ/Struktura a vlastnosti pevných látek/Ideální krystalová mřížka a její poruchy​.md",
     "FYZ/Struktura a vlastnosti pevných látek/Deformace pevného tělesa​.md",
-    "FYZ/Struktura a vlastnosti pevných látek/Síla pružnosti. Normálové napětí​.md",
     "FYZ/Struktura a vlastnosti pevných látek/Struktura a vlastnosti pevných látek.md",
     "Images/Pasted image 20250422224115.png",
     "FYZ/Molekulová fyzika a termodynamika/Struktura a vlastnosti plynů​.md",
@@ -203,22 +271,11 @@
     "Images/46_0.gif",
     "Images/48a.gif",
     "img/Plane.md",
-    "img",
-    "Images/Plane centered.svg",
-    "Images/Volume centered.svg",
     "CH/Substituční deriváty karboxylových kyselin.md",
     "TEF/číslicová elektronika/číslicová elektronika.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Francis Scott Fitzgerald.md",
     "CH/Aminokyseliny.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Jaroslav Seifert.md",
     "CH/Heterocykly.md",
-    "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
-    "TEF/polovodiče/DIODA.md",
-    "CH/Ethery.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Romain Rolland.md",
-    "FYZ/Molekulová fyzika a termodynamika/Pasted.md",
-    "TEF/veličiny/IMPEDANCE.md",
-    "FYZ/Molekulová fyzika a termodynamika",
     "Untitled.canvas"
   ]
 }
