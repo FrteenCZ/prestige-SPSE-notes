@@ -1,27 +1,41 @@
-# Struktura kapalin
-- Struktura podobná amorfním látkám 
-- **Částice po dobu cca 1 ns kmitají kolem rovnovážné polohy**
-- Střední vzdálenosti molekul srovnatelné s pevnými látkami – velké přitažlivé síly
-# Povrchová vrstva
-- chová se jako tenká pružná blána 
-- dokáže udržet i tělesa o vyšší hustotě 
-- sféra molekulového působení: koule o rm ≈ 1 nm 
-- Povrchová vrstva: tvořena molekulami, jejichž vzdálenost od volného povrchu kapaliny je < rm 
-- povrchová energie – kapky mají kulový tvar – pro daný objem má koule nejmenší povrch ze všech těles
-# Povrchová síla – $F_{p}$
-- tíhová síla závaží je v rovnováze se 2 povrchovými silami blány 
-- síla leží v povrchu kapaliny 
-- blána má **dva povrchy**
+# 🔬 Struktura kapalin
+- Struktura podobná **amorfním látkám**
+- Molekuly **kmitají kolem rovnovážné polohy** po dobu cca **1 ns**
+- Střední vzdálenosti molekul jsou srovnatelné s pevnými látkami → **silné přitažlivé síly**
+
+---
+
+# 🧼 Povrchová vrstva
+- Chová se jako **tenká pružná blána**
+- Dokáže **udržet i tělesa s větší hustotou** než kapalina
+- **Sféra molekulového působení**: koule o poloměru $r_m ≈ 1\, \text{nm}$
+- Povrchová vrstva: molekuly **blízko volného povrchu**, tj. ve vzdálenosti $< r_m$
+- **Povrchová energie** – kapky mají **kulový tvar**, protože koule má pro daný objem nejmenší možný povrch
+![[Pasted image 20250430190021.png]]
+
+---
+
+# 💪 Povrchová síla – $F_{p}$
+- Síla působící **v rovině povrchu kapaliny**
+- Např. u blány: **tíhová síla závaží v rovnováze se dvěma povrchovými silami**
+- Blána má **dva povrchy** (vnější a vnitřní)
+
 $$
-F_{G}=2F_{p}
+F_G = 2F_p
 $$
-# Povrchové napětí – $\sigma_{p}$
-- skalární veličina 
-- \[$\sigma_{p}$ ] = N ∙ m−1 
-- závisí na druhu kapaliny voda-vzduch: 73 mN/m, voda-parafín: 38 mN/m, líh-vzduch: 22 mN/m 
-- s rostoucí teplotou klesá 
-- $F$ – povrchová síla 
-- $l$ – délka okraje povrchové blány
+
+---
+
+# 🧪 Povrchové napětí – $\sigma$
+- **Skalární veličina**, udává sílu působící na jednotku délky okraje povrchu
+- Značka: $\sigma$  Jednotka: [N·m⁻¹]
+
 $$
-\sigma=\frac{F}{l}
+\sigma = \frac{F}{l}
 $$
+
+- Závisí na **druhu kapaliny** a **teplotě**
+    - voda–vzduch: **73 mN/m**
+    - voda–parafín: **38 mN/m**
+    - líh–vzduch: **22 mN/m**
+- **S rostoucí teplotou** povrchové napětí **klesá**

@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAT/Kružnice.md",
+                "file": "FYZ/Struktura a vlastnosti kapalin/Povrchová vrstva. Povrchová síla. Povrchové napětí.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kružnice"
+              "title": "Povrchová vrstva. Povrchová síla. Povrchové napětí"
             }
           }
         ],
@@ -228,11 +228,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9f09e85acfde163",
+  "active": "a7fdb3228c7f6fb4",
   "lastOpenFiles": [
-    "README.md",
-    "MAT/Kružnice.md",
+    "FYZ/Molekulová fyzika a termodynamika/Kruhový děj s ideálním plynem​.md",
     "FYZ/Struktura a vlastnosti kapalin/Povrchová vrstva. Povrchová síla. Povrchové napětí.md",
+    "Images/Pasted image 20250430190021.png",
+    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
+    "MAT/Kružnice.md",
+    "README.md",
     "MAT",
     "LIT/světová v 1. polovině 20. stol/Autoři/František Halas.md",
     "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
@@ -242,7 +245,6 @@
     "Images/Pasted image 20250425122602.png",
     "FYZ/Struktura a vlastnosti pevných látek/Síla pružnosti. Normálové napětí​.md",
     "Images/Pasted image 20250425122431.png",
-    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
     "TEF/číslicová elektronika/Boolean algebra.md",
     "TEF/číslicová elektronika/i.md",
     "FYZ/Struktura a vlastnosti pevných látek/Ideální krystalová mřížka a její poruchy​.md",
@@ -251,7 +253,6 @@
     "Images/Pasted image 20250422224115.png",
     "FYZ/Molekulová fyzika a termodynamika/Struktura a vlastnosti plynů​.md",
     "FYZ/Molekulová fyzika a termodynamika/Práce plynu.md",
-    "FYZ/Molekulová fyzika a termodynamika/Kruhový děj s ideálním plynem​.md",
     "FYZ/Struktura a vlastnosti pevných látek/Krystalické a amorfní látky.md",
     "FYZ/Struktura a vlastnosti pevných látek/Teplotní roztažnost.md",
     "FYZ/molekoule.md",
@@ -269,13 +270,11 @@
     "Images/data2",
     "Images/data",
     "Images/46_0.gif",
-    "Images/48a.gif",
     "img/Plane.md",
     "CH/Substituční deriváty karboxylových kyselin.md",
     "TEF/číslicová elektronika/číslicová elektronika.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Francis Scott Fitzgerald.md",
     "CH/Aminokyseliny.md",
-    "CH/Heterocykly.md",
     "Untitled.canvas"
   ]
 }
