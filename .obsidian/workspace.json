@@ -4,35 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "3f91be2bc706676f",
+        "id": "696bc5daaf35d8bc",
         "type": "tabs",
         "children": [
           {
-            "id": "4a284a161b1d015e",
+            "id": "8441d5c0da627ad0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYZ/Struktura a vlastnosti pevných látek/Křivka deformace – Hookův zákon​.md",
+                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Povrchová vrstva. Povrchová síla. Povrchové napětí.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Křivka deformace – Hookův zákon​"
+              "title": "Povrchová vrstva. Povrchová síla. Povrchové napětí"
             }
           },
           {
-            "id": "accb7dd3916d6194",
+            "id": "3374046f5f54b055",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYZ/Struktura a vlastnosti pevných látek/Teplotní roztažnost pevných látek.md",
+                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti plynů/📃Struktura a vlastnosti plynů.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teplotní roztažnost pevných látek"
+              "title": "📃Struktura a vlastnosti plynů"
+            }
+          },
+          {
+            "id": "73031d64e08d9381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti plynů/Práce plynu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Práce plynu"
             }
           }
         ],
@@ -55,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -109,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti plynů/📃Struktura a vlastnosti plynů.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 📃Struktura a vlastnosti plynů"
             }
           },
           {
@@ -127,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti plynů/📃Struktura a vlastnosti plynů.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 📃Struktura a vlastnosti plynů"
             }
           },
           {
@@ -186,20 +202,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "accb7dd3916d6194",
+  "active": "a9f09e85acfde163",
   "lastOpenFiles": [
-    "FYZ/Struktura a vlastnosti pevných látek/Křivka deformace – Hookův zákon​.md",
-    "FYZ/Struktura a vlastnosti pevných látek/Teplotní roztažnost pevných látek.md",
-    "FYZ/Struktura a vlastnosti kapalin/Povrchová vrstva. Povrchová síla. Povrchové napětí.md",
-    "FYZ/Molekulová fyzika a termodynamika/Struktura a vlastnosti plynů​.md",
-    "FYZ/Molekulová fyzika a termodynamika/Kruhový děj s ideálním plynem​.md",
-    "FYZ/Struktura a vlastnosti pevných látek/Struktura a vlastnosti pevných látek.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti plynů/Ideální plyn, Střední kvadratická rychlost, Tlak plynu. Stavová rovnice IP, Děje s IP.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti plynů/📃Struktura a vlastnosti plynů.md",
+    "FYZ/📃FYZ.md",
+    "FYZ/molekoule.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN",
+    "CH/Aldehydy a ketony.md",
+    "Images/sivka_char_jadro.md",
+    "Images/Pasted image 20250220082805.png",
+    "Images/Pasted image 20250220083008.png",
+    "Images/Pasted image 20250407220833.png",
+    "Images/Pasted image 20250410104245.png",
+    "Images/Pasted image 20250407221924.png",
+    "Images/Pasted image 20250407221118.png",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/📃Struktura a vlastnosti kapalin.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Povrchová vrstva. Povrchová síla. Povrchové napětí.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti plynů/Kruhový děj s ideálním plynem​.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti plynů/Práce plynu.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/📃Struktura a vlastnosti pevných látek.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/Křivka deformace – Hookův zákon​.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/Krystalické a amorfní látky.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/Teplotní roztažnost pevných látek.md",
     "FYZ/Struktura a vlastnosti pevných látek/Teplotní roztažnost.md",
-    "FYZ/Struktura a vlastnosti pevných látek/Deformace pevného tělesa​.md",
-    "FYZ/Struktura a vlastnosti pevných látek/Ideální krystalová mřížka a její poruchy​.md",
-    "FYZ/Struktura a vlastnosti pevných látek/Síla pružnosti. Normálové napětí​.md",
-    "FYZ/Struktura a vlastnosti pevných látek/Krystalické a amorfní látky.md",
-    "FYZ/Molekulová fyzika a termodynamika/Práce plynu.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/Síla pružnosti. Normálové napětí​.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/Deformace pevného tělesa​.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/Ideální krystalová mřížka a její poruchy​.md",
+    "FYZ/Struktura a vlastnosti pevných látek/Struktura a vlastnosti pevných látek.md",
     "MAT/Kružnice.md",
     "Images/cricle_line_types.svg",
     "README.md",
@@ -211,29 +241,14 @@
     "MAT",
     "LIT/světová v 1. polovině 20. stol/Autoři/František Halas.md",
     "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
-    "FYZ/Struktura a vlastnosti kapalin",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin",
     "Images/Pasted image 20250425122602.png",
-    "Images/Pasted image 20250425122431.png",
-    "TEF/číslicová elektronika/Boolean algebra.md",
-    "TEF/číslicová elektronika/i.md",
-    "Images/Pasted image 20250422224115.png",
-    "FYZ/molekoule.md",
-    "Images/smyk.png",
-    "Images/ohyb.png",
-    "Images/krut.png",
-    "Images/tlak.png",
     "Images/tah",
     "Images/tah.img",
     "Images/krut",
     "Images/smyk",
     "Images/ohyb",
     "Images/tlak",
-    "Images/data2",
-    "img/Plane.md",
-    "CH/Substituční deriváty karboxylových kyselin.md",
-    "TEF/číslicová elektronika/číslicová elektronika.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Francis Scott Fitzgerald.md",
-    "CH/Aminokyseliny.md",
     "Untitled.canvas"
   ]
 }
