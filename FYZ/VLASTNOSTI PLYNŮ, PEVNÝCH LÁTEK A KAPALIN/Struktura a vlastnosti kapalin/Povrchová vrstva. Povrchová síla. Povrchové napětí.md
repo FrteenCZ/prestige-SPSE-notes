@@ -20,10 +20,6 @@
 - Např. u blány: **tíhová síla závaží v rovnováze se dvěma povrchovými silami**
 - Blána má **dva povrchy** (vnější a vnitřní)
 
-$$
-F_G = 2F_p
-$$
-
 ---
 
 # 🧪 Povrchové napětí – $\sigma$
