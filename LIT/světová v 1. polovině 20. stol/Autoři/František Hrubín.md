@@ -1,20 +1,41 @@
-- básnik, prozaik, dramatik, tvůrce dětské poezie, překladatel francouzské poezie
--  dětství je spojeno s Posázavím (Lešany) → příroda častým tématem
-- po 2. sv v. spisovatel z povolání
-- podíl na zakládání časopisu Mateřídouška
-- v 50. letech veřejná kritika spojení politiky a literatury (spolu se Seifertem)→ částečný zákaz psaní tvorba hlavně pro děti
-- jasný a srozumitelný jazyk, vztah k rodnému kraji
-- bás, sb. **Zpíváno z dálky** milostná a přírodní lyrika
-- bás. sb. **Krásná po chudobě** přírodní lyrika 
-- bás. sb. **Země po polednách** bohaté na metafory a protiklad zamýšlení nad lidským osudem
-- 40. léta - spirituální bás. sb. **Včelí plást**, **Země sudička**, **Cikády**
-- po válce bás. sb. **Chléb s oceli - oslava osvobození
-- pětidílná poema určená k recitaci **Jobova noc**
-- lyricko-epická skladba **Hirošima** - varování před hrozbou atomové bomby
-- lyrická hra **Srpnová neděle**
-- tvorba pro děti: **Špalíček veršů a pohádek**, **Řikejte si se mnou**
-- lyricko-epická básnícká povídka **Romance pro křídlovku** (***v maturitní četbé***) volný verš, ich-forma, různé časová roviny, metoda montáže, téma chlapecké lásky, dědečkovy smrti (zfilmováno Otakarem Vávrou)
-	- mladý František (autobiografické prvky) jezdí do Posázavi k dědečkovi, stará se o něj
-	- je zamilovaný do dívky Teriny od kolotočů, udržuje i intimnívztah s prsatou Tonkou
-	- v příběhu vystupuje těž Viktor od kolotočů, hraje na trubku
-	- dědeček umírá, ten rok Terina s kolotoči nepřijede, umira
+# 👤 Základní informace
+- český **básník, prozaik, dramatik**, autor **dětské poezie** a **překladatel francouzské poezie**
+- dětství spojeno s **Posázavím (Lešany)** → častý motiv **přírody**
+- po 2. světové válce: **spisovatel z povolání**
+- podílel se na **založení časopisu Mateřídouška**
+- v 50. letech **kritika propojení politiky a literatury** (spolu se **Seifertem**) → částečný zákaz publikace, tvorba zaměřená na děti
+- styl: **jasný, srozumitelný jazyk**, láska k rodnému kraji
+
+# 📚 Významná díla
+
+## 📖 Lyrika
+- **Zpíváno z dálky** – milostná a přírodní lyrika  
+- **Krásná po chudobě** – přírodní lyrika  
+- **Země po polednách** – bohatá na metafory, protiklady, úvahy o lidském osudu  
+- 40. léta:
+    - **Včelí plást**
+    - **Země sudička**
+    - **Cikády** – spirituální poezie
+- **Chléb s ocelí** – po válce, oslava osvobození  
+- **Jobova noc** – pětidílná poema určená k recitaci  
+- **Hirošima** – lyricko-epická skladba, varování před jadernou válkou  
+
+## 🎭 Drama
+- **Srpnová neděle** – lyrická hra  
+
+## 🧒 Tvorba pro děti
+- **Špalíček veršů a pohádek**  
+- **Říkejte si se mnou**
+
+# 🌹 *Romance pro křídlovku* (maturitní četba)
+- **lyricko-epická básnická povídka**
+- psáno **volným veršem**, **ich-forma**, metoda **montáže**, střídání **časových rovin**
+- **téma:** chlapecká láska, smrt dědečka, pomíjivost
+
+## 📜 Děj:
+- mladý **František** (autobiografické prvky) jezdí k dědečkovi do **Posázaví**
+- zamiluje se do **Teriny** od kolotočů, zároveň má intimní vztah s **Tonkou**
+- v příběhu vystupuje také **Viktor** – hraje na trubku
+- dědeček umírá, Terina už nepřijíždí → **zemře**
+
+🎬 *Zfilmováno* Otakarem Vávrou

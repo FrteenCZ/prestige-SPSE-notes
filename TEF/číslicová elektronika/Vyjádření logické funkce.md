@@ -59,13 +59,37 @@ Y_{3}=&\overline{A}\cdot\overline{B}\cdot\overline{C}+\overline{A}\cdot\overline
 |      5      | 1<br> |  0  |  1  | \|  |    0    |   0   |   0   |
 |      6      |   1   |  1  |  0  | \|  |    0    |   1   |   0   |
 |      7      |   1   |  1  |  1  | \|  |    1    |   0   |   1   |
-	 $$
+$$
  \begin{align}
 Y_{1}=& (A+B+C)\cdot(A+B+\overline{C})\cdot(A+\overline{B}+C)\cdot(\overline{A}+B+\overline{C})\cdot(\overline{A}+\overline{B}+C)\\
 Y_{2}=& (A+\overline{B}+C)\cdot(A+\overline{B}+\overline{C})\cdot(\overline{A}+B+C)\cdot(\overline{A}+B+\overline{C})\cdot(\overline{A}+\overline{B}+\overline{C})\\
 Y_{3}=& (A+\overline{B}+C)\cdot(\overline{A}+B+C)\cdot(\overline{A}+B+\overline{C})\cdot(\overline{A}+\overline{B}+C)
 \end{align}
  $$
-4) Grayův kód
-	
+4) Grayův kód (zajímavost)
+	kód, v němž se sousední datová slova liší jen v 1 bitu
+	**konstrukce**
+	- 1 bit
+		- 0, 1
+	- 2 bit
+		- 00, 01, 11, 10
+	- 3 bit 
+		- 000, 001, 011, 010, 110, 111, 101, 100 
+
 5) Karnaghova mapa
+	- pro 2 vstupní proměnou
+
+| ř.  | $x_{1}$ | $x_{0}$ | Y   |
+| --- | ------- | ------- | --- |
+| 0   | 0       | 0       | 0   |
+| 1   | 0       | 1       | 1   |
+| 2   | 1       | 0       | 1   |
+| 3   | 1       | 1       | 0   |
+
+| 00  | 01  |
+| --- | --- |
+| 10  | 11  |
+
+| 0   | 1   |
+| --- | --- |
+| 1   | 0   |
