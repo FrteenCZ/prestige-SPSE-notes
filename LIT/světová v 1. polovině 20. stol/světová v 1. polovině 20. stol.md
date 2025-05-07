@@ -56,3 +56,5 @@
 - [[Vítězslav Nezval]]
 - [[Jaroslav Seifert]]
 - [[František Halas]]
+- [[Vladimír Holan]]
+- [[František Hrubín]]
