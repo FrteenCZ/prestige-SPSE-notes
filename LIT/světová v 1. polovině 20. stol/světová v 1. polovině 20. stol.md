@@ -58,3 +58,7 @@
 - [[František Halas]]
 - [[Vladimír Holan]]
 - [[František Hrubín]]
+- **Katoličtí autoři**
+	- [[Jan Zahradníček]]
+	- [[Bohuslav Reynek]]
+- Jiří Orten

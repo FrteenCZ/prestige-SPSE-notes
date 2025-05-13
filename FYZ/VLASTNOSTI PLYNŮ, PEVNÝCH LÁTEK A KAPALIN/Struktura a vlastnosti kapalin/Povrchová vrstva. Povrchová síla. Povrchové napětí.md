@@ -29,7 +29,8 @@
 $$
 \sigma = \frac{F}{l}
 $$
-
+- $F$ – povrchová síla 
+- $l$ – délka okraje povrchové blány
 - Závisí na **druhu kapaliny** a **teplotě**
     - voda–vzduch: **73 mN/m**
     - voda–parafín: **38 mN/m**

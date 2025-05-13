@@ -20,6 +20,10 @@ $$
 ---
 
 # 🧮 Rovnice elipsy
+obecný tvar:
+$$
+ax^2+by^2+cx+dy+e=0
+$$
 
 ## ✅ Se středem v počátku:
 $$
@@ -37,6 +41,6 @@ $$
 $$
 a^2 = b^2 + e^2
 $$
-
-
-
+# 📐 Vzájemná poloha kružnice a přímky
+stejné jako u [[kružnice]]  
+→ **tečna**, **sečna**, **vnější**

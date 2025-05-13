@@ -12,5 +12,7 @@
 - Základní složka potravy
 - Riziko při **nadměrném příjmu** – ukládání tuku, inzulinová rezistence, zubní kaz
 
+# Monosacharidy
+![[Monosachidy]]
 # Polysacharidy
 ![[Polysacharidy]]

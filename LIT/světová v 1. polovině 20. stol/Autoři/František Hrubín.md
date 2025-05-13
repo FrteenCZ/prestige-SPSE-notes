@@ -27,7 +27,7 @@
 - **Špalíček veršů a pohádek**  
 - **Říkejte si se mnou**
 
-# 🌹 *Romance pro křídlovku* (maturitní četba)
+# 🎺 *Romance pro křídlovku* (maturitní četba)
 - **lyricko-epická básnická povídka**
 - psáno **volným veršem**, **ich-forma**, metoda **montáže**, střídání **časových rovin**
 - **téma:** chlapecká láska, smrt dědečka, pomíjivost
