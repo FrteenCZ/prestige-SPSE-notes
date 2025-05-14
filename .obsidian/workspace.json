@@ -69,16 +69,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CH/Terpeny 🌳.md",
+                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Kapilární jevy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terpeny 🌳"
+              "title": "Kapilární jevy"
+            }
+          },
+          {
+            "id": "47f89c9ccbe9554a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/📃Struktura a vlastnosti kapalin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📃Struktura a vlastnosti kapalin"
+            }
+          },
+          {
+            "id": "4265014e4cf40291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Teplotní objemová roztažnost kapalin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teplotní objemová roztažnost kapalin"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -151,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CH/Terpeny 🌳.md",
+                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Teplotní objemová roztažnost kapalin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terpeny 🌳"
+              "title": "Backlinks for Teplotní objemová roztažnost kapalin"
             }
           },
           {
@@ -170,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CH/Terpeny 🌳.md",
+                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Teplotní objemová roztažnost kapalin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Terpeny 🌳"
+              "title": "Outgoing links from Teplotní objemová roztažnost kapalin"
             }
           },
           {
@@ -230,54 +258,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7791e0f75af6e26d",
+  "active": "4265014e4cf40291",
   "lastOpenFiles": [
-    "CH/Substituční deriváty karboxylových kyselin.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Styk kapaliny se stěnou nádoby.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Teplotní objemová roztažnost kapalin.md",
+    "Images/Pasted image 20250514083035.png",
+    "Images/Pasted image 20250514082850.png",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/📃Struktura a vlastnosti kapalin.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Kapilární jevy.md",
+    "CH/Ethery.md",
     "CH/Terpeny 🌳.md",
-    "Images/Pasted image 20250513195730.png",
+    "input_image.png",
+    "image.png",
+    "venv/bin/rembg",
+    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/top_level.txt",
+    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/entry_points.txt",
+    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/WHEEL",
+    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/REQUESTED",
+    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/RECORD",
+    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/LICENSE.txt",
+    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/METADATA",
+    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/INSTALLER",
+    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info",
+    "venv/lib/python3.13/site-packages/pooch-1.8.2.dist-info/AUTHORS.md",
+    "venv/lib/python3.13/site-packages/PyMatting-1.1.13.dist-info/LICENSE.md",
+    "venv/lib/python3.13/site-packages/skimage/data/text.png",
+    "venv/lib/python3.13/site-packages/skimage/data/rocket.jpg",
+    "venv/lib/python3.13/site-packages/skimage/data/retina.jpg",
+    "venv/lib/python3.13/site-packages/skimage/data/phantom.png",
+    "venv/lib/python3.13/site-packages/skimage/data/page.png",
+    "venv/lib/python3.13/site-packages/skimage/data/no_time_for_that_tiny.gif",
+    "venv/lib/python3.13/site-packages/lazy_loader-0.4.dist-info/LICENSE.md",
+    "venv/lib/python3.13/site-packages/scipy/fft/_pocketfft/LICENSE.md",
+    "venv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
+    "venv/lib/python3.13/site-packages/numpy/random/LICENSE.md",
+    "LIT/Česká literaura 2.pol. 19. stol/Ruchovci/Svatopluk Čech.md",
+    "LIT/Česká literaura 2.pol. 19. stol/Ruchovci/Ruchovci.md",
+    "LIT/Česká literaura 2.pol. 19. stol/Ruchovci/Eliška Krásnohorská.md",
+    "LIT/Česká literaura 2.pol. 19. stol/Májovci/Karolina Světlá.md",
+    "LIT/Česká literaura 2.pol. 19. stol/Májovci/Jan Neruda.md",
+    "LIT/Česká literaura 2.pol. 19. stol/Májovci/Jakub Arbes.md",
+    "LIT/Česká literaura 2.pol. 19. stol/Lumírovci/Lumírovci.md",
+    "LIT/Česká literaura 2.pol. 19. stol/Lumírovci/Julius Zeyer.md",
+    "LIT/Česká literaura 2.pol. 19. stol/Lumírovci/Josef Václav Sládek.md",
+    "LIT/Česká literaura 2.pol. 19. stol/Lumírovci/Jaroslav Vrchlický.md",
+    "CH/Substituční deriváty karboxylových kyselin.md",
     "CH/Aldehydy a ketony.md",
     "CH/Alkoholy.md",
-    "CH/Ethery.md",
     "CH/Monosachidy.md",
-    "CH/Polysacharidy.md",
-    "CH/Sacharidy (glycidy).md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Kapilární jevy.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Styk kapaliny se stěnou nádoby.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Povrchová vrstva. Povrchová síla. Povrchové napětí.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Kapilární jevy v praxi.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/📃Struktura a vlastnosti kapalin.md",
-    "FYZ/📃FYZ.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/📃Struktura a vlastnosti pevných látek.md",
-    "MAT/Elipsa.md",
-    "MAT/Kružnice.md",
-    "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Jan Zahradníček.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Bohuslav Reynek.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Vladimír Holan.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/František Hrubín.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/Teplotní roztažnost pevných látek.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/Křivka deformace – Hookův zákon​.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/Síla pružnosti. Normálové napětí​.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti pevných látek/Deformace pevného tělesa​.md",
-    "Images/Pasted image 20250507102511.png",
-    "Images/Pasted image 20250507102455.png",
-    "Images/Pasted image 20250507084630.png",
-    "Images/Pasted image 20250507084518.png",
-    "Images/Pasted image 20250507083845.png",
-    "Images/Pasted image 20250507083710.png",
-    "Images/Pasted image 20250507082726.png",
-    "Images/Pasted image 20250507082014.png",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN",
-    "Images/Pasted image 20250220082805.png",
-    "Images/circle.txt",
-    "MAT",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin",
-    "Images/tah",
-    "Images/tah.img",
-    "Images/krut",
-    "Images/smyk",
-    "Images/ohyb",
-    "Images/tlak",
     "Untitled.canvas"
   ]
 }
