@@ -11,10 +11,14 @@
             "id": "416eadff32c8a24a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MAT/Hyperbola.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hyperbola"
             }
           }
         ]
@@ -159,20 +163,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e232afcdb0e18de0",
+  "active": "416eadff32c8a24a",
   "lastOpenFiles": [
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/3 Sublimace a desublimace.md",
+    "MAT/Elipsa.md",
+    "MAT/Hyperbola.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/4 Vypařování, var a kondenzace.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/3 Sublimace a desublimace.md",
     "Images/Pasted image 20250602113919.png",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/2 Tání a tuhnutí.md",
     "Images/Pasted image 20250602112914.png",
@@ -191,8 +197,6 @@
     "LIT/světová v 1. polovině 20. stol/Autoři/Jaroslav Seifert.md",
     "Untitled.md",
     "README.md",
-    "MAT/Hyperbola.md",
-    "MAT/Elipsa.md",
     "MAT/Kružnice.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/Kapilární jevy.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/Kapilární jevy v praxi.md",

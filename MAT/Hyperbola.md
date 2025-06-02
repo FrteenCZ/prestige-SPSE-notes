@@ -70,3 +70,12 @@ $$
 - $a = 4$
 - $b = 3$
 - $e = 5$ (protože $e^2 = 4^2 + 3^2 = 25$)
+
+# asymptoty
+$$y=\pm\frac{b}{a}x$$
+# vzájemná poloha s přímkou
+- kvadratická rovnice
+	- D = 0 - tečna
+	- D > 0 - sečna
+	- D < 0 - vnější pří
+
