@@ -4,151 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "83d0a643aee8df6f",
+        "id": "a94d8c120ed32487",
         "type": "tabs",
         "children": [
           {
-            "id": "bfe7fed52950b9c1",
+            "id": "294567185c27e624",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/světová v 1. polovině 20. stol/Autoři/Vladimír Holan.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vladimír Holan"
-            }
-          },
-          {
-            "id": "9135f22d3d2e1454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/světová v 1. polovině 20. stol/Autoři/Bohuslav Reynek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bohuslav Reynek"
-            }
-          },
-          {
-            "id": "9302002307550f86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CH/Sacharidy (glycidy).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sacharidy (glycidy)"
-            }
-          },
-          {
-            "id": "5937cc3956ef0b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CH/Monosachidy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Monosachidy"
-            }
-          },
-          {
-            "id": "7791e0f75af6e26d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Kapilární jevy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kapilární jevy"
-            }
-          },
-          {
-            "id": "47f89c9ccbe9554a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/📃Struktura a vlastnosti kapalin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📃Struktura a vlastnosti kapalin"
-            }
-          },
-          {
-            "id": "4265014e4cf40291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CH/Substituční deriváty karboxylových kyselin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Substituční deriváty karboxylových kyselin"
-            }
-          },
-          {
-            "id": "d4429e4db318335c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CH/Steroidy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Steroidy"
-            }
-          },
-          {
-            "id": "3c2aa5ce8bb0f5a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CH/Enzymy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enzymy"
-            }
-          },
-          {
-            "id": "c6879b01ca1e0136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CH/Bílkoviny (Proteiny).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bílkoviny (Proteiny)"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CH/Bílkoviny (Proteiny).md",
+                "file": "MAT/Hyperbola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bílkoviny (Proteiny)"
+              "title": "Backlinks for Hyperbola"
             }
           },
           {
@@ -240,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CH/Bílkoviny (Proteiny).md",
+                "file": "MAT/Hyperbola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bílkoviny (Proteiny)"
+              "title": "Outgoing links from Hyperbola"
             }
           },
           {
@@ -300,10 +169,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6879b01ca1e0136",
+  "active": "294567185c27e624",
   "lastOpenFiles": [
-    "CH/Enzymy.md",
+    "LIT/světová v 1. polovině 20. stol/Poetismus.md",
+    "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Jaroslav Seifert.md",
+    "Untitled.md",
+    "README.md",
+    "MAT/Hyperbola.md",
+    "MAT/Elipsa.md",
+    "MAT/Kružnice.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Kapilární jevy.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Kapilární jevy v praxi.md",
+    "Images/Pasted image 20250516100756.png",
     "CH/Bílkoviny (Proteiny).md",
+    "CH/Enzymy.md",
     "Images/Pasted image 20250515093648.png",
     "CH/Hormony.md",
     "CH/Aminokyseliny.md",
@@ -317,7 +197,6 @@
     "Images/Pasted image 20250514083035.png",
     "Images/Pasted image 20250514082850.png",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/📃Struktura a vlastnosti kapalin.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Kapilární jevy.md",
     "CH/Ethery.md",
     "CH/Terpeny 🌳.md",
     "input_image.png",
@@ -338,15 +217,6 @@
     "venv/lib/python3.13/site-packages/skimage/data/rocket.jpg",
     "venv/lib/python3.13/site-packages/skimage/data/retina.jpg",
     "venv/lib/python3.13/site-packages/skimage/data/phantom.png",
-    "venv/lib/python3.13/site-packages/skimage/data/page.png",
-    "venv/lib/python3.13/site-packages/lazy_loader-0.4.dist-info/LICENSE.md",
-    "venv/lib/python3.13/site-packages/scipy/fft/_pocketfft/LICENSE.md",
-    "venv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
-    "venv/lib/python3.13/site-packages/numpy/random/LICENSE.md",
-    "LIT/Česká literaura 2.pol. 19. stol/Ruchovci/Svatopluk Čech.md",
-    "LIT/Česká literaura 2.pol. 19. stol/Ruchovci/Ruchovci.md",
-    "LIT/Česká literaura 2.pol. 19. stol/Ruchovci/Eliška Krásnohorská.md",
-    "LIT/Česká literaura 2.pol. 19. stol/Májovci/Karolina Světlá.md",
     "Untitled.canvas"
   ]
 }
