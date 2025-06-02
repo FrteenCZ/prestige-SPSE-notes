@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a94d8c120ed32487",
+        "id": "4f0d93a34b0b1827",
         "type": "tabs",
         "children": [
           {
-            "id": "294567185c27e624",
+            "id": "416eadff32c8a24a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,8 +169,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "294567185c27e624",
+  "active": "e232afcdb0e18de0",
   "lastOpenFiles": [
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/3 Sublimace a desublimace.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/4 Vypařování, var a kondenzace.md",
+    "Images/Pasted image 20250602113919.png",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/2 Tání a tuhnutí.md",
+    "Images/Pasted image 20250602112914.png",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/📃Změny skupenství.md",
+    "Images/Pasted image 20250602111838.png",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/1 Fázové přeměny.md",
+    "Images/Pasted image 20250602111124.png",
+    "Images/Pasted image 20250602110408.png",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/📃Struktura a vlastnosti kapalin.md",
+    "FYZ/📃FYZ.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/Teplotní objemová roztažnost kapalin.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/1. Struktura a vlastnosti pevných látek/Teplotní roztažnost pevných látek.md",
     "LIT/světová v 1. polovině 20. stol/Poetismus.md",
     "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Jaroslav Seifert.md",
@@ -179,8 +194,8 @@
     "MAT/Hyperbola.md",
     "MAT/Elipsa.md",
     "MAT/Kružnice.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Kapilární jevy.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Kapilární jevy v praxi.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/Kapilární jevy.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/Kapilární jevy v praxi.md",
     "Images/Pasted image 20250516100756.png",
     "CH/Bílkoviny (Proteiny).md",
     "CH/Enzymy.md",
@@ -189,18 +204,9 @@
     "CH/Aminokyseliny.md",
     "CH/[[Aminokyseliny]].md",
     "CH/Steroidy.md",
-    "CH/Substituční deriváty karboxylových kyselin.md",
-    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
-    "TEF/číslicová elektronika/Boolean algebra.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Teplotní objemová roztažnost kapalin.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/Styk kapaliny se stěnou nádoby.md",
     "Images/Pasted image 20250514083035.png",
     "Images/Pasted image 20250514082850.png",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/Struktura a vlastnosti kapalin/📃Struktura a vlastnosti kapalin.md",
-    "CH/Ethery.md",
-    "CH/Terpeny 🌳.md",
     "input_image.png",
-    "image.png",
     "venv/bin/rembg",
     "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/top_level.txt",
     "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/entry_points.txt",
@@ -210,13 +216,6 @@
     "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/LICENSE.txt",
     "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/METADATA",
     "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/INSTALLER",
-    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info",
-    "venv/lib/python3.13/site-packages/pooch-1.8.2.dist-info/AUTHORS.md",
-    "venv/lib/python3.13/site-packages/PyMatting-1.1.13.dist-info/LICENSE.md",
-    "venv/lib/python3.13/site-packages/skimage/data/text.png",
-    "venv/lib/python3.13/site-packages/skimage/data/rocket.jpg",
-    "venv/lib/python3.13/site-packages/skimage/data/retina.jpg",
-    "venv/lib/python3.13/site-packages/skimage/data/phantom.png",
     "Untitled.canvas"
   ]
 }

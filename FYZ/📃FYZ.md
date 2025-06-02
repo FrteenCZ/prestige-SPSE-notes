@@ -3,3 +3,4 @@
 - [[📃Struktura a vlastnosti plynů]]
 - [[📃Struktura a vlastnosti pevných látek]]
 - [[📃Struktura a vlastnosti kapalin]]
+- [[📃Změny skupenství]]
