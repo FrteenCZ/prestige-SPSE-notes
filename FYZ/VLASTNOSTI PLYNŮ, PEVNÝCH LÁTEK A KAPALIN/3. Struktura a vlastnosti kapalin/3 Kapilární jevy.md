@@ -3,14 +3,15 @@
 - **Kapilární deprese** – snížení hladiny kapaliny v kapiláře
 - Kapilarita vzniká kvůli **kapilárnímu tlaku**
 
+![[Pasted image 20250507083845.png]]
+
+
 ---
 
 # 🧪 Kapilární tlak – $p_k$
 - Vzniká **zakřivením povrchu** kapaliny (např. u stěn nádoby, v kapilárách, u kapek, bublin)
 - **Vypuklý povrch** → vnitřní tlak **je větší** o $p_k$
 - **Dutý povrch** → vnitřní tlak **je menší** o $p_k$
-
-![[Pasted image 20250507083845.png]]
 
 ## Vzorce:
 $$

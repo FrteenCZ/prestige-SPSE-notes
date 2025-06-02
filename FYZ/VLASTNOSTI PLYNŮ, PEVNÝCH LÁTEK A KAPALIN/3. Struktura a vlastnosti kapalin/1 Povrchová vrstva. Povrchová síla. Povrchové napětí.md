@@ -24,7 +24,7 @@
 
 # 🧪 Povrchové napětí – $\sigma$
 - **Skalární veličina**, udává sílu působící na jednotku délky okraje povrchu
-- Značka: $\sigma$  Jednotka: [N·m⁻¹]
+- Značka: $\sigma$  Jednotka: \[$\pu{ N*m-1}$]
 
 $$
 \sigma = \frac{F}{l}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/Deformace pevného tělesa​.md",
+                "file": "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/6 Teplotní objemová roztažnost kapalin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deformace pevného tělesa​"
+              "title": "6 Teplotní objemová roztažnost kapalin"
             }
           }
         ]
@@ -175,6 +175,18 @@
   },
   "active": "d5c508dcabbff66f",
   "lastOpenFiles": [
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/4 Kapilární jevy v praxi.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/3 Kapilární jevy.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/1 Povrchová vrstva. Povrchová síla. Povrchové napětí.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/2 Styk kapaliny se stěnou nádoby.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/5 Křivka deformace – Hookův zákon​.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/4 Síla pružnosti. Normálové napětí​.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/1 Krystalické a amorfní látky.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/6 Teplotní roztažnost pevných látek.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/3 Deformace pevného tělesa​.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/6 Teplotní objemová roztažnost kapalin.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/2 Ideální krystalová mřížka a její poruchy​.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/1. Struktura a vlastnosti plynů/Ideální plyn, Střední kvadratická rychlost, Tlak plynu. Stavová rovnice IP, Děje s IP.md",
     "FYZ/📃FYZ.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/📃Struktura a vlastnosti pevných látek.md",
     "venv/lib/python3.13/site-packages/pooch-1.8.2.dist-info/AUTHORS.md",
@@ -192,23 +204,11 @@
     "Images/Pasted image 20250602111124.png",
     "Images/Pasted image 20250602110408.png",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/📃Struktura a vlastnosti kapalin.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/Teplotní objemová roztažnost kapalin.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/Teplotní roztažnost pevných látek.md",
     "LIT/světová v 1. polovině 20. stol/Poetismus.md",
     "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Jaroslav Seifert.md",
-    "Untitled.md",
-    "README.md",
-    "MAT/Kružnice.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/Kapilární jevy.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/Kapilární jevy v praxi.md",
     "Images/Pasted image 20250516100756.png",
-    "CH/Bílkoviny (Proteiny).md",
-    "CH/Enzymy.md",
     "Images/Pasted image 20250515093648.png",
-    "CH/Hormony.md",
-    "CH/Aminokyseliny.md",
     "Images/Pasted image 20250514083035.png",
     "Images/Pasted image 20250514082850.png",
     "input_image.png",
