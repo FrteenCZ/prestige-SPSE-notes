@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9346c1f7e2cbc115",
+        "id": "23cfb73916361282",
         "type": "tabs",
         "children": [
           {
-            "id": "293b2b3bc8e9cbcb",
+            "id": "4f4be2ba8300d267",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "světová v 1. polovině 20. stol"
+              "title": "New tab"
             }
           }
         ]
@@ -173,15 +169,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "293b2b3bc8e9cbcb",
+  "active": "e232afcdb0e18de0",
   "lastOpenFiles": [
-    "README.md",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/meziválečná česká.md",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Orten.md",
     "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
+    "FYZ/📃FYZ.md",
+    "FYZ/molekoule.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/meziválečná česká.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Hašek.md",
+    "README.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Orten.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Jaroslav Seifert.md",
     "Images/Pasted image 20250603140738.png",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Hašek.md",
     "LIT/meziválečná česká/autoři/Josef Lada.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká",
@@ -197,13 +195,11 @@
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/1 Krystalické a amorfní látky.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/2 Ideální krystalová mřížka a její poruchy​.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/1. Struktura a vlastnosti plynů/Ideální plyn, Střední kvadratická rychlost, Tlak plynu. Stavová rovnice IP, Děje s IP.md",
-    "FYZ/📃FYZ.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/📃Struktura a vlastnosti pevných látek.md",
     "venv/lib/python3.13/site-packages/pooch-1.8.2.dist-info/AUTHORS.md",
     "Hormony.md",
     "MAT/Hyperbola.md",
     "MAT/Elipsa.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/4 Vypařování, var a kondenzace.md",
     "Images/Pasted image 20250602113919.png",
     "Images/Pasted image 20250602112914.png",
     "Images/Pasted image 20250602111838.png",

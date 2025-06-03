@@ -49,5 +49,4 @@
 
 # 🔗 Související témata
 - [[Josef Lada]]
-- [[světová v 1. polovině 20. stol]]
 - [[Satira]]

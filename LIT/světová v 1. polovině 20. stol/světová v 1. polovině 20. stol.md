@@ -35,6 +35,7 @@
 ---
 
 # 🕊️ Mezi světovými válkami
+[[meziválečná česká]]
 
 - Umělecká svoboda
 - Úleva po skončení války → **vitalismus**
