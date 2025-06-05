@@ -174,3 +174,17 @@ f(A,B,C,D) &&=&& B\cdot\overline{C} \cdot \overline{D}  && + && A\cdot \overline
 &&&& \mathrm{žlutá} &&&& \mathrm{fialová} &&&& \mathrm{modrá}
 \end{gathered}
 $$
+
+---
+
+1110
+0111
+0111
+1110
+
+$$
+\begin{align}
+Y_{D}&=A\cdot\overline{C}\cdot \overline{B} + C\cdot B \\
+Y_{D}&=\overline{C}
+\end{align}
+$$
