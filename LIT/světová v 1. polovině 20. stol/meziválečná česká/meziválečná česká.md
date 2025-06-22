@@ -8,3 +8,4 @@
 - zábavná literatura (J. Žák, Z. Jirotka)
 ## autoři
 - [[Jaroslav Hašek]]
+- [[Jaroslav Vančura]]

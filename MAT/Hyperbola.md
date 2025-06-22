@@ -1,4 +1,4 @@
-a![[Pasted image 20250516100756.png]]
+![[Pasted image 20250516100756.png]]
 
 
 - $a$ – hlavní poloosa

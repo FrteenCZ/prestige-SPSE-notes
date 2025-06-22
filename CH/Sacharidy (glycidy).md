@@ -60,5 +60,9 @@
 
 # Monosacharidy
 ![[Monosachidy]]
+
+# Disacharidy
+![[Disacharidy]]
+
 # Polysacharidy
 ![[Polysacharidy]]

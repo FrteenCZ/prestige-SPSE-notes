@@ -65,4 +65,5 @@
 - Vypařování = z povrchu, libovolná teplota  
 - Var = z celého objemu, při teplotě varu  
 - Kondenzace = opačný proces, uvolňuje teplo  
-- Leidenfrostův jev = odpařování s izolační parní vrstvou na velmi horkém povrchu
+- Leidenfrostův jev = odpařování s izolační parní vrstvou na velmi horkém lpovrchu
+
