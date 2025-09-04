@@ -9,3 +9,5 @@
 ## autoři
 - [[Jaroslav Hašek]]
 - [[Jaroslav Vančura]]
+- [[Ivan Olbracht]]
+- [[Jaroslav Havlíček]]

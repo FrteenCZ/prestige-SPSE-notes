@@ -1,7 +1,7 @@
 - spisovatel, dramatik, režisér, původním povoláním lékař
 - člen a první předseda Devětsilu, přivrženec poetismu, publikoval v mnoha časopisech (Kmen, Červen, Host
 - člen KSC, spolu se sedmi komunistickými spisovateli kritizujícími Gottwaldovo vedení ze strany vyloučen
-- za okupace vedl spisovatelskou sekci ilegálníadbojové skupiny 1942 zatčen gestapem a popraven
+- za okupace vedl spisovatelskou sekci ilegální a odbojové skupiny 1942 zatčen gestapem a popraven
 - uznávana osobnost doby první republiky
 - Častým hostem na schůzkách tex, pátečníků ve vile Karta Capka
 - **pátečnici** skupina osobností prvni republiky, která se schutzela v pátek ve vite Karia Capka na Vinohradech, např. T. G. Masaryk, Edvard Benes, Ferdinand Peroutia, Eduard Bass, Karel Poláček
