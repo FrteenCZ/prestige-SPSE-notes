@@ -17,3 +17,7 @@ r,s\in N ~~~ s>r \\
 a_{s}=a_{r}+(s-r)\cdot d
 \end{align}
 $$
+# součet n prvních členů
+$$
+s_{n}=\frac{n}{2}(a_{1}+a_{n})
+$$
