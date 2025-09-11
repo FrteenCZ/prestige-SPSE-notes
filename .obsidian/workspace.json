@@ -11,14 +11,14 @@
             "id": "0a409283c44107fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "FYZ/1. Světlo jako elektromagnetické vlnění.md",
-                "mode": "source",
-                "source": false
+                "aFile": "FYZ/1. Světlo jako elektromagnetické vlnění.md",
+                "bFile": "FYZ/1. Světlo jako elektromagnetické vlnění.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1. Světlo jako elektromagnetické vlnění"
+              "icon": "diff",
+              "title": "Diff: 1. Světlo jako elektromagnetické vlnění"
             }
           }
         ]
@@ -176,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a409283c44107fd",
+  "active": "a9f09e85acfde163",
   "lastOpenFiles": [
+    "FYZ/1. Světlo jako elektromagnetické vlnění.md",
     "FYZ/optika/1. Světlo jako elektromagnetické vlnění.md",
     "FYZ/optika/3. Odraz a lom světla.md",
     "MAT/Křivky/Elipsa.md",
@@ -192,7 +193,6 @@
     "FYZ/optika/📃optika.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/📃Struktura a vlastnosti pevných látek.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/1. Struktura a vlastnosti plynů/📃Struktura a vlastnosti plynů.md",
-    "FYZ/1. Světlo jako elektromagnetické vlnění.md",
     "Images/Pasted image 20250910144841.png",
     "MAT/Posloupnosti/Geometrická posloupnost.md",
     "FYZ/optika",
