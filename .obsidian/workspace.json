@@ -13,6 +13,76 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "LIT/světová v 1. polovině 20. stol/meziválečná česká/meziválečná česká.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "meziválečná česká"
+            }
+          },
+          {
+            "id": "6abfcd450afe4966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Havlíček.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jaroslav Havlíček"
+            }
+          },
+          {
+            "id": "12fcf2effc5d362f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Eduard Bass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eduard Bass"
+            }
+          },
+          {
+            "id": "b8e384bbeba4e270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/📃FYZ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📃FYZ"
+            }
+          },
+          {
+            "id": "d4d339692325682c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/optika/1. Světlo jako elektromagnetické vlnění.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Světlo jako elektromagnetické vlnění"
+            }
+          },
+          {
+            "id": "cef0c18e3efab119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "MAT/Posloupnosti/Aritmetická posloupnost.md",
                 "mode": "source",
                 "source": false
@@ -20,8 +90,51 @@
               "icon": "lucide-file",
               "title": "Aritmetická posloupnost"
             }
+          },
+          {
+            "id": "e212ea7b82d2f862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/optika/2. Základní vlastnosti světla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Základní vlastnosti světla"
+            }
+          },
+          {
+            "id": "b78b95e0ad5f55d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/optika/1. Světlo jako elektromagnetické vlnění.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Světlo jako elektromagnetické vlnění"
+            }
+          },
+          {
+            "id": "066e6b52a7c9e2a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/optika/3. Odraz a lom světla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Odraz a lom světla"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -176,36 +289,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f22ad778ee5ca630",
+  "active": "e232afcdb0e18de0",
   "lastOpenFiles": [
+    "FYZ/📃FYZ.md",
+    "FYZ/optika/📃optika.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/📃Struktura a vlastnosti pevných látek.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/1. Struktura a vlastnosti plynů/📃Struktura a vlastnosti plynů.md",
+    "FYZ/optika/1. Světlo jako elektromagnetické vlnění.md",
+    "FYZ/optika/3. Odraz a lom světla.md",
+    "FYZ/optika/2. Základní vlastnosti světla.md",
+    "Images/Pasted image 20250910144841.png",
+    "MAT/Posloupnosti/Geometrická posloupnost.md",
+    "MAT/Posloupnosti/Aritmetická posloupnost.md",
+    "FYZ/optika",
+    "MAT/Křivky/Hyperbola.md",
+    "IKT/základní algoritmické struktury.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/meziválečná česká.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Karel Poláček.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Eduard Bass.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Havlíček.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Vančura.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Ivan Olbracht.md",
     "MAT/Posloupnosti/Posloupnost.md",
     "README.md",
     "kyb/PID.md",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Havlíček.md",
     "kyb/Ročníkovka.md",
     "TEF/číslicová elektronika/Vyjádření logické funkce.md",
     "MAT/Křivky/Elipsa.md",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Vančura.md",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/meziválečná česká.md",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Ivan Olbracht.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Hašek.md",
-    "MAT/Posloupnosti/Aritmetická posloupnost.md",
     "MAT/Křivky",
     "MAT/Posloupnosti",
     "CH/Alkaloidy.md",
     "CH/Vitamíny rozpustné ve vodě.md",
-    "CH/Sacharidy (glycidy).md",
-    "CH/Disacharidy.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/2 Tání a tuhnutí.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/3 Sublimace a desublimace.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/5 Sytá a přehřátá pára. Vodní pára v atmosféře.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/3 Kapilární jevy.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/1 Fázové přeměny.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/1 Povrchová vrstva. Povrchová síla. Povrchové napětí.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/6 Teplotní objemová roztažnost kapalin.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/4 Kapilární jevy v praxi.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/2 Styk kapaliny se stěnou nádoby.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/4 Vypařování, var a kondenzace.md",
     "Images/sex.svg",
     "Images/Pasted image 20250604112012.png",
     "Images/Pasted image 20250604111958.png",
@@ -217,13 +332,11 @@
     "Images/Pasted image 20250602112914.png",
     "Images/Pasted image 20250602111838.png",
     "Images/Pasted image 20250602111124.png",
-    "Images/Pasted image 20250602110408.png",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství",
     "venv/bin/rembg",
     "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/top_level.txt",
     "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/entry_points.txt",
     "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/WHEEL",
-    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/REQUESTED",
     "Untitled.canvas"
   ]
 }

@@ -1,5 +1,5 @@
 - představitel psychologické prózy
-- ▸ přes den pracoval v bance, v noci psal, zemřel na vyčerpání
+- přes den pracoval v bance, v noci psal, zemřel na vyčerpání
 - romány zasazeny do maloměsta přelomu 19. a 20. st.
 - líčí tragické osudy lidi, degeneraci, duševní stavy narušených lidí, extrémní situace
 - motivy osudovostí, provinění, trestu

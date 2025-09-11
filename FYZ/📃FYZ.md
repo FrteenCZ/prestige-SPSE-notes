@@ -4,3 +4,6 @@
 - [[📃Struktura a vlastnosti pevných látek]]
 - [[📃Struktura a vlastnosti kapalin]]
 - [[📃Změny skupenství]]
+
+# optika
+[[📃optika]]

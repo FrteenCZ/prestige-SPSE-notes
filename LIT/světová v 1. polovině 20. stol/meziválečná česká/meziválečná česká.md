@@ -11,3 +11,5 @@
 - [[Jaroslav Vančura]]
 - [[Ivan Olbracht]]
 - [[Jaroslav Havlíček]]
+- [[Eduard Bass]]
+- [[Karel Poláček]]
