@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3b7dd58f3bf2ef86",
+        "id": "afe34dc26e9c49e4",
         "type": "tabs",
         "children": [
           {
-            "id": "0a409283c44107fd",
+            "id": "b2831f001de72706",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "FYZ/1. Světlo jako elektromagnetické vlnění.md",
-                "bFile": "FYZ/1. Světlo jako elektromagnetické vlnění.md",
-                "aRef": ""
+                "file": "IKT/základní algoritmické struktury.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 1. Světlo jako elektromagnetické vlnění"
+              "icon": "lucide-file",
+              "title": "základní algoritmické struktury"
+            }
+          },
+          {
+            "id": "ff616492418dafa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IKT/java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "java"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9f09e85acfde163",
+  "active": "ff616492418dafa5",
   "lastOpenFiles": [
-    "FYZ/1. Světlo jako elektromagnetické vlnění.md",
+    "IKT/základní algoritmické struktury.md",
+    "IKT/java.md",
     "FYZ/optika/1. Světlo jako elektromagnetické vlnění.md",
+    "FYZ/1. Světlo jako elektromagnetické vlnění.md",
     "FYZ/optika/3. Odraz a lom světla.md",
     "MAT/Křivky/Elipsa.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/meziválečná česká.md",
@@ -197,7 +214,6 @@
     "MAT/Posloupnosti/Geometrická posloupnost.md",
     "FYZ/optika",
     "MAT/Křivky/Hyperbola.md",
-    "IKT/základní algoritmické struktury.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Karel Poláček.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Vančura.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Ivan Olbracht.md",
@@ -205,7 +221,6 @@
     "README.md",
     "kyb/PID.md",
     "kyb/Ročníkovka.md",
-    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
     "MAT/Křivky",
     "MAT/Posloupnosti",
     "Images/sex.svg",
