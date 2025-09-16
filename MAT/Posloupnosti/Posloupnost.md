@@ -28,5 +28,7 @@ b) $(\frac{n-1}{n})^\infty_{n=1}$  - {0, $\frac{1}{2}$, $\frac{2}{3}$, ...}
 c) $((n-1)n)^\infty_{n=1}$ - {0, 2, 6, 12, }
 
 ![[Aritmetická posloupnost]]
+
 ![[Geometrická posloupnost]]
+
 ![[Finanční matematika]]
