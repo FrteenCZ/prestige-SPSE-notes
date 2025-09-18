@@ -1,3 +1,5 @@
+[[číslicová elektronika]]
+[[Vyjádření logické funkce]]
 Pracuje s logickými hodnotami:  
 **0 = nepravda**, **1 = pravda**
 
