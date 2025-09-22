@@ -13,3 +13,5 @@
 - [[Jaroslav Havlíček]]
 - [[Eduard Bass]]
 - [[Karel Poláček]]
+- [[Karel Čapek]]
+- [[Zdeněk Jirotka]]

@@ -1,3 +1,7 @@
+![[Zpracování programu v Javě]]
+
+![[Rozdělení programů v Javě]]
+
 ```java
 public class Main {
 	// Hlavní metoda třídy

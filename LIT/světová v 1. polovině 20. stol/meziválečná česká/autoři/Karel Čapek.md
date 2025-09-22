@@ -8,3 +8,12 @@
 - **fejeton**
 - **sloupek**
 - **demokratický proud**
+# dílo
+- dramata
+	- **R.U.R.** (***v maturitní četbě***) - továrna na roboty
+	- **Věc Makropulos** - morálně etické otázky dlouhověkosti
+	- **Matka** - protiválečné
+	- **Bílá nemoc** (***v maturitní četbě***) - protiválečné
+- další tvorba
+	- **povídky z jedné a druhé kapsy** - humorné, satirické
+	- cestopisné prózy: **Italské listy, Anglické listy, Výlet do Španěl**
