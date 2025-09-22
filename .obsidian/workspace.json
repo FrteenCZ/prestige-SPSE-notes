@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "81960dbe570d9eaf",
+        "id": "d7e7ed42d7caa258",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f10023954c23c8",
+            "id": "88f3bdbeb601f20d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kyb/BOOL algebra.md",
+                "file": "MAT/Posloupnosti/Posloupnost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BOOL algebra"
+              "title": "Posloupnost"
+            }
+          },
+          {
+            "id": "d90aa7071839bb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAT/Posloupnosti/Nekonečná řada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nekonečná řada"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,26 +191,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6f10023954c23c8",
+  "active": "d90aa7071839bb95",
   "lastOpenFiles": [
+    "MAT/Posloupnosti/Posloupnost.md",
+    "MAT/Posloupnosti/Nekonečná řada.md",
+    "MAT/Posloupnosti/Geometrická posloupnost.md",
+    "MAT/Posloupnosti/Finanční matematika.md",
+    "kyb/BOOL algebra.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Eduard Bass.md",
     "kyb/PID.md",
     "kyb/Git.md",
     "TEF/číslicová elektronika/číslicová elektronika.md",
     "TEF/číslicová elektronika/Boolean algebra.md",
     "TEF/číslicová elektronika/Vyjádření logické funkce.md",
-    "kyb/BOOL algebra.md",
     "Josef Lada.md",
     "kyb/Shell.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Karel Čapek.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Karel Poláček.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/meziválečná česká.md",
     "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
-    "MAT/Posloupnosti/Finanční matematika.md",
-    "MAT/Posloupnosti/Posloupnost.md",
     "MAT/Posloupnosti/Aritmetická posloupnost.md",
     "Images/Pasted image 20250916104847.png",
-    "MAT/Posloupnosti/Geometrická posloupnost.md",
     "MAT/Křivky/Hyperbola.md",
     "MAT/Křivky/Kružnice.md",
     "IKT/java.md",
@@ -204,7 +220,6 @@
     "Images/Drawing 2024-11-20 11.08.44.excalidraw.md",
     "Images/Drawing 2024-11-06 11.18.46.excalidraw.md",
     "Images/Drawing 2024-11-06 11.33.22.excalidraw.md",
-    "Images/Drawing 2024-11-06 11.24.39.excalidraw.md",
     "Images/Pasted image 20250910144841.png",
     "FYZ/optika",
     "MAT/Křivky",

@@ -4,6 +4,7 @@ $$
 a_{n+1}=a_{n}\cdot q && q~ - ~ \mathrm{kvocient}
 \end{align}
 $$
+
 --- 
 $$
 \begin{align}

@@ -32,3 +32,5 @@ c) $((n-1)n)^\infty_{n=1}$ - {0, 2, 6, 12, }
 ![[Geometrická posloupnost]]
 
 ![[Finanční matematika]]
+
+![[Nekonečná řada]]
