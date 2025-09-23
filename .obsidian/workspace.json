@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Shell"
             }
-          },
-          {
-            "id": "b5a8b94dcea54163",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kyb/SEX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SEX"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5a8b94dcea54163",
+  "active": "a9f09e85acfde163",
   "lastOpenFiles": [
-    "kyb/Shell.md",
     "kyb/SEX.md",
+    "kyb/Shell.md",
     "MAT/Posloupnosti/Posloupnost.md",
     "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/meziválečná česká.md",
