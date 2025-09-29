@@ -77,5 +77,5 @@ $$y=\pm\frac{b}{a}x$$
 - kvadratická rovnice
 	- D = 0 - tečna
 	- D > 0 - sečna
-	- D < 0 - vnější pří
+	- D < 0 - vnější přímka
 

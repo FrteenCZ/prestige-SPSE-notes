@@ -42,5 +42,4 @@ $$
 a^2 = b^2 + e^2
 $$
 # 📐 Vzájemná poloha kružnice a přímky
-stejné jako u [[Kružnice]]  
-→ **tečna**, **sečna**, **vnější**
+**tečna**, **sečna**, **vnější**

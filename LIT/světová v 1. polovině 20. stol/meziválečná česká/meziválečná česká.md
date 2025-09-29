@@ -15,3 +15,7 @@
 - [[Karel Poláček]]
 - [[Karel Čapek]]
 - [[Zdeněk Jirotka]]
+
+# divadla
+- [[osvobozené divadlo]]
+- [[Divadlo D 34]]
