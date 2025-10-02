@@ -4,24 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "bb26b72ad3863c77",
+        "id": "4aa952289eead55e",
         "type": "tabs",
         "children": [
           {
-            "id": "c9115a4b2996cee6",
+            "id": "8ccd3e9d8d86e7a2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f908c1c0429db454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAT/Křivky/Parabola.md",
+                "file": "FYZ/optika/3. Odraz a lom světla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parabola"
+              "title": "3. Odraz a lom světla"
+            }
+          },
+          {
+            "id": "837c2d4f11f55ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/optika/6. Optické zobrazování.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Optické zobrazování"
+            }
+          },
+          {
+            "id": "dad92b82876e7581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kyb/BOOL algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BOOL algebra"
+            }
+          },
+          {
+            "id": "e8d520bcfae3334d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAT/Křivky/Parabola.md",
+                "file": "kyb/BOOL algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parabola"
+              "title": "Backlinks for BOOL algebra"
             }
           },
           {
@@ -113,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAT/Křivky/Parabola.md",
+                "file": "kyb/BOOL algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Parabola"
+              "title": "Outgoing links from BOOL algebra"
             }
           },
           {
@@ -166,53 +215,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9115a4b2996cee6",
+  "active": "dad92b82876e7581",
   "lastOpenFiles": [
-    "MAT/Křivky/Hyperbola.md",
-    "MAT/Křivky/Parabola.md",
-    "IKT/java.md",
-    "MAT/Křivky/Elipsa.md",
-    "Images/Pasted image 20250929135443.png",
-    "Images/Pasted image 20250929143046.png",
-    "Images/Pasted image 20250929143233.png",
-    "MAT/Křivky/Křivky.md",
-    "Images/Pasted image 20250929135431.png",
-    "Images/Pasted image 20250929142818.png",
-    "Images/Pasted image 20250929135121.png",
+    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
+    "kyb/BOOL algebra.md",
+    "FYZ/optika/8. kulové zrcadlo.md",
+    "Images/Pasted image 20251001093525.png",
+    "FYZ/optika/6. Optické zobrazování.md",
+    "FYZ/optika/7. rovinné zrcadlo.md",
+    "FYZ/optika/📃optika.md",
+    "Images/Pasted image 20251001092003.png",
+    "FYZ/optika/3. Odraz a lom světla.md",
+    "MAT/Kombinatorika/Kombinatorika.md",
+    "kyb/Regulační Technika - 2.md",
+    "README.md",
     "MAT/Křivky/Kružnice.md",
-    "IKT/java otázky.md",
-    "IKT/algoritmy.md",
+    "MAT/Kombinatorika",
+    "MAT/Křivky/Parabola.md",
+    "MAT/Křivky/Křivky.md",
+    "Untitled.base",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Orten.md",
+    "Images/Pasted image 20250603140738.png",
+    "Images/dvousměrný usměrňovač.png",
+    "TEF/induktur(cívky)/cívky.md",
+    "TEF/Kondezátory/KONDENZÁTOR.md",
+    "kyb/Shell.md",
+    "Images/Pasted image 20250930104627.png",
+    "kyb/PID.md",
+    "Images/Pasted image 20250930100901.png",
+    "Images/Pasted image 20250930104615.png",
+    "input_image.png",
+    "TEF/GALVANICKÉ ODDĚLENÍ.md",
+    "TEF/rezistory/proměnné rezistory.md",
+    "Images/Drawing 2024-11-06 11.18.46.excalidraw.md",
+    "Images/Pasted image 20250930100848.png",
+    "Images/Pasted image 20250929143233.png",
     "IKT/Zpracování programu v Javě.md",
     "IKT/základní algoritmické struktury.md",
     "IKT/Rozdělení programů v Javě.md",
+    "IKT/java otázky.md",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/osvobozené divadlo.md",
-    "Untitled.md",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/Divadlo D 34.md",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/meziválečná česká.md",
-    "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
-    "kyb/Shell.md",
-    "kyb/SEX.md",
-    "MAT/Posloupnosti/Posloupnost.md",
-    "LIT/realismus/Rrusko/Lev Nikolajevič Tolstoj.md",
-    "Images/cívky.md",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Karel Čapek.md",
-    "kyb/BOOL algebra.md",
-    "TEF/číslicová elektronika/Boolean algebra.md",
-    "TEF/číslicová elektronika/číslicová elektronika.md",
-    "Images/Pasted image 20250916104847.png",
-    "Images/Pasted image 20250910144841.png",
     "FYZ/optika",
     "MAT/Křivky",
     "MAT/Posloupnosti",
-    "Images/sex.svg",
-    "Images/Pasted image 20250604112012.png",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství",
     "venv/bin/rembg",
     "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/top_level.txt",
-    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/entry_points.txt",
-    "venv/lib/python3.13/site-packages/rembg-2.0.65.dist-info/WHEEL",
     "Untitled.canvas"
   ]
 }
