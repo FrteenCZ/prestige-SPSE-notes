@@ -6,3 +6,4 @@
 6) [[6. Optické zobrazování]]
 7) [[7. rovinné zrcadlo]]
 8) [[8. kulové zrcadlo]]
+9) [[Čočky]]

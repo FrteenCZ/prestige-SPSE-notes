@@ -64,3 +64,17 @@ $$
 $$
 16 - 4 = \underline{\underline{12}}  
 $$
+---
+
+# 3. Variace
+**uspořádaná** kátice z n členů
+$$
+V_{k(n)}=n\cdot(n-1)\cdot~\dots~\cdot(n-k) =\frac{n!}{(n-k)!} 
+$$
+
+# 4. Permutace
+**uspořádaná** k-tice z k čelnů
+= [[Faktoriál]]
+$$
+P_{n}=n!
+$$
