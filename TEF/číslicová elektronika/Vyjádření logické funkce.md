@@ -1,6 +1,6 @@
-1) Pravdivostní tabulka
-	 v levé části tabulky jsou v jednotlivých řádcích postupně všechny možné stavy na vstupu a v pravé části na příslušných řádcích na výstupu
-	C : nejméně významná vstupní proměnná
+# Pravdivostní tabulka
+v levé části tabulky jsou v jednotlivých řádcích postupně všechny možné stavy na vstupu a v pravé části na příslušných řádcích na výstupu
+C : nejméně významná vstupní proměnná
 
 | číslo řádku |   A   |  B   |  C   |  \|  |  Y   |
 | :---------: | :---: | :--: | :--: | :--: | :--: |
@@ -24,9 +24,9 @@
 |      5      | 1<br> |  0  |  1  | \|  |  0  |
 |      6      |   1   |  1  |  0  | \|  |  0  |
 |      7      |   1   |  1  |  1  | \|  |  1  |
-2) úplný disjunktní tvar
-	Funkce je zapsána ve formě **součtu součinů (minternů)**
-	Jen řádky kde Y = 1 a negujeme 1 na 0
+# úplný disjunktní tvar
+Funkce je zapsána ve formě **součtu součinů (minternů)**
+Jen řádky kde Y = 1 a negujeme 1 na 0
 	
 | číslo řádku |   A   |   B   |   C   |   \|   | Y$_{1}$ | Y$_2$ | Y$_3$ |
 | :---------: | :---: | :---: | :---: | :----: | :-----: | :---: | :---: |
@@ -46,9 +46,9 @@ Y_{3}=&\overline{A}\cdot\overline{B}\cdot\overline{C}+\overline{A}\cdot\overline
 \end{align}
  $$
 
-3) úplný konjuktní tvar
-	Zápis ve formě: **součin součtů** (maxtermů)
-	řádky kde Y = 0
+# úplný konjuktní tvar
+Zápis ve formě: **součin součtů** (maxtermů)
+řádky kde Y = 0
 
 | číslo řádku |   A   |  B  |  C  | \|  | Y$_{1}$ | Y$_2$ | Y$_3$ |
 | :---------: | :---: | :-: | :-: | :-: | :-----: | :---: | :---: |
@@ -67,18 +67,18 @@ Y_{2}=& (A+\overline{B}+C)\cdot(A+\overline{B}+\overline{C})\cdot(\overline{A}+B
 Y_{3}=& (A+\overline{B}+C)\cdot(\overline{A}+B+C)\cdot(\overline{A}+B+\overline{C})\cdot(\overline{A}+\overline{B}+C)
 \end{align}
  $$
-4) Grayův kód (zajímavost)
-	kód, v němž se sousední datová slova liší jen v 1 bitu
-	**konstrukce**
-	- 1 bit
-		- 0, 1
-	- 2 bit
-		- 00, 01, 11, 10
-	- 3 bit 
-		- 000, 001, 011, 010, 110, 111, 101, 100 
+# Grayův kód (zajímavost)
+kód, v němž se sousední datová slova liší jen v 1 bitu
+**konstrukce**
+- 1 bit
+	- 0, 1
+- 2 bit
+	- 00, 01, 11, 10
+- 3 bit 
+	- 000, 001, 011, 010, 110, 111, 101, 100 
 
-5) Karnaghova mapa
-	- pro 2 vstupní proměnou
+# Karnaghova mapa
+- pro 2 vstupní proměnou
 
 | ř.  | $x_{1}$ | $x_{0}$ | Y   |
 | --- | ------- | ------- | --- |
@@ -159,8 +159,7 @@ Y_{3}=& (A+\overline{B}+C)\cdot(\overline{A}+B+C)\cdot(\overline{A}+B+\overline{
 | x3  | x1  |     | 1010 | 1011 | 1111 | 1110 |
 | x3  |     |     | 1000 | 1001 | 1101 | 1100 |
 
----
-**MINIMALIZACE POMOCÍ KARNAUGHOVY MAPY- PRAVIDLA**
+# MINIMALIZACE POMOCÍ KARNAUGHOVY MAPY- PRAVIDLA
 1) Sousední políčka se stejnými hodnotami zahrnujeme do SMYČEK.
 2) Smyčky mohou mít velikost mocnin čísla 2 tj. 2$^n$ (počet jedniček ve smyčce může být: 1, 2, 4, 8 atd., NE LICHÝ počet 3, 5 atd.).
 3) Smyčky se snažíme dělat co největší a mohou se překrývat.
