@@ -5,3 +5,6 @@
 - vědomí nevyhnutelnosti smrti
 - odcizení a naprostá osamělost
 - hlavní hrdina je izolovaný, úzkostlivý, prožívá pocity beznaděje, zoufalství a hnusu
+
+# autoři
+[[Jean-Paul Sartre]]

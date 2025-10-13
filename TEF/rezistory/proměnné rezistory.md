@@ -1,3 +1,4 @@
+[[odpor]]
 - potenciometry![[potenciometr.excalidraw]]
 	- možnost plynule měnit odpor
 	- kontakt jezdce mechaniky přitlačen k odporové dráze

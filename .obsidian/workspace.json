@@ -11,10 +11,14 @@
             "id": "69a40c2c4ff7a45a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "IKT/java otázky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "java otázky"
             }
           },
           {
@@ -23,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEF/číslicová elektronika/Vyjádření logické funkce.md",
+                "file": "LIT/po 2. světové válce/autoři/Jean-Paul Sartre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vyjádření logické funkce"
+              "title": "Jean-Paul Sartre"
             }
           }
         ],
@@ -194,9 +198,24 @@
   },
   "active": "559d37605d89fed5",
   "lastOpenFiles": [
+    "LIT/po 2. světové válce/existencialismus.md",
+    "LIT/po 2. světové válce/Situace po 2. sv. válce.md",
+    "LIT/po 2. světové válce/autoři/Jean-Paul Sartre.md",
+    "LIT/po 2. světové válce/autoři",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Eduard Bass.md",
+    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
+    "IKT/java otázky.md",
+    "IKT/Rozdělení programů v Javě.md",
+    "IKT/základní algoritmické struktury.md",
+    "IKT/Zpracování programu v Javě.md",
+    "IKT/algoritmy.md",
+    "IKT/java.md",
+    "kyb/PID.md",
+    "TEF/veličiny/odpor.md",
+    "TEF/rezistory/proměnné rezistory.md",
+    "TEF/veličiny/IMPEDANCE.md",
     "kyb/BOOL algebra.md",
     "kyb/Git.md",
-    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
     "FYZ/optika/8. kulové zrcadlo.md",
     "TEF/číslicová elektronika/číslicová elektronika.md",
     "TEF/číslicová elektronika/Boolean algebra.md",
@@ -208,29 +227,14 @@
     "FYZ/optika/7. rovinné zrcadlo.md",
     "Images/Lenses_en.svg",
     "FYZ/optika/📃optika.md",
-    "LIT/po 2. světové válce/Situace po 2. sv. válce.md",
-    "LIT/po 2. světové válce/existencialismus.md",
     "MAT/Kombinatorika/Faktoriál.md",
     "LIT/po 2. světové válce",
-    "MAT/Kombinatorika/Kombinatorika.md",
-    "MAT/Posloupnosti/Posloupnost.md",
-    "MAT/Křivky/Parabola.md",
-    "FYZ/optika/3. Odraz a lom světla.md",
-    "FYZ/optika/6. Optické zobrazování.md",
     "Images/Pasted image 20251001093525.png",
     "Images/Pasted image 20251001092003.png",
-    "kyb/Regulační Technika - 2.md",
-    "README.md",
-    "MAT/Křivky/Kružnice.md",
     "MAT/Kombinatorika",
-    "MAT/Křivky/Křivky.md",
     "Untitled.base",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Orten.md",
     "Images/Pasted image 20250603140738.png",
     "Images/dvousměrný usměrňovač.png",
-    "TEF/induktur(cívky)/cívky.md",
-    "TEF/Kondezátory/KONDENZÁTOR.md",
-    "kyb/Shell.md",
     "Images/Pasted image 20250930104627.png",
     "Images/Pasted image 20250930100901.png",
     "FYZ/optika",
@@ -239,7 +243,6 @@
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství",
-    "venv/bin/rembg",
     "Untitled.canvas"
   ]
 }
