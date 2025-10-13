@@ -22,21 +22,91 @@
             }
           },
           {
+            "id": "c442d1867e231bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IKT/java otázky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "java otázky"
+            }
+          },
+          {
+            "id": "1581de1338871779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IKT/java Proměnné a datové typy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "java Proměnné a datové typy"
+            }
+          },
+          {
+            "id": "9fcb654963c36904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IKT/java příkazy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "java příkazy"
+            }
+          },
+          {
+            "id": "1812b3bee9a80b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAT/Goniometrie/Goniometrie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goniometrie"
+            }
+          },
+          {
             "id": "559d37605d89fed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIT/po 2. světové válce/autoři/Jean-Paul Sartre.md",
+                "file": "IKT/java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jean-Paul Sartre"
+              "title": "java"
+            }
+          },
+          {
+            "id": "484148f045c521ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IKT/java Proměnné a datové typy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "java Proměnné a datové typy"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,20 +266,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "559d37605d89fed5",
+  "active": "1812b3bee9a80b29",
   "lastOpenFiles": [
-    "LIT/po 2. světové válce/existencialismus.md",
-    "LIT/po 2. světové válce/Situace po 2. sv. válce.md",
-    "LIT/po 2. světové válce/autoři/Jean-Paul Sartre.md",
-    "LIT/po 2. světové válce/autoři",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Eduard Bass.md",
-    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
+    "README.md",
+    "MAT/Goniometrie/Goniometrie.md",
+    "Images/Pasted image 20251013135946.png",
+    "MAT/Goniometrie",
     "IKT/java otázky.md",
+    "IKT/java příkazy.md",
+    "IKT/java operátory.md",
+    "IKT/java Proměnné a datové typy.md",
+    "IKT/java.md",
+    "IKT/algoritmy.md",
     "IKT/Rozdělení programů v Javě.md",
     "IKT/základní algoritmické struktury.md",
     "IKT/Zpracování programu v Javě.md",
-    "IKT/algoritmy.md",
-    "IKT/java.md",
+    "LIT/po 2. světové válce/autoři/Jean-Paul Sartre.md",
+    "LIT/po 2. světové válce/existencialismus.md",
+    "LIT/po 2. světové válce/Situace po 2. sv. válce.md",
+    "LIT/po 2. světové válce/autoři",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Eduard Bass.md",
+    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
     "kyb/PID.md",
     "TEF/veličiny/odpor.md",
     "TEF/rezistory/proměnné rezistory.md",
@@ -219,15 +296,10 @@
     "FYZ/optika/8. kulové zrcadlo.md",
     "TEF/číslicová elektronika/číslicová elektronika.md",
     "TEF/číslicová elektronika/Boolean algebra.md",
-    "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
-    "FYZ/optika/Čočky.md",
     "Images/Lenses_convex.svg",
     "Images/Lenses_concave.svg",
     "Images/Lenses_konvex.svg",
-    "FYZ/optika/7. rovinné zrcadlo.md",
     "Images/Lenses_en.svg",
-    "FYZ/optika/📃optika.md",
-    "MAT/Kombinatorika/Faktoriál.md",
     "LIT/po 2. světové válce",
     "Images/Pasted image 20251001093525.png",
     "Images/Pasted image 20251001092003.png",
@@ -236,13 +308,11 @@
     "Images/Pasted image 20250603140738.png",
     "Images/dvousměrný usměrňovač.png",
     "Images/Pasted image 20250930104627.png",
-    "Images/Pasted image 20250930100901.png",
     "FYZ/optika",
     "MAT/Křivky",
     "MAT/Posloupnosti",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři",
     "LIT/světová v 1. polovině 20. stol/meziválečná česká",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství",
     "Untitled.canvas"
   ]
 }

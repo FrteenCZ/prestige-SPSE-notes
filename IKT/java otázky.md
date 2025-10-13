@@ -62,3 +62,43 @@ String s = sc.nextLine();  // celý řádek textu
 ```
 
 ⚠ _Pozor na kombinaci `nextInt()` + `nextLine()` → po čísle může zůstat enter v bufferu!_
+
+# Proměnné v Javě
+![[java Proměnné a datové typy#Proměnné v Javě]]
+
+# Deklarace a inicializace proměnných
+![[java Proměnné a datové typy#Deklarace a inicializace proměnných]]
+
+# Unární operátor
+![[java operátory#Unární]]
+
+# Binární operátor
+![[java operátory#Binární]]
+
+# Ternární operátor
+![[java operátory#Ternární operátor]]
+
+
+![[java Proměnné a datové typy#Primitivní datové typy]]
+
+![[java příkazy#Příkaz `if`]]
+
+![[java příkazy#Příkaz `while`]]
+
+![[java příkazy#Příkaz `do while`]]
+
+![[java příkazy#Příkaz `for`]]
+
+# Komentáře v Javě
+```java
+// jednorádkový
+
+/* více
+   řádků */
+
+/** dokumentační komentář */
+```
+
+---
+
+![[java Proměnné a datové typy#Přetypování (casting)]]
