@@ -1,3 +1,4 @@
+#FYZ
 - **Působením vnější síly** dochází ke změně vzájemné polohy částic
 - Rozlišujeme:
     - **Elastická deformace** (pružná)  

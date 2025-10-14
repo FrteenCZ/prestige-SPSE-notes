@@ -1,3 +1,4 @@
+#TEF #Electronics
 ## definice
 - číslicová = digitální
 - zpracovává informace v digitální podobě

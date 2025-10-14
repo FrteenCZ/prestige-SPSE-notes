@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - seskupení básníků --> brzy se rozpadlo 
 - r. 1895 - Manifest České moderny (Machar, Březina, Sova ...)
 - společné rysy 

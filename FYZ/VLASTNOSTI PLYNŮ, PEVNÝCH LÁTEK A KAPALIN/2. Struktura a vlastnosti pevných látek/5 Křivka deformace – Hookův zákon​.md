@@ -1,3 +1,4 @@
+#FYZ
 # 📊 Křivka deformace
 ![[Pasted image 20250425122431.png]]
 

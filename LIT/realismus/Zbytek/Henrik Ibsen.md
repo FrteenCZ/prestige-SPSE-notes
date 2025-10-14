@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - 1828-1906
 - norský dramatik, režisér a básník, také politik a velvyslanec
 - zakladatel moderního dramatu

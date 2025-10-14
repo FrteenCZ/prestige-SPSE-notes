@@ -1,3 +1,4 @@
+#CHEM
 # 🏭 Endokrinní žlázy
 - Produkují hormony, které uvolňují přímo do krve
 - Příklady:

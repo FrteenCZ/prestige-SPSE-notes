@@ -79,3 +79,4 @@ $$y=\pm\frac{b}{a}x$$
 	- D > 0 - sečna
 	- D < 0 - vnější přímka
 
+#MAT #Křivky

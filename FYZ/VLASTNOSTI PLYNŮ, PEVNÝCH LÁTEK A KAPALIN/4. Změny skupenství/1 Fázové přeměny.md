@@ -1,3 +1,4 @@
+#FYZ
 # 🧊 Druhy skupenství látek
 
 - **Pevné**

@@ -1,3 +1,4 @@
+#FYZ
 # 🔬 Struktura kapalin
 - Struktura podobná **amorfním látkám**
 - Molekuly **kmitají kolem rovnovážné polohy** po dobu cca **1 ns**

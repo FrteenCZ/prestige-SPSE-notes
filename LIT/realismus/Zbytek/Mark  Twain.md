@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - 1835-1910
 - pseudonym - twain = dva sáhy hluboko = bezpečná hloubka vody pro říční parník
 - americký spisovatel

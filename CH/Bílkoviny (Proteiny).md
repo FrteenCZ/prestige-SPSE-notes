@@ -1,3 +1,4 @@
+#CHEM
 - Velké, složité **biomolekuly** důležité pro život
 - Tvořené z [aminokyselin](Aminokyseliny) – existuje 20 druhů
 - Spojují se do **polypeptidových řetězců**

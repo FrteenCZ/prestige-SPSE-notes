@@ -1,3 +1,4 @@
+#CHEM
 # ✳️ Vznik
 - Nejčastěji substitucí – nahrazení atomu vodíku v karboxylové kyselině jinou funkční skupinou
 

@@ -1,3 +1,4 @@
+#LIT
 - konec války 8. května 1945
 - do devadesátých letech napětí (tzv. studená válka mezi západními a východními mocnostmi
 - symbolem rozděleného světa Berlinská zeď

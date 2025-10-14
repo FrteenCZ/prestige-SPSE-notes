@@ -1,3 +1,4 @@
+#IKT  #Coding
 				skibidi sigma rizz i wanna kil myself kdyby mi zavlolo petr svetr tak bych skočil pod nákladní autompoil který veze skibidi toaleťák
 # sekvence = posloupnost
 - řetězec příkazů, jeden příkaz následuje druhý nejznámější jednopříkazová sekvence je příkaz na:

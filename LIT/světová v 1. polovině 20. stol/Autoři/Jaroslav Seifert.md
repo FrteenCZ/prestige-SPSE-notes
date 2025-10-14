@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - český básník, novinář a překladatel  
 - člen hnutí **Devětsil**, u zrodu **poetismu**  
 - jediný český **nositel Nobelovy ceny za literaturu** (1984)  

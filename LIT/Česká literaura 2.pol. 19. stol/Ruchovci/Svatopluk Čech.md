@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - básník, prozaik, novinář, a cestovatel, povoláním advokát
 - psal různé žánry
 - eposy: Lešetínský kovář, Ve stínu lípy

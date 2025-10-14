@@ -1,3 +1,4 @@
+#CHEM
 # ✳️ Základní charakteristika  
 - základní stavební jednotky bílkovin  
 - substituční deriváty karboxylových kyselin  

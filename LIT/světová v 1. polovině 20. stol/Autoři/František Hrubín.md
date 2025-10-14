@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 # 👤 Základní informace
 - český **básník, prozaik, dramatik**, autor **dětské poezie** a **překladatel francouzské poezie**
 - dětství spojeno s **Posázavím (Lešany)** → častý motiv **přírody**

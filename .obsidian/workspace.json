@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0bc0f2ca772d90cc",
+        "id": "272f0811a4b7ca09",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c3633e9acf3b42",
+            "id": "12ae91107d05b8a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAT/Goniometrie/Goniometrie.md",
+                "file": "LIT/Česká literaura 2.pol. 19. stol/Májovci/Jan Neruda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goniometrie"
+              "title": "Jan Neruda"
+            }
+          },
+          {
+            "id": "2fd50e15a918009b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIT/světová v 1. polovině 20. stol/Surrealismus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Surrealismus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#Česká_literatura",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,37 +196,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6c3633e9acf3b42",
+  "active": "aca0605c1dcaeb38",
   "lastOpenFiles": [
-    "Images/civka_graf_AC.md",
-    "Images/civka_graf.md",
-    "IKT/java otázky.md",
-    "IKT/java Proměnné a datové typy.md",
-    "IKT/java příkazy.md",
-    "IKT/java.md",
-    "MAT/Goniometrie/Goniometrie.md",
-    "README.md",
+    "LIT/světová v 1. polovině 20. stol/světová v 1. polovině 20. stol.md",
+    "LIT/světová v 1. polovině 20. stol/Surrealismus.md",
+    "LIT/světová v 1. polovině 20. stol/Poetismus.md",
+    "LIT/světová v 1. polovině 20. stol/Kubismus.md",
+    "LIT/světová v 1. polovině 20. stol/Futurismus.md",
+    "LIT/světová v 1. polovině 20. stol/Expresionismus.md",
+    "LIT/světová v 1. polovině 20. stol/Dadaismus.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/osvobozené divadlo.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/meziválečná česká.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/Divadlo D 34.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Zdeněk Jirotka.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Karel Poláček.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Karel Čapek.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Vančura.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Havlíček.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Jaroslav Hašek.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Ivan Olbracht.md",
+    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Eduard Bass.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Vladimír Holan.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Vítězslav Nezval.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Thomas Mann.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Romain Rolland.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/John Steinbeck.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Wolker.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Orten.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Jaroslav Seifert.md",
+    "MAT/Kombinatorika/Untitled.base",
+    "MAT/Kombinatorika/Untitled 1.base",
     "Images/Pasted image 20251013135946.png",
     "MAT/Goniometrie",
-    "IKT/java operátory.md",
-    "IKT/algoritmy.md",
-    "IKT/Rozdělení programů v Javě.md",
-    "IKT/základní algoritmické struktury.md",
-    "IKT/Zpracování programu v Javě.md",
-    "LIT/po 2. světové válce/autoři/Jean-Paul Sartre.md",
-    "LIT/po 2. světové válce/existencialismus.md",
-    "LIT/po 2. světové válce/Situace po 2. sv. válce.md",
     "LIT/po 2. světové válce/autoři",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři/Eduard Bass.md",
-    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
-    "kyb/PID.md",
-    "TEF/veličiny/odpor.md",
-    "TEF/rezistory/proměnné rezistory.md",
-    "TEF/veličiny/IMPEDANCE.md",
-    "kyb/BOOL algebra.md",
-    "kyb/Git.md",
-    "FYZ/optika/8. kulové zrcadlo.md",
-    "TEF/číslicová elektronika/číslicová elektronika.md",
     "Images/Lenses_convex.svg",
     "Images/Lenses_concave.svg",
     "Images/Lenses_konvex.svg",
@@ -227,8 +244,6 @@
     "FYZ/optika",
     "MAT/Křivky",
     "MAT/Posloupnosti",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká/autoři",
-    "LIT/světová v 1. polovině 20. stol/meziválečná česká",
     "Untitled.canvas"
   ]
 }

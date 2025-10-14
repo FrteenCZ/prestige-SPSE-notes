@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - pražský německy píšící spisovatel židovského původu
 - předchůdce absurdní literatury
 - nekuřák, abstinent, vegetarián

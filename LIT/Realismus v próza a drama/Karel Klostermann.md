@@ -1,3 +1,4 @@
+#LIT
 - narozen v německé rodině na rakouské straně Šumavy
 - dětství strávil v Pošumaví - Sušice, Kašperské Hory, Žichovice
 - studía na gymnáziu v Klatovech a v Písku, na medícíně ve Vídni - nedokončil ji

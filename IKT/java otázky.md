@@ -1,3 +1,4 @@
+#IKT #Java #Coding
 # algoritmy
 ![[algoritmy]]
 # Výstup na obrazovku

@@ -1,3 +1,4 @@
+#FYZ
 # 🔽 Kapalina **smáčí** stěnu nádoby
 - **Příklady**: voda ve skle, rtuť v mědi
 - Vytváří se **dutý povrch** kapaliny

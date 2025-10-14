@@ -1,3 +1,4 @@
+#FYZ
 # ⚖️ 1. termodynamický zákon
 $$
 \Delta U = Q + W

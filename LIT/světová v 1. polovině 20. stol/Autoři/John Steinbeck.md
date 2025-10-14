@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - pocházel z Kalifornie
 - nedokončil studia na Stanfordově univerzitě 
 - mnoho povolání (na ranči, v cukrovaru, na stavbě silnice, ...)→ zkušenosti se promítly v sociálně kritických románech

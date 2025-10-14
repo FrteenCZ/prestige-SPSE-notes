@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - Svatopluk Čech, Eliška Krásnohorská
 - spisovatelé seskupeni kolem almanachu Ruch - vydán 1868 při příležitosti položení základního kamene národního divadla
 - vlastenectví, historická témata, venkov, folklór

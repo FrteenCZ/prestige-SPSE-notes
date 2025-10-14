@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - francouzský dramatik, prozaik, esejista, kritik
 - zajímal se o historii, dějiny hudby a umění
 - pocházel z vážené notářské rodiny

@@ -1,3 +1,4 @@
+#IKT #Java #Coding
 ![[Zpracování programu v Javě]]
 
 ![[Rozdělení programů v Javě]]

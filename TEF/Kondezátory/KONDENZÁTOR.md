@@ -1,3 +1,4 @@
+#TEF #Electronics
 ![[kondezatory]]
 electrolitický
 

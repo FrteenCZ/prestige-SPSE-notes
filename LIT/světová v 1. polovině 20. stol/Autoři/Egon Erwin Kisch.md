@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - „zuřivý reportér" (**Zuřivý reportér** je též název souboru jeho reportáží)
 - tvůrce moderní reportáže
 - novinář

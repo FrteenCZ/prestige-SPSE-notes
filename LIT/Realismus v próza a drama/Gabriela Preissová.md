@@ -1,3 +1,4 @@
+#LIT
 - divadelní hry z prostředí slovácké vesnice
 - realita venkova, způsob uvažování venkovských lidí
 - ženské hrdinky

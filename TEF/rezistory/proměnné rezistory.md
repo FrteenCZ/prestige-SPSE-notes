@@ -1,3 +1,4 @@
+#TEF #Electronics
 [[odpor]]
 - potenciometry![[potenciometr.excalidraw]]
 	- možnost plynule měnit odpor

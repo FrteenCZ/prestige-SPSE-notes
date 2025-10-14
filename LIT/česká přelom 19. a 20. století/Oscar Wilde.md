@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - irský básník, dramatik, a esejista
 - kotroverzní osoba
 - dandy = obohatí muži, kteří nemusí díky zděděnému jmění pracovat

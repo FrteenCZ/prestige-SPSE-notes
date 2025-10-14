@@ -1,3 +1,4 @@
+#FYZ
 # 💎 Krystalické látky
 - **Pravidelné uspořádání částic** v krystalové mřížce
 - **Silné přitažlivé síly** mezi částicemi

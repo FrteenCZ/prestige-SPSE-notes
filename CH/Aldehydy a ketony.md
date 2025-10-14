@@ -1,3 +1,4 @@
+#CHEM 
 # 🔹 Obecná charakteristika
 - Obsahují **karbonylovou skupinu** `C=O`
 - **Aldehydy**: karbonylová skupina je na **konci řetězce** → `–CHO`

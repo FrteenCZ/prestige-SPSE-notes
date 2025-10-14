@@ -2,3 +2,5 @@
 - `cd` - změna adresáře
 - `..` - nadřízená složka
 - `ls` - list dir
+
+#KYB #Coding

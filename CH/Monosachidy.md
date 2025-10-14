@@ -1,3 +1,4 @@
+#CHEM
 ## 🔹 Co je monosacharid?
 - Jednoduchý cukr s 1 karbonylovou a více –OH skupinami.
 - Krystalické, rozpustné ve vodě, opticky aktivní.

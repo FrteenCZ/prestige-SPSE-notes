@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - zakladatel moderní franc. poezie
 - matka polská šlechtična hazardní hráčka, otec zřejmě Švýcarsko-italský aristokrat
 - dětství strávil na Riviéře, pak žil v Paříži

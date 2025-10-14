@@ -1,3 +1,4 @@
+#CHEM
 - **Deriváty steranu**
 - Rozpustné v tucích (lipofilní)
 - Často mají **optické izomery**

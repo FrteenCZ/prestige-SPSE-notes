@@ -1,3 +1,4 @@
+#CHEM
 Rozpouští se v tucích a **ukládají se v těle** (např. v játrech a tukové tkáni), proto **hrozí předávkování**.
 
 ---

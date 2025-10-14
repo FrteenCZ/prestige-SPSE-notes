@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - básník, výtvarník, představitel dekadence
 - z chudých poměrů, zemřel ve 24 letech na tuberkulózu 
 - působil v časopisu Moderní revue 

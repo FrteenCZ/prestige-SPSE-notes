@@ -1,3 +1,4 @@
+#FYZ #TEF #Electronics
 $$
 R=\rho*\frac{l}{S}
 $$

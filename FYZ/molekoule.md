@@ -18,3 +18,5 @@ měření teplot
 ## látkové množství
 - $n=\frac{N}{N_{A}}$                           $N$ - počet částic v daném množství látky
 - $M_{m}=\frac{m}{n}=N_{A}\cdot m_{0}$        $m$ - hmotnost látky, $m_{0}$ - hmotnost jedné částice
+
+#FYZ #CHEM 

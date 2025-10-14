@@ -1,3 +1,4 @@
+#FYZ
 # 🌫️ Vypařování
 - Probíhá **z volného povrchu kapaliny**
 - Může nastat **při jakékoliv teplotě**

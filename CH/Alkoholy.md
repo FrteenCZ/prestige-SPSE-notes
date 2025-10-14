@@ -1,3 +1,4 @@
+#CHEM
 # 🔹 Obecná charakteristika
 - Obsahují funkční skupinu `–OH` (hydroxylová skupina)
 - Obecný vzorec: `R–OH`

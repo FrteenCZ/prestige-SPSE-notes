@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - prozaik, publicista, novinář, překladatel
 - **z česko-židovské rodiny**
 - věnoval se publicistice, psal do levicových novin (Dělnické listy, Právo lidu, Rudé právo)

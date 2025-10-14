@@ -1,3 +1,4 @@
+#LIT
 - narozen v Klenči pod Čerchovem, ze selského rodu
 - studia na gymnáziu v Domažlicích a kněžském semináři v Praze
 - vesnický farář

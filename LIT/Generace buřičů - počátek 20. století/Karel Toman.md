@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - vlastním jménem - Antonín Bernášek
 - básník, novinář, překladatel z francouzštiny 
 - střídal úřednická a redaktorská místa, hodně cestoval 

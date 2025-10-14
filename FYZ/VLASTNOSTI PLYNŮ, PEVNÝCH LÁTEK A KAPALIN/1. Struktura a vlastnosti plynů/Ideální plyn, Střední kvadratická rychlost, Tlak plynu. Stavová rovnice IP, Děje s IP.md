@@ -1,3 +1,4 @@
+#FYZ
 # 📘 Ideální plyn – přehled
 
 ## ⚛️ Vlastnosti ideálního plynu

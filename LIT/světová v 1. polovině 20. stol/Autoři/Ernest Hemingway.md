@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - představitel ztracené generace
 - nositel. Nobelovy ceny za literaturu
 - zásluhou otce od dětství zájem o přírodu, sport a lov

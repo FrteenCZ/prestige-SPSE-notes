@@ -24,3 +24,5 @@ q=\frac{1-\frac{\sqrt{ 2 }}{2}}{\frac{1}{2}-\frac{\sqrt{ 2 }}{4}} =\frac{1}{2}\\
 s=\frac{1-\frac{\sqrt{ 2 }}{2}}{1-\frac{1}{2}}=2-\sqrt{ 2 }
 \end{gathered}
 $$
+
+#MAT #Posloupnosti

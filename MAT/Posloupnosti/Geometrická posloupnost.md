@@ -13,3 +13,5 @@ a_{s}&=a_{r}\cdot q^{s-r} \\
 s_{n}&=a_{1}\cdot \frac{q^n-1}{q-1}
 \end{align}
 $$
+
+#MAT #Posloupnosti

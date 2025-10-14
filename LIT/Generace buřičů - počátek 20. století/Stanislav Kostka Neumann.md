@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - básík, prozaik, novinář, překladatel
 - od mládí se zabýval politikou vězněn na Borech r. 1921 spoluzakladatel KSČ 
 - prošel několika literárními proudy (dekadence, anarchismu, vitalismus, symbolismus, civilismus, proletářské umění, socialistický realismus) 

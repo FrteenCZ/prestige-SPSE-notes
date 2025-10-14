@@ -1,3 +1,4 @@
+#CHEM
 # ❓ Co jsou sacharidy?
 - **Organické sloučeniny** složené z uhlíku (C), vodíku (H) a kyslíku (O)
 - Obecný vzorec: **CₙH₂ₙOₙ** (tedy (CH₂O)ₙ)

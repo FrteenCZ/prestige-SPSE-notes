@@ -1,3 +1,4 @@
+#FYZ
 ## 🧪 Obecný popis
 
 - Plyn koná práci jen při **zvětšování objemu**

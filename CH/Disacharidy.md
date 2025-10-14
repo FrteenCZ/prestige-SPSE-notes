@@ -1,3 +1,4 @@
+#CHEM
 skládají se z mono-sacharidových jednotek
 
 # sacharóza

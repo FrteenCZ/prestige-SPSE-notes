@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - německý dramatik, divadelní teoretik a režisér, představitel avantgardy
 - zastánce marxismu, pronásledován nacisty
 - po nástupu Hitlera žil v různých evropských zemích, snažil se prosadit i v Hollywoodu, ale neuspěl

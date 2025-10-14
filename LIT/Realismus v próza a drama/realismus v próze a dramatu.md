@@ -1,3 +1,4 @@
+#LIT
 - navazuje na realismus evropský
 - venkov - není už idealistický
 ## autoři

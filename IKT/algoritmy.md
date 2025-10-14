@@ -1,3 +1,4 @@
+#IKT #Coding
 **Algoritmus** je konečná posloupnost přesně definovaných kroků, která vede k vyřešení určitého problému.
 
 # Vlastnosti algoritmu

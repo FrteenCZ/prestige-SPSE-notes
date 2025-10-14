@@ -1,3 +1,4 @@
+#CHEM
 - **Biologické katalyzátory** – urychlují chemické reakce v organismech
 - Jsou to většinou **bílkoviny** (někdy i RNA – ribozymy)
 - Specifické vůči substrátu (účinkují jen na určité látky)

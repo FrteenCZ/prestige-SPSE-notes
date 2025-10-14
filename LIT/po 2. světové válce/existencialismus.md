@@ -1,3 +1,4 @@
+#LIT
 - člověk - jedinec izolovaný od společnosti I dějinného vývoje, člověk bez vazeb
 - soustředění se na svoje vnitřní ego
 - úzkost ze života i smrti

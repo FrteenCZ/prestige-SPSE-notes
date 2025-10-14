@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - politický zápas s vídeňskou vládou, růst radikálních sil, vlastenecké hnutí Omladina (Alois Rašín, S. K. Neumann) 
 - r. 1900-Realistická strana - Tomáš Masaryk 
 - průmysl-Škodovy závody v Plzni, Emil Kolben (elektromotory) - Praha, Laurin&Klement - Mladá Boleslav 

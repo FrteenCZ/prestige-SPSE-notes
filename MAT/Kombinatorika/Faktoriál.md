@@ -15,4 +15,5 @@ $$
 =& \frac{1}{(n+2)!}
 \end{align}
 $$
----
+
+#MAT #Kombinatorika

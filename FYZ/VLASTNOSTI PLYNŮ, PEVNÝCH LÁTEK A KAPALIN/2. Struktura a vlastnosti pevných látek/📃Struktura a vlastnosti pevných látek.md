@@ -1,3 +1,4 @@
+#FYZ
 1) [[1 Krystalické a amorfní látky]]
 2) [[2 Ideální krystalová mřížka a její poruchy​]]
 3) [[3 Deformace pevného tělesa​]]

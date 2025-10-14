@@ -7,3 +7,5 @@
 
 # optika
 [[📃optika]]
+
+#FYZ

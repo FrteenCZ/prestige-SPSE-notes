@@ -1,3 +1,4 @@
+#CHEM
 # 🌿 Opiové alkaloidy
 Získávají se z **mléka nezralých makovic** (*Papaver somniferum* – mák setý)
 

@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - česky avantgardní umělecký a životní program, od r. 1924
 - apolitičnost
 - umění žít a užívat", poetika všedního dne

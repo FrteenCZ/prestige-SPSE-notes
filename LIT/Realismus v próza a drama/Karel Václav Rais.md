@@ -1,3 +1,4 @@
+#LIT
 - zobrazuje život v Podkrkonoší (odtud pocházel) a na Vysočině (zde učil)
 - povídková kniha Výminkäři, román Kalibův zločin 
 	- vztahy lidí, do kterých zasáhla moc peněz, bezcitnost dětí ke starým rodičům, kritický tón

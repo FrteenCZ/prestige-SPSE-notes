@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - 1876-1916
 - americký autor
 - dobrodružný život, tulák po USA, v době zlaté horečky na Aljašce

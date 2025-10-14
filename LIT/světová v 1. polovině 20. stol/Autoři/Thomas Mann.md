@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - významný něm. spisovatel a esejista
 - nositel Nobelovy ceny za lit.
 - jeho bratr Heinrich také spisovatel

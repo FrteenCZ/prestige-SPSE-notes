@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - zakladatel moderní české literární kritiky 
 - nekompromisní kritik, požadoval opravdovost umění, odmítal ideologii v literatuře
 - "Žádáme od umělce: Buď svým a buď to ty!"

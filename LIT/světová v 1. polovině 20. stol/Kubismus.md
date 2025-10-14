@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 -  nové zachycení trojrozměrné dimenze
 - zkoumání předmětu z různých úhlů, rušení linií, rozbíjení na nejmenší částečky
 - literatura

@@ -1,3 +1,4 @@
+#TEF #Electronics
 - Cévka je součástka schopná udržet v sobě v určitém okamžiku nahromaděnou elektrickou energii a v jiném okamžiku ji do elektrického obvodu vydat. Na principu magnetického pole.
 ![[Images/cívky]]
 

@@ -1,3 +1,4 @@
+#TEF #Electronics
 V elektrotechnice způsob, jak se oddělují dvě (nebo více) části obvodu, aby NEBYLY SPOJENÉ VODIČEM, ale aby při tom docházelo k PŘENOSU EL. ENERGIE (práce a výkon), případně IMPULZŮ nebo INFORMACÍ.
 ## DRUHY:
 **TRANSFORMÁTOROVÁ VAZBA** - využití elektromagnetické indukce

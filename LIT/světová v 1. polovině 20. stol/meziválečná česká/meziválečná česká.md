@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 # próza
 - reakce na 1. sv. válku ([[Jaroslav Hašek]])
 - imaginativní próza (V. Vančura)

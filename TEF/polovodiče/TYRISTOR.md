@@ -1,3 +1,4 @@
+#TEF #Electronics #Semi_conductor
 - základní součástka pro řízené usměrňovače
 - ![[Pasted image 20250205111101.png]]
 # stav

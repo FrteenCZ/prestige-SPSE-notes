@@ -1,3 +1,4 @@
+#TEF #Electronics
 - pro přeměnu napětí a proudu a galvanické oddělení obvodů
 - vysoká účinnost (95%)
 ![[transformátor.png]]

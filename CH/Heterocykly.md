@@ -1,3 +1,4 @@
+#CHEM
 Heterocykly jsou **cyklické organické sloučeniny**, které obsahují v kruhu kromě uhlíku i jiné prvky – tzv. **heteroatomy**  
 (např. dusík – N, kyslík – O, síra – S).  
 Obvykle jsou **kapalné** nebo **krystalické**.

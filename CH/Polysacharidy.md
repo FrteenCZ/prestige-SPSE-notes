@@ -1,3 +1,4 @@
+#CHEM
 - Tvořeny **více než 10 monosacharidovými jednotkami**
 - **Špatně rozpustné ve vodě**
 - Hydrolyzují se pomocí kyselin nebo enzymů na monosacharidy

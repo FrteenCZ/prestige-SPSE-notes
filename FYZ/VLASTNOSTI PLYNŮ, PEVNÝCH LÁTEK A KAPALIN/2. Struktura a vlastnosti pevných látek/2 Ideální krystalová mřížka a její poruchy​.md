@@ -1,3 +1,4 @@
+#FYZ
 # 📐 Ideální krystalová mřížka
 - **Prostorová geometrická mřížka**, která je obsazena pravidelně rozloženými částicemi
 - Tvořena z tzv. **elementárních buněk**

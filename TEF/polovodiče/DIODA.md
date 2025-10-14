@@ -1,3 +1,4 @@
+#TEF #Electronics #Semi_conductor
 ![[Drawing 2024-12-05 08.11.22.excalidraw]]![[Drawing 2024-12-05 08.20.53.excalidraw]]
 $U_{p}$ - prahové napětí
 $I_{m}$ - maximální napětí

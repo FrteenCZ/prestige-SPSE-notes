@@ -51,3 +51,5 @@ u_out \approx \frac{1}{RC} \int u_in dt
 $$
 
 Použití např. v **měřicí technice, [[PWM]] filtraci nebo analogových regulátorech**.
+
+#KYB #Electronics 

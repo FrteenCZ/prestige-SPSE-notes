@@ -11,3 +11,5 @@ $$
 u(t)=K_{I}\cdot \int^b_{a}e(t)dt
 $$
 ![[Pasted image 20250916104847.png]]
+
+#KYB #MAT #Electronics #Coding 

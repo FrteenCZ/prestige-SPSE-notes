@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 -  nejtěsněji spjat s generaci buřičů 
 - básník, prozaik, malíř, karikaturista 
 - chudá židovská obchodnická rodina-jako dítě cestoval s otcem kramářem po poutích 

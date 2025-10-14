@@ -1,3 +1,4 @@
+#CHEM
 # 🔹 Obecná charakteristika
 - Obsahují funkční skupinu: `–COOH` (karboxylová skupina)
 - Vyskytují se např. v tucích

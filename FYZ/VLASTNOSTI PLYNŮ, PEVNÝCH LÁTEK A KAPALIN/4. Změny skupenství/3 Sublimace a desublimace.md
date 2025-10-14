@@ -1,3 +1,4 @@
+#FYZ
 - Dodáváme **teplo pevné látce** → zvyšuje se **kinetická energie $E_k$ částic**
 - Při dosažení **teploty sublimace** se látka **mění přímo v plyn**, **bez kapalného stavu**
 - Vzniká **plyn o stejné teplotě jako pevná látka**  

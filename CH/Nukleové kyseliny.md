@@ -1,3 +1,4 @@
+#CHEM
 - **DNA** a **RNA**
 - Nesou a zprostředkovávají **genetickou informaci**
 - Jsou složeny z **nukleotidů**:

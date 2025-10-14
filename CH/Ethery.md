@@ -1,3 +1,4 @@
+#CHEM
 # ✳️ Obecná charakteristika
 - Obsahují skupinu `–O–` mezi dvěma uhlovodíky (R–O–R)
 - Jsou deriváty vody (oba H nahrazeny uhlovodíky)

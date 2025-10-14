@@ -1,3 +1,4 @@
+#TEF #Electronics #Semi_conductor
 ![[Pasted image 20250220081950.png]]
 - křemíkový bipolární tranzistor
 - světlo => přechod E-->B

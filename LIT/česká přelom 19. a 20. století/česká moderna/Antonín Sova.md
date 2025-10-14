@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - impresionista a symbolista 
 - ředitel knihovny
 - ztroskotalo mu manželství, těžká nemoc → samotářství

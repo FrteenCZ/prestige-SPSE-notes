@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - něm. básník, dramatik, žurnalista a překladatel
 - předchůdce dadaismu, surrealismu, expresionismu i absurdního dramatu, zakladatel nonsensové poezie
 - **nonsensová poezie** obsahuje zdánlivě nesmyslné prvky, humor, hříčky se slovy a hláskami

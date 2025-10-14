@@ -1,3 +1,4 @@
+#FYZ #Optika
 = **jsou průhledná stejnorodá tělesa, které jsou ohraničená​ dvěma kulovými, anebo kulovou a rovinnou optickou plochou.​**
 
 Čočky mohou být:​

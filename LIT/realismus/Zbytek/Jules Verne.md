@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - 1828-1905
 - francouzský prozaik (ale i básník a dramatik)
 - zakladatel sci-fi

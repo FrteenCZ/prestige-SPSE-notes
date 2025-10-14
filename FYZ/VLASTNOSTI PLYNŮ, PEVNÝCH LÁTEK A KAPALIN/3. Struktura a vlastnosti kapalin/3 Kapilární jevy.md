@@ -1,3 +1,4 @@
+#FYZ
 # 📈 Kapilarita
 - **Kapilární elevace** – zvýšení hladiny kapaliny v kapiláře
 - **Kapilární deprese** – snížení hladiny kapaliny v kapiláře

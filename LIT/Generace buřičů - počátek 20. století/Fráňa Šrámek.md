@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 -  básník, prozaik, dramatik 
 - Sobotka, poté v městě Písek - autorovo oblíbené místo 
 - za antimilitaristickou propagandu a účasti na demonstracích dvakrát vězněn, byla mu prodloužena vojna 

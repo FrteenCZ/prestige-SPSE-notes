@@ -56,3 +56,5 @@ F&=\left[ 4,-\frac{23}{12} \right] \\ \\
 d:y&=-\frac{8}{3}-\frac{3}{4}=-\frac{41}{12}
 \end{align}
 $$
+
+#MAT #Křivky 

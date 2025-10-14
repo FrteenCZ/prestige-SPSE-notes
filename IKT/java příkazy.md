@@ -1,3 +1,4 @@
+#IKT #Java #Coding
 # Příkaz `if`
 ```java
 if (podmínka) {

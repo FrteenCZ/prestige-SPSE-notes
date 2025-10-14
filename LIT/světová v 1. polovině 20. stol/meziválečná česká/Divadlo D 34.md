@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - experimentální **režisérské divadlo** (soustředí se na originální adaptace klasických her nebo dramatizace slavných textů)
 - název se měnil v závislosti na příslušném letopočtu
 - založil [[Emil František Burian]] (1904-1959)

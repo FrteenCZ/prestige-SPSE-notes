@@ -18,3 +18,5 @@ $$
 &k=\mathrm{zdaňovací~koeficient}
 \end{align}
 $$
+
+#MAT #Posloupnosti

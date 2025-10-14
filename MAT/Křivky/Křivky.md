@@ -1,4 +1,0 @@
-- [[Kružnice]]
-- [[Elipsa]]
-- [[Hyperbola]]
-- [[Parabola]]

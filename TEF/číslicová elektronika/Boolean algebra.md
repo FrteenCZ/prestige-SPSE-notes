@@ -1,3 +1,4 @@
+#KYB #MAT #TEF #Electronics
 [[číslicová elektronika]]
 [[Vyjádření logické funkce]]
 Pracuje s logickými hodnotami:  

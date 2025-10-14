@@ -21,3 +21,4 @@ $$
 
 ![[cricle_line_types.svg]]
 
+#MAT #Křivky

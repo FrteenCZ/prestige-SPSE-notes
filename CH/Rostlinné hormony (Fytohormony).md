@@ -1,3 +1,4 @@
+#CHEM
 - Řídí **růst**, **vývoj**, **zrání** a **reakce na prostředí**
 - Působí ve **velmi malých koncentracích**
 - Vzájemně se **ovlivňují** – působení jednoho hormonu závisí na přítomnosti ostatních

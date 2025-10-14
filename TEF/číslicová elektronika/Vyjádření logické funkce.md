@@ -1,3 +1,4 @@
+#MAT #TEF #Electronics
 # Pravdivostní tabulka
 v levé části tabulky jsou v jednotlivých řádcích postupně všechny možné stavy na vstupu a v pravé části na příslušných řádcích na výstupu
 C : nejméně významná vstupní proměnná

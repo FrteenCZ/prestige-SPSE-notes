@@ -1,3 +1,4 @@
+#CHEM
 Pestrá skupina látek vznikajících jak v **rostlinných**, tak **živočišných** organismech.  
 Základní stavební jednotkou je **izopren** – může se spojovat do různě dlouhých řetězců.
 ![[Pasted image 20250513195730.png]]

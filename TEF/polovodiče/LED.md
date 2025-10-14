@@ -1,3 +1,4 @@
+#TEF #Electronics #Semi_conductor
 - využití
 	- cyklo, motorky, auta
 	- baterky

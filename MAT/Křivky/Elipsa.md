@@ -43,3 +43,5 @@ a^2 = b^2 + e^2
 $$
 # 📐 Vzájemná poloha kružnice a přímky
 **tečna**, **sečna**, **vnější**
+
+#MAT #Křivky

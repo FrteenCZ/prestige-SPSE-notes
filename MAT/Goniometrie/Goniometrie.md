@@ -21,3 +21,5 @@ $$
 \tan \alpha = \frac{\sin \alpha}{\cos \alpha}
 \end{gathered}
 $$
+
+#MAT #Goniometrie

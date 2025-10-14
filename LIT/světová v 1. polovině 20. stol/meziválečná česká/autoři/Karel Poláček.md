@@ -1,3 +1,4 @@
+#LIT #Česká_literatura
 - spisovatel, humorista, novinář a scénárista Židovského původu
 - představitel demokratického proudu
 - bojoval v 1. sv. v. válce, na konci utekl do srbského zajetí

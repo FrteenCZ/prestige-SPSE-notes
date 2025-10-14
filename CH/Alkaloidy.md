@@ -1,3 +1,4 @@
+#CHEM
 - **Alkaloidy** jsou dusíkaté organické sloučeniny rostlinného původu
 - Často mají **silné fyziologické účinky** – mohou být léčivé, ale i toxické
 

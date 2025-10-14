@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - 1805-1875
 - dánský spisovatel, proslavil se pohádkami
 - život se všemi jeho krásami i problémy, pohádky laskavé i kruté, melancholické, některé odráží jeho neradostné dětství

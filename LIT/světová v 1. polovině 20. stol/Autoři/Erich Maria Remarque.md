@@ -1,3 +1,4 @@
+#LIT #Světová_literatura
 - významný spisovatel, protinacisticky orientovaný
 - nominován na Nobelovu cenu míru
 - jako 18tetý odešel do 1. sv. v., po několika týdnech zraněn, na frontu se již nevrátil

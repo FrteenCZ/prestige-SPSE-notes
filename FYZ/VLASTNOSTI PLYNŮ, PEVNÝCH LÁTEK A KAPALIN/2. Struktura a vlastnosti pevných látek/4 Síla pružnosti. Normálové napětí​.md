@@ -1,3 +1,4 @@
+#FYZ
 # 🪢 Síla pružnosti
 
 - Při **deformaci tahem** se vzdálenosti mezi částicemi zvětšují → převládají **přitažlivé síly**
