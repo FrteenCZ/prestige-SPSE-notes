@@ -22,4 +22,4 @@ $$
 s_{n}=\frac{n}{2}(a_{1}+a_{n})
 $$
 
-#MAT #Posloupnosti
+#MAT #MAT/Posloupnosti

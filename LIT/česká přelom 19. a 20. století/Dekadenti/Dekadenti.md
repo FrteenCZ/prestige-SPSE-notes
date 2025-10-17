@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - básníci z okruhu časopisu Moderní revue (Karel Hlaváček, Jiří Karásek ze Lvovic)
 - pocity marnosti, společenského úpadku
 - motivy smrti, melancholie, erotiky

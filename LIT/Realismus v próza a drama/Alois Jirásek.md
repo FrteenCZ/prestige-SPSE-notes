@@ -1,4 +1,4 @@
-#LIT
+#LIT #LIT/Česká 
 - narozen v Hronově
 - studia historie na KU
 - učitel v Litomyšlí a v Praze

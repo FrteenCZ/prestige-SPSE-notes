@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - 1845 - 1912
 - představitel lumírovců (spojoval ruchovské a lumírovské tendence), básník, redaktor Lumíru, překladatel (33 Shakespearových dramat)
 - narozen ve Zbirohu

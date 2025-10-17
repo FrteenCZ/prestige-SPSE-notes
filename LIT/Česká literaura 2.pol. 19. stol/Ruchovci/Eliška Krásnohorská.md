@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - 1847 - 1926
 - věnovala se emancipačnímu hnutí
 - založila první soukromé dívčí gymnázium Minerva (r. 1890)

@@ -35,4 +35,4 @@ c) $((n-1)n)^\infty_{n=1}$ - {0, 2, 6, 12, }
 
 ![[Nekonečná řada]]
 
-#MAT #Posloupnosti
+#MAT #MAT/Posloupnosti

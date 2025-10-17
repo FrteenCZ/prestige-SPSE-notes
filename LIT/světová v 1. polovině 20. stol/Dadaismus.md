@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - reakce na absurditu a nesmyslnost války
 - boří hranice mezi druhy a žánry, mezi uměním a životem
 - **hravost**, snaha uniknout skutečnosti

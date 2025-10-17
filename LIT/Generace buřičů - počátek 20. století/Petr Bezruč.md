@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - vlastním jménem Vladimír Vašek
 - z rodiny učitele a slezského buditele 
 - **SLEZÁK**

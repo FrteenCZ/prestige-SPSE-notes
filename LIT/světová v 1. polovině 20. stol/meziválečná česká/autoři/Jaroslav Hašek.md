@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 # 🧑‍💼 Život
 - Český **spisovatel**, **novinář**, **satirik**, **provokatér**
 - Měl **sklony k alkoholismu** (otec zemřel na otravu alkoholem)

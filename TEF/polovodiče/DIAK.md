@@ -1,4 +1,4 @@
-#TEF #Electronics #Semi_conductor
+#TEF #Electronics #TEF/Semi_conductor
 ![[Pasted image 20250206081331.png]]
 - nezávislá na polaritě
 - neřízená spínací součástka

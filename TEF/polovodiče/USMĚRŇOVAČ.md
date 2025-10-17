@@ -1,4 +1,4 @@
-#TEF #Electronics #Semi_conductor
+#TEF #Electronics #TEF/Semi_conductor
 - jednocestný usměrňovač
 		![[jednosměrný usměrňovač.png]]
 		![[jednosměrný usměrňovač graf.png]]

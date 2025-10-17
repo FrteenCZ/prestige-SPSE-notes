@@ -1,3 +1,3 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - vyjádření pocitů člověka, které plynou z jeho strachu, úzkosti, osamělosti, nemoci a šílenství
 - uplatnění především v německém výtvarném umění

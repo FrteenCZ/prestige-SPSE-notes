@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/plyny 
 # ⚖️ 1. termodynamický zákon
 $$
 \Delta U = Q + W

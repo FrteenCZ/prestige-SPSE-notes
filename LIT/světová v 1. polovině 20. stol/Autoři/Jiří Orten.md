@@ -1,2 +1,2 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 ![[Pasted image 20250603140738.png]]

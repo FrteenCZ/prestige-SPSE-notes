@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - Čechy-součást Rakousko-Uherska
 - kritika zastaralé monarchie, církve, armády, byrokracie a policie 
 - národnostní spory --> atentát na následníka Františka Ferdinanda d'Este --> 1. světová válka (1914- 1918)

@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 # 📌 Základní informace
 - Významný český **básník a překladatel**
 - Psal už během studií, celý život věnoval poezii

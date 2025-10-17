@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/změny_skupenství
 # Sytá pára
 - kapalina se vypařuje v uzavřeném prostoru 
 - molekuly kapaliny difundují nad volný povrch kapaliny, částečně kondenzují a vrací se zpět do kapaliny 

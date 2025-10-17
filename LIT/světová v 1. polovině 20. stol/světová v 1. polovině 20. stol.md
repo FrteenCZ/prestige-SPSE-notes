@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 # ⏳ Před první světovou válkou
 
 ## 🏙️ Společnost

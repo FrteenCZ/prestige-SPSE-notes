@@ -1,1 +1,1 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová

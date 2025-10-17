@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - Pocházel z chudých poměrů, vyučil se **knihkupcem**
 - Pracoval v **pojišťovně** a **nakladatelství**
 - Přispíval do **komunistického tisku**, vydával **avantgardní časopisy**

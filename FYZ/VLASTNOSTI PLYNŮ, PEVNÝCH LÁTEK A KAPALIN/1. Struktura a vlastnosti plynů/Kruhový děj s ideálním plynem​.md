@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/plyny 
 ## 🧪 Obecný popis
 
 - Plyn koná práci jen při **zvětšování objemu**

@@ -1,4 +1,4 @@
-#KYB #MAT #Maturitní_otázky #Coding
+#KYB #MAT #Coding
 ![[Boolean algebra]]
 
 # KARNAUGHOVY MAPY

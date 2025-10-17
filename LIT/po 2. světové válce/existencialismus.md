@@ -9,3 +9,4 @@
 
 # autoři
 [[Jean-Paul Sartre]]
+[[Albert Camus]]

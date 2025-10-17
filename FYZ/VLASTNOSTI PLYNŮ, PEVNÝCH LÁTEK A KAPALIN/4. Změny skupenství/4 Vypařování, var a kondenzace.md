@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/změny_skupenství
 # 🌫️ Vypařování
 - Probíhá **z volného povrchu kapaliny**
 - Může nastat **při jakékoliv teplotě**

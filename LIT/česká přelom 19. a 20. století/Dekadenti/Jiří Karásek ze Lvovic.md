@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - básník, spisovatel, kritik, představitel 
 - dekadence, v soukromí ale tichý, uzavřený 
 - nedokončil studia teologie, poštovní úředník 

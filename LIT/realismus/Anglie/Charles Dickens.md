@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - 1812-1870
 - z početné rodiny, otec ve vězení pro dlužníky
 - jako dítě musel pracovat v továrně -> v jeho díle osudy chudých dětí, sirotků, kritika sociální nespravedlnosti

@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/kapaliny
 # 🧼 Tenzidy a detergenty
 - **Tenzidy** – látky, které **snižují povrchové napětí** vody
 - **Detergenty** – čisticí prostředky (např. saponáty), které **obsahují tenzidy**

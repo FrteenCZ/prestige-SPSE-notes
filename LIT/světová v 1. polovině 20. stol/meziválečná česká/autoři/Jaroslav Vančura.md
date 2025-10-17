@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - spisovatel, dramatik, režisér, původním povoláním lékař
 - člen a první předseda Devětsilu, přivrženec poetismu, publikoval v mnoha časopisech (Kmen, Červen, Host
 - člen KSC, spolu se sedmi komunistickými spisovateli kritizujícími Gottwaldovo vedení ze strany vyloučen

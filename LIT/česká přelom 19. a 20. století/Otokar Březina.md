@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 vlastním jménem - Václav Jebavý
 - představitel symbolismu 
 - pocity smutku, mystické motivy 

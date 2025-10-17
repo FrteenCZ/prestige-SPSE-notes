@@ -22,4 +22,4 @@ $$
 \end{gathered}
 $$
 
-#MAT #Goniometrie
+#MAT

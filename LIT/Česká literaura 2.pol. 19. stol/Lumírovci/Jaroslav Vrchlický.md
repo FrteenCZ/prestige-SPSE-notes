@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - vlastním jménem - Emil Frida 
 - 1853-1912
 - plodný básnik (asi 80 sbírek), dramatik (cca 50 her), výborný překladatel překládal z 18 jazyků

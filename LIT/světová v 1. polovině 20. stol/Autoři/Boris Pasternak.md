@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - ruský básník a prozaik, držitel Nobelovy ceny
 - z umělecké rodiny, studoval hudbu a filozofií, pak se věnoval literatuře 
 - účastnil se bojů 2. sv. války (obrana Moskvy před nacisty)

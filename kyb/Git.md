@@ -12,4 +12,4 @@
 	- `fetch` - aktualizuje info o vzdáleném repozitáři
 	- `log` - seznam commitů
 
-#KYB #Coding #Maturitní_otázky 
+#KYB #Coding  

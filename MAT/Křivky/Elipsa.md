@@ -44,4 +44,13 @@ $$
 # 📐 Vzájemná poloha kružnice a přímky
 **tečna**, **sečna**, **vnější**
 
-#MAT #Křivky
+# Tečna
+$$ 
+\begin{gathered}
+\text{s bodem dotyku}\\
+T[x_{T}, y_{T}]\\
+\frac{(x_{T}-m)\cdot(x-m)}{a^2} + \frac{(y_{T}-n)\cdot(y-n)}{b^2} = 1
+\end{gathered}
+$$
+
+#MAT #MAT/Křivky

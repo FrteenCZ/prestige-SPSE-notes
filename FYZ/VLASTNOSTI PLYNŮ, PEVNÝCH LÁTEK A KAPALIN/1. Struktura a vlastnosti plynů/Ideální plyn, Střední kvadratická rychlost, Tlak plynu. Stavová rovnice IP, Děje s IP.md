@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/plyny 
 # 📘 Ideální plyn – přehled
 
 ## ⚛️ Vlastnosti ideálního plynu

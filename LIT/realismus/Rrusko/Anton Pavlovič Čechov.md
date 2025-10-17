@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - 1860-1904
 - z kupecké rodiny, sám lékař, později žil na venkově a zdarma léčil chudé
 - zpočátku psal humoristické povídky, přispíval do novin

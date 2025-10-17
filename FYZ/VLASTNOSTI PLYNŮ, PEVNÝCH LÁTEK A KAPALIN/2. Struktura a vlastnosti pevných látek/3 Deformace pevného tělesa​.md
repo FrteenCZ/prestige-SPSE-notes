@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/pevný
 - **Působením vnější síly** dochází ke změně vzájemné polohy částic
 - Rozlišujeme:
     - **Elastická deformace** (pružná)  

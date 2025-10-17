@@ -14,4 +14,4 @@ s_{n}&=a_{1}\cdot \frac{q^n-1}{q-1}
 \end{align}
 $$
 
-#MAT #Posloupnosti
+#MAT #MAT/Posloupnosti

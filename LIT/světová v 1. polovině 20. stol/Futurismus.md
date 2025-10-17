@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - umělecký směr i nové vidění světa, počátek avantgardy
 - vznik Itálie
 - Filippo Tommaso Marinetti: Manifest futurismu

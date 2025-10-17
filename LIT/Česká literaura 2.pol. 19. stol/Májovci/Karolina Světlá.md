@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - vlastním jménem - Johanna Rottova
 - 1830-1899
 - autorka tzv. venkovského románu 

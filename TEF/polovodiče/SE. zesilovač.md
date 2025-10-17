@@ -1,4 +1,4 @@
-#TEF #Electronics #Semi_conductor
+#TEF #Electronics #TEF/Semi_conductor
 ![[Pasted image 20250123083239.png]]
 - ### proudový zesilovací činitel
 	- malý $I_{B}$ vyvolá velký $I_{C}$

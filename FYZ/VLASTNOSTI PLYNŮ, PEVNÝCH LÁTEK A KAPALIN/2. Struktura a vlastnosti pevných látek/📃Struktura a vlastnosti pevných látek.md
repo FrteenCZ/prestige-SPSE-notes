@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/pevný 
 1) [[1 Krystalické a amorfní látky]]
 2) [[2 Ideální krystalová mřížka a její poruchy​]]
 3) [[3 Deformace pevného tělesa​]]

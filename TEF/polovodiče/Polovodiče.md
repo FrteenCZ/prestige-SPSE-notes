@@ -1,4 +1,4 @@
-#TEF #Electronics #Semi_conductor
+#TEF #Electronics #TEF/Semi_conductor
 - periodická tabulka prvků
 	- křemík - Si
 	- germánium - Ge

@@ -69,4 +69,4 @@ $$
 ![[Variace]]
 
 ![[Permutace]]
-#Kombinatorika #MAT
+#MAT/Kombinatorika #MAT

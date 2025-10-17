@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/kapaliny
 # 🔄 Obecné vlastnosti
 - Při **zvýšení teploty** se kapaliny zpravidla **rozpínají** → zvětšuje se jejich objem
 - Různé kapaliny reagují na stejnou změnu teploty **různě**

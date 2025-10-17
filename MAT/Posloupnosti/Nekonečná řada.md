@@ -25,4 +25,4 @@ s=\frac{1-\frac{\sqrt{ 2 }}{2}}{1-\frac{1}{2}}=2-\sqrt{ 2 }
 \end{gathered}
 $$
 
-#MAT #Posloupnosti
+#MAT #MAT/Posloupnosti

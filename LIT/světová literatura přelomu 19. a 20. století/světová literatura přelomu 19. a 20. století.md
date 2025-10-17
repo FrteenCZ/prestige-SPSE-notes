@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - vývoj vědy a techniky
 - Albert Einstein
 - odklon od boha - atheismus

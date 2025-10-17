@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - francouzský dramatik, prozaik, esejista, kritik
 - zajímal se o historii, dějiny hudby a umění
 - pocházel z vážené notářské rodiny

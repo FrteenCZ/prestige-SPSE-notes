@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 ## prozaik
 - příběhy všední Prahy, postavy z lidového prostředí 
 - ### Povídky malostranské (maturitní četba) 

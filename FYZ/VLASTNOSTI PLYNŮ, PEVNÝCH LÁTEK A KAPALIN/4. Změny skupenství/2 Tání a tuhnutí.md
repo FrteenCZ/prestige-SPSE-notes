@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/změny_skupenství
 # 🧊 Tání
 - Dodáváme **teplo pevné látce** → zvyšuje se **kinetická energie $E_k$ částic**
 - Při dosažení **teploty tání** se začne **rozrušovat krystalová mřížka**

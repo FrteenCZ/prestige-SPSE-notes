@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - pražský německy píšící spisovatel židovského původu
 - předchůdce absurdní literatury
 - nekuřák, abstinent, vegetarián

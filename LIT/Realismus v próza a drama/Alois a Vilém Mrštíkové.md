@@ -1,4 +1,4 @@
-#LIT
+#LIT #LIT/Česká 
 - z Českomoravské vrchoviny
 - Alois učitel a správce školy
 - Vilém-spisovatel, dramatik, překladatel, divadelní kritik; dlouhodobá psychická krize (melancholle, deprese, stihomam)- sebevražda

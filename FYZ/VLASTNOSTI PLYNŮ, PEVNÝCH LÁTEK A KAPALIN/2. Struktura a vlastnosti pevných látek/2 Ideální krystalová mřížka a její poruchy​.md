@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/pevný
 # 📐 Ideální krystalová mřížka
 - **Prostorová geometrická mřížka**, která je obsazena pravidelně rozloženými částicemi
 - Tvořena z tzv. **elementárních buněk**

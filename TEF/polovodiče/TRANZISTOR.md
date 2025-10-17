@@ -1,4 +1,4 @@
-#TEF #Electronics #Semi_conductor
+#TEF #Electronics #TEF/Semi_conductor
 - Volt-amperová charakteritika
 	- ![[Pasted image 20250123084541.png]]
 	- ![[Pasted image 20250123084638.png]]

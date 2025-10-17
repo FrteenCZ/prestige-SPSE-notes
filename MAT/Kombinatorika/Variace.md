@@ -8,4 +8,4 @@ $$
 $$
 V'_{k(n)}=n\cdot n\cdot ~\dots ~= n^k
 $$
-#MAT #Kombinatorika 
+#MAT #MAT/Kombinatorika 

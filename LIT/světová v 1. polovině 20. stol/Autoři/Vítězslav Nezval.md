@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - spisovatel, básník a dramatik, překladatel
 - spoluzakladatel poetismu, vůdčí osobnost čes. surrealismu, vstoupil do KSČ, člen Devětsilu, iniciátor čes. avantgardního hnutí, po 2. sv. v. přiklon k socialistickému realismu
 - rysy tvorby: optimismus, hravost, fantazie, kontakt s moderní evropskou literaturou

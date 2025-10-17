@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - představitel psychologické prózy
 - přes den pracoval v bance, v noci psal, zemřel na vyčerpání
 - romány zasazeny do maloměsta přelomu 19. a 20. st.

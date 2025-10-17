@@ -1,4 +1,4 @@
-#LIT
+#LIT #LIT/Světová
 - fr. filozof, spisovatel, dramatik, literární kritik a politický aktivista, představitel existencionalismu a marxismu (ačkoli odsuzoval sovětský komunismus)
 - působil jako středoškolský učitel filozofie
 - cesty: USA, SSSR, Kuba, Čína, v 60. letech dvakrát ČSSR

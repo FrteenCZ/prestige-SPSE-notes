@@ -3,4 +3,4 @@
 $$
 P_{n}=n!
 $$
-#Kombinatorika #MAT
+#MAT/Kombinatorika #MAT

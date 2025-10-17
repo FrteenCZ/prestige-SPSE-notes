@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - Vzniká **po 1. světové válce ve Francii** jako **umělecký směr i životní styl**.
 - Usiluje o **osvobození mysli**, zdůrazňuje **podvědomí**, **sny**, **představy**, **pocity** a **myšlenky**.
 - **Ovlivněn psychoanalýzou** Sigmunda Freuda – inspirace **halucinacemi**, sny, představami.

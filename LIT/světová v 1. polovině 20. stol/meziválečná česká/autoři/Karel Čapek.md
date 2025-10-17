@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - spisovatel, novinář, dramatik, překladatel a fotograf
 - narozen v Malých Svatoňovicích, otec lékař, matka Božena byla velmi dominantní, kromě staršího bratra Josefa měl ještě sestru Helenu 
 - studia na různých gymnáziích (z jednoho vyloučen za organizaci protirakouského spolku), doktorát na filozofické fakultě, studijní pobyty v Paříži a Berlíně

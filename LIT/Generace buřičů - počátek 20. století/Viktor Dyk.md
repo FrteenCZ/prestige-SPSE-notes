@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - básník, prozaik, publicista, dramatik a nacionalistický politik 
 - vystudoval práva, ale věnoval se psaní, publikování a politice 
 - za 1. sv. v. v protirakouském odboji a vězněn za literární činnost ve Vídni

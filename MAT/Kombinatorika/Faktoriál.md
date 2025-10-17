@@ -16,4 +16,4 @@ $$
 \end{align}
 $$
 
-#MAT #Kombinatorika
+#MAT #MAT/Kombinatorika

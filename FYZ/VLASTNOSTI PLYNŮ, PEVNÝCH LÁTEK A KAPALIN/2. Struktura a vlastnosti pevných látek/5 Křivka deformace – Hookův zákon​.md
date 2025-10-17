@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/pevný
 # 📊 Křivka deformace
 ![[Pasted image 20250425122431.png]]
 

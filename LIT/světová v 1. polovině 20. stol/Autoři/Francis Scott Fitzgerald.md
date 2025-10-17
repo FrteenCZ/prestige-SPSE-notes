@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - ze zámožné rodiny, studoval prestižní školu
 - v armádě, ale 1. sv. války se neúčastnil
 - reklamní textař, dělník, po napsání románu **Na prahu ráje** (1920) se stává celebritou

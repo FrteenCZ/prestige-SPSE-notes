@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - prozaik, novinar, herec, recitator, konferenciér, autor textů pro kabaret Červená sedma, fejetonista a divadelní kritik v Lidových novinách
 - představitel demokratického proudu
 

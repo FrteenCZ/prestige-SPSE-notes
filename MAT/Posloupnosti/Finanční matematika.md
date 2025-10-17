@@ -19,4 +19,4 @@ $$
 \end{align}
 $$
 
-#MAT #Posloupnosti
+#MAT #MAT/Posloupnosti

@@ -1,4 +1,4 @@
-#LIT #Světová_literatura
+#LIT #LIT/Světová
 - rodák z Prostějova, studoval práva, současně navštěvoval přednášky literatury
 - hrál na hudební nástroje, sám komponoval, zhudebňoval své verše
 - odchod z katolické církve, vstup do KSČ

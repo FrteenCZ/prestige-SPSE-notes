@@ -1,4 +1,4 @@
-#IKT #Java #Coding
+#IKT #IKT/Java #Coding
 - aplikace
 	- klasika
 - aplety

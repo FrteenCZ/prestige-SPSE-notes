@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - iniciátor a významný představitel České moderny 
 - úředník ve vídeňské bance, ale udržoval styk s českou kulturou
 - za protirakouskou činnost ve vězení 

@@ -1,4 +1,4 @@
-#IKT #Java #Coding
+#IKT #IKT/Java #Coding
 # Proměnné v Javě
 - Proměnná je pojmenované místo v paměti, které uchovává hodnotu určitého typu.
 - Každá proměnná má **typ** (např. `int`, `double`, `String`) a **název**.

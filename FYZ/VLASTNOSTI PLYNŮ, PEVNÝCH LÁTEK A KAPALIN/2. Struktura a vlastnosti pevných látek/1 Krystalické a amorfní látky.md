@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/pevný
 # 💎 Krystalické látky
 - **Pravidelné uspořádání částic** v krystalové mřížce
 - **Silné přitažlivé síly** mezi částicemi

@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - 1841 - 1901
 - drama Radúz a Mahulena
 	- pohádkový motiv, hudba Josefa Suka

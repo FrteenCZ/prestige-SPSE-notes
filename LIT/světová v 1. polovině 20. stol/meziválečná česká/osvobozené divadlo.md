@@ -1,4 +1,4 @@
-#LIT #Česká_literatura
+#LIT #LIT/Česká
 - **Vest pocket revue** - studentská recese, prvotina 1927
 - první hry doba hospodářské krize kritizují nezaměstnanost a její důsledky
 	- **Balada z hadrů**

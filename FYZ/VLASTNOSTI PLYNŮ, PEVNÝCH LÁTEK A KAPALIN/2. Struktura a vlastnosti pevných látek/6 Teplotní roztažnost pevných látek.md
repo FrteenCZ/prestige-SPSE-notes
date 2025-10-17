@@ -1,4 +1,4 @@
-#FYZ
+#FYZ #FYZ/Vlastnosti_látek #FYZ/Vlastnosti_látek/pevný
 # 📏 Délková teplotní roztažnost
 
 - při zahřátí se **zvětšuje délka tělesa**
