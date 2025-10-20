@@ -18,3 +18,4 @@
 - svět fantasy (znovuobjevování mýtů, legend, příběhů z minulosti)
 
 [[existencialismus]]
+[[Beat generation]]

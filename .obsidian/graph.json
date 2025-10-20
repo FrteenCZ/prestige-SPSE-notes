@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"CH/\"",
+      "query": "path:\"FYZ/\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"FYZ/\" ",
+      "query": "path:\"TEF/\" ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -25,7 +25,7 @@
       "query": "path:\"IKT/\"",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 13125356
       }
     },
     {
@@ -36,14 +36,14 @@
       }
     },
     {
-      "query": "path:\"MAT/\"",
+      "query": "path:\"CH/\"",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:\"TEF/\"",
+      "query": "path:\"MAT/\"",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -63,10 +63,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.707900207900208,
-  "repelStrength": 14.6569646569647,
-  "linkStrength": 0.583160083160083,
-  "linkDistance": 245,
-  "scale": 0.18588172978711237,
-  "close": false
+  "centerStrength": 0.903326403326403,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 156,
+  "scale": 0.17256523524046105,
+  "close": true
 }
