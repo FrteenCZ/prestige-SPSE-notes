@@ -12,12 +12,14 @@ Když je index lomu čočky $n_2$ větší než index lomu okolního prostředí
 ![[Lenses_convex.svg]]
 - pak jsou spojky uprostřed nejsilnější.​
 ![[Lens1 1.svg]]
+![[lens_convex.svg]]
 
 ## Rozptylné čočky (rozptylky) - konkávní​
 Pokud je index lomu čočky $n_2$ větší než index lomu okolního prostředí $n_1$, $n_2 > n_1$
 ![[Lenses_concave.svg]]
 - Pak jsou rozptylky uprostřed nejtenčí.​
 ![[Lens1b.svg]]
+![[lens_concave.svg]]
 # základní pojmy optické zobrazování​
 ![[Pasted image 20251015092150.png]]
 $a$ - předmětová vzdálenost​

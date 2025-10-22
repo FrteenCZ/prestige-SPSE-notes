@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "430118c1c7bcd1c8",
+        "id": "f5f5c14c9d55e0c5",
         "type": "tabs",
         "children": [
           {
-            "id": "1667dc4f2d119706",
+            "id": "86f6eaf8a09da0ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "MAT/Křivky/Kružnice.md",
+                "bFile": "MAT/Křivky/Kružnice.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Kružnice"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#LIT/Světová",
+                "query": "tag:#FYZ/Vlastnosti_látek/plyny",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,34 +179,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1667dc4f2d119706",
+  "active": "86f6eaf8a09da0ee",
   "lastOpenFiles": [
+    "README.md",
+    "MAT/Kombinatorika/Permutace.md",
+    "Untitled.md",
+    "MAT/Křivky/Hyperbola.md",
+    "MAT/Křivky/Kružnice.md",
+    "MAT/Křivky/Elipsa.md",
+    "MAT/Křivky/Parabola.md",
+    "FYZ/optika/8. kulové zrcadlo.md",
+    "FYZ/optika/3. Odraz a lom světla.md",
+    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/2 Styk kapaliny se stěnou nádoby.md",
+    "LIT/po 2. světové válce/Beat generation.md",
+    "FYZ/optika/Čočky.md",
+    "Images/lens_concave.svg",
+    "Images/lens_convex.svg",
+    "kyb/Regulační Technika - 2.md",
+    "kyb/PID.md",
+    "LIT/po 2. světové válce/autoři/Jack Kerouac.md",
     "IKT/java otázky.md",
     "IKT/java příkazy.md",
-    "LIT/po 2. světové válce/autoři/Jack Kerouac.md",
-    "LIT/po 2. světové válce/Beat generation.md",
     "LIT/po 2. světové válce/Situace po 2. sv. válce.md",
-    "MAT/Kombinatorika/Permutace.md",
     "FYZ/molekoule.md",
     "ssx.md",
     "sex.md",
     "MAT/Kombinatorika/Variace.md",
-    "README.md",
     "FYZ/📃FYZ.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/5 Sytá a přehřátá pára. Vodní pára v atmosféře.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/4 Vypařování, var a kondenzace.md",
     "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/3 Sublimace a desublimace.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/2 Tání a tuhnutí.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/1 Fázové přeměny.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/4. Změny skupenství/📃Změny skupenství.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/6 Teplotní objemová roztažnost kapalin.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/4 Kapilární jevy v praxi.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/3 Kapilární jevy.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/2 Styk kapaliny se stěnou nádoby.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/1 Povrchová vrstva. Povrchová síla. Povrchové napětí.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/3. Struktura a vlastnosti kapalin/📃Struktura a vlastnosti kapalin.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/6 Teplotní roztažnost pevných látek.md",
-    "FYZ/VLASTNOSTI PLYNŮ, PEVNÝCH LÁTEK A KAPALIN/2. Struktura a vlastnosti pevných látek/5 Křivka deformace – Hookův zákon​.md",
     "Images/Pasted image 20251015151224.png",
     "Images/circle.svg",
     "Images/sex.svg",
@@ -211,8 +217,6 @@
     "Images/Pasted image 20250602113919.png",
     "Images/Pasted image 20251001092003.png",
     "Images/Pasted image 20251001093525.png",
-    "Images/Pasted image 20251015092150.png",
-    "Images/Pasted image 20251015095022.png",
     "MAT/Kombinatorika/Untitled.base",
     "MAT/Kombinatorika/Untitled 1.base",
     "MAT/Goniometrie",

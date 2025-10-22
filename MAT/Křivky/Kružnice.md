@@ -24,9 +24,8 @@ $$
 # Tečna
 $$
 \begin{gathered}
-\text{s bodem dotyku} && \text{s vnějším bodem} \\
-T[x_{T}, y_{T}] && A[x_{A}, y_{A}] \\
-t:(x_{T}-m)\cdot(x-m)+(y_{T}-n)\cdot(y-n) && t:(x_{T}-m)\cdot(x-m)+(y_{T}-n)\cdot(y-n)
+T[x_{T}, y]\\
+t:(x_{T}-m)\cdot(x-m)+(y_{T}-n)\cdot(y-n)
 \end{gathered}
 $$
 
