@@ -1,3 +1,4 @@
+#MAT/Kombinatorika #MAT
 Kombinatorika se zabývá **počítáním možností**, jak:
 - vytvářet různé **skupiny / uspořádání z daných prvků**
 - pracujeme pouze s **konečnými množinami** (tzn. konečný počet možností)
@@ -65,8 +66,11 @@ $$
 16 - 4 = \underline{\underline{12}}  
 $$
 ---
-
+# Variace
 ![[Variace]]
 
+# Permutace
 ![[Permutace]]
-#MAT/Kombinatorika #MAT
+
+# Kombinace
+![[Combination]]
