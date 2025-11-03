@@ -10,3 +10,4 @@
 
 # autoři
 [[Jack Kerouac]]
+[[Ken Kesey]]
