@@ -1,4 +1,5 @@
 #MAT #MAT/Příklady
+[[MAT/Křivky/Parabola|Parabola]]
 # 1. Určete souřadnice průsečíků paraboly $y^{2}-12x+24=0$ s přímkou $2x+y-4=0$.
 $$
 \begin{align}
@@ -17,7 +18,7 @@ x=\{ 2,5 \} \\
 \boxed{P=\{ [2,0],[5,-6] \}}
 \end{align}
 $$
-# 2. Oblouk mostu s vodorovnou mostovkou má tvar paraboly s vrcholem $V$ ve středu oblouku a je vyztužen šesti svislými pilíři (viz. obr.). Vypočítejte délku šesti pilířů, jestliže oblouk mostu má rozpětí $240 ~\pu{ m }$ a jeho výška v nejvyšším bodě nad hladinou je $80 ~\pu{m  }$.
+# 2. Oblouk mostu s vodorovnou mostovkou má tvar paraboly s vrcholem $V$ ve středu oblouku a je vyztužen šesti svislými pilíři (viz. obr.). Vypočítejte délku šesti pilířů, jestliže oblouk mostu má rozpětí $\pu{ 240m }$ a jeho výška v nejvyšším bodě nad hladinou je $\pu{80m  }$.
 $$
 \begin{align}
 V&=[120,80] \\
@@ -94,7 +95,7 @@ n=5.5 \\
 \end{align}
 $$
 
-# 7. Parabolický oblouk má rozpětí $l = 120 ~\pu{ m }$ a výšku $h = 90 \pu{ ~m }$. Vyjádřete rovnici parabolického oblouku.
+# 7. Parabolický oblouk má rozpětí $l = \pu{120 m }$ a výšku $h =  \pu{ 90m }$. Vyjádřete rovnici parabolického oblouku.
 $$
 \begin{align}
 l=120 \pu{ ~m } \\

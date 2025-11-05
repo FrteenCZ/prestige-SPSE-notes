@@ -1,4 +1,5 @@
-#MAT #MAT/Křivky 
+#MAT #MAT/Příklady  
+[[MAT/Křivky/Kružnice|Kružnice]]
 $$
 \begin{align}
 A[2;1]  \\

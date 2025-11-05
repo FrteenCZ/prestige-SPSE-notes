@@ -1,4 +1,5 @@
-#MAT #MAT/Příklady
+t#MAT #MAT/Příklady
+[[MAT/Křivky/Hyperbola|Hyperbola]]
 # 1. Najděte rovnici hyperboly, která prochází bodem $M[10,2]$ a jejíž asymptoty mají rovnice $y=\pm2x$
 $$
 \begin{align}
