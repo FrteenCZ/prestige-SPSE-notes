@@ -59,6 +59,8 @@ k+1
 \end{gathered}
 $$
 ---
+
+# Příklady
 $$
 \begin{pmatrix}
 4 \\
@@ -107,4 +109,76 @@ $$
 126 \\
 1
 \end{pmatrix}
+$$
+---
+$$
+\begin{align}
+\begin{pmatrix}
+n \\
+n-2
+\end{pmatrix} = \frac{n!}{(n-2)!(2)!} = \frac{n\cdot(n-1)\cdot(n-2)!}{(n-2)!\cdot2!}=\frac{n^{2}-n}{2} \\
+\\
+\begin{pmatrix}
+n+5 \\
+n+3
+\end{pmatrix} - \begin{pmatrix}
+n+4 \\
+n+2
+\end{pmatrix} = \begin{pmatrix}
+n+4 \\
+n+3
+\end{pmatrix} = \frac{(n+4)!}{(n+3)!(1)!}=\frac{(n+4)}{1}=n+4 \\
+ \\
+5n=\begin{pmatrix}
+n \\
+n-2
+\end{pmatrix} = \frac{n^{2}-n}{2} \\
+10n=n^{2}-n \\
+11n-n^{2}=0 \\
+n(11-n)=0 \\
+n=\{ \cancel0,11 \}
+\end{align}
+$$
+---
+$$
+\begin{align}
+\begin{pmatrix}
+x \\
+x-2
+\end{pmatrix}+\begin{pmatrix}
+x \\
+x-1
+\end{pmatrix}=\begin{pmatrix}
+x+1 \\
+2
+\end{pmatrix} \\
+\begin{pmatrix}
+x+1 \\
+x-1
+\end{pmatrix}=\begin{pmatrix}
+x+1 \\
+2
+\end{pmatrix} \\
+\frac{(x+1)x}{2}=\frac{(x+1)!}{2(x-1)!} \\
+x^{2}+x=x^{2}+x \\
+0=0 \\
+x \in N-\{ 1 \}
+\end{align}
+$$
+---
+$$
+\begin{align}
+\begin{pmatrix}
+x+3 \\
+x+1
+\end{pmatrix}-3\begin{pmatrix}
+x-1 \\
+x-2
+\end{pmatrix}=7 \\
+\frac{(x+2)(x+3)}{2}-\frac{3\cdot(x-1)}{1}=7 \\
+x^{2}+5x+6-6x+6=14 \\
+x^{2}-x-2=0 \\
+x=\{ -1, 2 \} \\
+\boxed{P=\{ 2 \}}
+\end{align}
 $$

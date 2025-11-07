@@ -6,6 +6,7 @@ $$
 $$
 ---
 
+# Příklady
 $$
 \begin{align}
 &\frac{n^2-9}{(n+3)!}+\frac{6}{(n+2)!}-\frac{1}{(n+1)!}= \\

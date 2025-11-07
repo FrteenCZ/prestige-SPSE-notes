@@ -30,5 +30,10 @@ je technologie, která se zabývá vytvářením strojů a systémů schopných 
 	- Unsupervised learning
 	- Reinforcement learning
 
-## regression
-![[regression]]
+## učení s učitelem
+![[Pasted image 20251106092717.png]]
+### regression
+![[Regression]]
+
+### Klasifikace
+![[Klasifikace]]

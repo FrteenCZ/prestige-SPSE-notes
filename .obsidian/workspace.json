@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d6d6fe2dcb0d958b",
+        "id": "49675853ff82bf7f",
         "type": "tabs",
         "children": [
           {
-            "id": "e0ff750e06387ffb",
+            "id": "f98e1186b61781eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYZ/optika/Optické přístroje​.md",
+                "file": "kyb/Regulační Technika - 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optické přístroje​"
+              "title": "Regulační Technika - 2"
+            }
+          },
+          {
+            "id": "69f28e9fce6d8408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kyb/AI/Klasifikace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Klasifikace"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +151,22 @@
             }
           },
           {
-            "id": "a8386caaad7c8202",
+            "id": "7ad0b5796624c888",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "kyb/AI/Klasifikace.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Klasifikace"
+            }
+          },
+          {
+            "id": "c64889a6afec7644",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -144,24 +174,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "7ad0b5796624c888",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "FYZ/optika/Optické přístroje​.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Optické přístroje​"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,54 +195,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0ff750e06387ffb",
+  "active": "69f28e9fce6d8408",
   "lastOpenFiles": [
-    "Images/Pasted image 20251105150051.png",
-    "Images/Pasted image 20251105150014.png",
-    "FYZ/optika/12. Oko.md",
-    "FYZ/optika/Optické přístroje​.md",
-    "MAT/Příklady/Parabola.md",
-    "MAT/Příklady/Hyperbola.md",
     "MAT/Kombinatorika/Combination.md",
-    "MAT/Příklady/Kružnice.md",
-    "MAT/Posloupnosti/Posloupnost.md",
-    "MAT/Kombinatorika/Kombinatorika.md",
-    "FYZ/optika/8. kulové zrcadlo.md",
-    "FYZ/optika/Čočky.md",
-    "MAT/Posloupnosti/Nekonečná řada.md",
-    "MAT/Posloupnosti/Geometrická posloupnost.md",
-    "FYZ/optika/📃optika.md",
-    "IKT/java otázky.md",
-    "LIT/po 2. světové válce/autoři/Ken Kesey.md",
-    "LIT/po 2. světové válce/Beat generation.md",
-    "LIT/po 2. světové válce/autoři/Joseph Heller.md",
-    "LIT/po 2. světové válce/Situace po 2. sv. válce.md",
-    "LIT/po 2. světové válce/existencialismus.md",
-    "LIT/po 2. světové válce/autoři/William Styron.md",
-    "Images/Drawing 2025-11-02 17.29.20.excalidraw.md",
-    "MAT/Křivky/Hyperbola.md",
-    "MAT/Křivky/Parabola.md",
-    "MAT/Příklady",
     "MAT/Kombinatorika/Variace.md",
     "MAT/Kombinatorika/Permutace.md",
+    "MAT/Kombinatorika/Kombinatorika.md",
+    "MAT/Kombinatorika/Faktoriál.md",
+    "IKT/java otázky.md",
+    "IKT/java příkazy.md",
+    "IKT/java Proměnné a datové typy.md",
+    "IKT/java.md",
+    "kyb/Přechodová a impulzní charakteristika.md",
+    "Images/Pasted image 20251106112427.png",
+    "Images/Pasted image 20251106112318.png",
+    "kyb/PID.md",
+    "kyb/Regulační Technika - 2.md",
+    "Images/Pasted image 20251106111731.png",
+    "kyb/AI/Klasifikace.md",
+    "kyb/AI/Regression.md",
+    "kyb/BOOL algebra.md",
+    "kyb/Git.md",
+    "kyb/Shell.md",
+    "kyb/AI/Umělá inteligence.md",
+    "Images/Pasted image 20251106095511.png",
+    "Images/Pasted image 20251106092828.png",
+    "Images/Pasted image 20251106092717.png",
+    "Images/Pasted image 20251106092657.png",
     "kyb/AI",
-    "Images/Pasted image 20251030091240.png",
-    "Images/lens_concave.svg",
-    "Images/lens_convex.svg",
-    "Images/Pasted image 20251015151224.png",
-    "Images/circle.svg",
-    "Images/sex.svg",
-    "Images/Pasted image 20250407221118.png",
-    "Images/Pasted image 20250407220833.png",
-    "Images/Pasted image 20250602113919.png",
-    "MAT/Kombinatorika/Untitled.base",
-    "MAT/Kombinatorika/Untitled 1.base",
-    "MAT/Goniometrie",
-    "LIT/po 2. světové válce/autoři",
-    "LIT/po 2. světové válce",
-    "MAT/Kombinatorika",
-    "Untitled.base",
-    "FYZ/optika",
+    "kyb",
+    "TEF/číslicová elektronika/číslicová elektronika.md",
+    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
+    "TEF/číslicová elektronika/Boolean algebra.md",
+    "TEF/veličiny/odpor.md",
+    "TEF/veličiny/IMPEDANCE.md",
+    "TEF/rezistory/proměnné rezistory.md",
+    "TEF/polovodiče/optické součástky.md",
+    "TEF/polovodiče/USMĚRŇOVAČ.md",
+    "TEF/číslicová elektronika",
+    "TEF/veličiny",
+    "TEF/rezistory",
+    "TEF/polovodiče",
+    "TEF/induktur(cívky)",
+    "TEF/Kondezátory",
+    "TEF",
+    "MAT/Příklady",
+    "Images/zenerova dioda.png",
+    "Images/transformátor.png",
+    "Images/tlak.png",
     "Untitled.canvas"
   ]
 }
