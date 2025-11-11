@@ -1,3 +1,4 @@
+#KYB #Electronics
 # Přechodová
 ![[Pasted image 20251106111731.png]]
 

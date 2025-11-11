@@ -182,3 +182,80 @@ x=\{ -1, 2 \} \\
 \boxed{P=\{ 2 \}}
 \end{align}
 $$
+---
+z 16 4 připraveni A B
+$$
+\begin{pmatrix}
+4 \\
+2
+\end{pmatrix} \cdot \begin{pmatrix}
+12 \\
+6
+\end{pmatrix}
+$$
+---
+v bedně je 28 perfektní a 2 vadné, vybíráme 5 aby 3 perfektní a 2 vadný
+
+$$
+\begin{pmatrix}
+28 \\
+3
+\end{pmatrix} \cdot \begin{pmatrix}
+2 \\
+2
+\end{pmatrix}
+$$
+---
+12 dívek a 14 chlapců, vybíráme čtveřice
+- stejné pohlaví
+$$
+\begin{pmatrix}
+12 \\
+4
+\end{pmatrix}+\begin{pmatrix}
+14 \\
+4
+\end{pmatrix}
+$$
+- s jednou dívkou
+$$
+\begin{pmatrix}
+14 \\
+3
+\end{pmatrix} \cdot 12
+$$
+- je v nich max 1 dívka
+$$
+\begin{pmatrix}
+14 \\
+3
+\end{pmatrix} \cdot 12+\begin{pmatrix}
+14 \\
+4
+\end{pmatrix}
+$$
+---
+kolik přímek je určeno osmi body, jestliže
+- žádné tři body neleží na jedné přímce
+$$
+\begin{pmatrix}
+8 \\
+2
+\end{pmatrix}=28
+$$
+- právě ti body leží v jedné přímce
+$$
+\begin{pmatrix}
+8 \\
+2
+\end{pmatrix}-2=26
+$$---
+kolik různých prvků dá 253 dvouprvkových kombinací
+$$
+\begin{align}
+\frac{n!}{2(n-2)!}=253 \\
+n\cdot(n-1)=256 \\
+n^{2}-n-506=0 \\
+n=\{ \cancel{-22},23 \}
+\end{align}
+$$
