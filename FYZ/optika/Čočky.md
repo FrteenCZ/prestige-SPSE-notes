@@ -24,7 +24,7 @@ Pokud je index lomu čočky $n_2$ větší než index lomu okolního prostředí
 ![[Pasted image 20251015092150.png]]
 $a$ - předmětová vzdálenost​
 $a'$ - obrazová vzdálenost​
-$f$ - ohnisková vzdálenost​
+$f$ - ohnisková vzdálenost​c
 $y$ – výška předmětu​
 $y'$- výška obrazu
 

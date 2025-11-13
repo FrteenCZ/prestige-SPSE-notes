@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57d58405a058acf6",
+        "id": "ba77fe33ebdb0925",
         "type": "tabs",
         "children": [
           {
-            "id": "e67f801fc0abb249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAT/Příklady/Operace s vektory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Operace s vektory"
-            }
-          },
-          {
-            "id": "b9934bca4d8cea07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAT/Kombinatorika/Combination.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Combination"
-            }
-          },
-          {
-            "id": "bc9c116a6f190ec4",
+            "id": "b5af0e83ed25db89",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -45,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kyb/AI/Klasifikace.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Klasifikace"
+              "title": "Outline"
             }
           },
           {
@@ -205,43 +175,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc9c116a6f190ec4",
+  "active": "c64889a6afec7644",
   "lastOpenFiles": [
+    "kyb/AI/Umělá inteligence.md",
+    "kyb/AI/Clustering.md",
+    "kyb/AI/Klasifikace.md",
+    "Images/Pasted image 20251113103159.png",
+    "Images/Pasted image 20251113100626.png",
+    "kyb/AI/Regression.md",
+    "LIT/po 2. světové válce/autoři/Umberto Eco.md",
+    "LIT/po 2. světové válce/Postmodernismus.md",
+    "LIT/po 2. světové válce/autoři/Albert Camus.md",
+    "LIT/po 2. světové válce/Beat generation.md",
+    "MAT/Příklady/2. Analytické vyjádření paraboly.md",
+    "MAT/Příklady/9. Analytické vyjádření kružnice.md",
+    "MAT/Příklady/29. Analytické vyjádření hyperboly.md",
+    "MAT/Příklady/25b. Analytické vyjádření přímky v rovině a prostoru.md",
+    "MAT/Příklady/25a. Operace s vektory.md",
+    "LIT/po 2. světové válce/existencialismus.md",
+    "MAT/Příklady/5a. Vzájemná poloha přímek a rovin v prostoru.md",
+    "MAT/Příklady/5b. Odchylky přímek a rovin.md",
+    "MAT/Příklady/5c. Vzdálenost v analytické geometrii.md",
+    "MAT/Kombinatorika/Combination.md",
+    "MAT/Kombinatorika/Pascalův trojúhelník.md",
+    "FYZ/optika/Čočky.md",
+    "FYZ/optika/8. kulové zrcadlo.md",
     "kyb/Přechodová a impulzní charakteristika.md",
     "kyb/Regulační Technika - 2.md",
-    "MAT/Příklady/Parabola.md",
-    "MAT/Příklady/Operace s vektory.md",
-    "MAT/Příklady/Kružnice.md",
-    "MAT/Příklady/Hyperbola.md",
-    "MAT/Příklady/Analytické vyjádření přímky v rovině a prostoru.md",
-    "MAT/Kombinatorika/Pascalův trojúhelník.md",
-    "MAT/Kombinatorika/Combination.md",
     "MAT/Kombinatorika/Variace.md",
     "MAT/Kombinatorika/Permutace.md",
-    "kyb/AI/Klasifikace.md",
-    "MAT/Kombinatorika/Kombinatorika.md",
-    "MAT/Kombinatorika/Faktoriál.md",
-    "IKT/java otázky.md",
-    "IKT/java příkazy.md",
-    "IKT/java Proměnné a datové typy.md",
-    "IKT/java.md",
     "Images/Pasted image 20251106112427.png",
     "Images/Pasted image 20251106112318.png",
-    "kyb/PID.md",
     "Images/Pasted image 20251106111731.png",
-    "kyb/AI/Regression.md",
-    "kyb/BOOL algebra.md",
-    "kyb/Git.md",
-    "kyb/Shell.md",
-    "kyb/AI/Umělá inteligence.md",
     "Images/Pasted image 20251106095511.png",
     "Images/Pasted image 20251106092828.png",
     "Images/Pasted image 20251106092717.png",
     "Images/Pasted image 20251106092657.png",
     "kyb/AI",
     "kyb",
-    "TEF/číslicová elektronika/číslicová elektronika.md",
-    "TEF/číslicová elektronika/Vyjádření logické funkce.md",
     "TEF/číslicová elektronika",
     "TEF/veličiny",
     "TEF/rezistory",
@@ -251,8 +222,6 @@
     "TEF",
     "MAT/Příklady",
     "Images/zenerova dioda.png",
-    "Images/transformátor.png",
-    "Images/tlak.png",
     "Untitled.canvas"
   ]
 }

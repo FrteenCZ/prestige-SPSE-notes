@@ -1,3 +1,4 @@
+#KYB #KYB/AI #Coding
 # Nearest neighbor
 1. Spočítám vzdálenosti ke všem bodům
 2. Seřadím je

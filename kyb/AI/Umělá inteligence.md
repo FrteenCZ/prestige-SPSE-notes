@@ -37,3 +37,12 @@ je technologie, která se zabývá vytvářením strojů a systémů schopných 
 
 ### Klasifikace
 ![[Klasifikace]]
+
+## učení bez učitele
+### clustering
+![[Clustering]]
+
+### Detekce anomálií
+
+### PCA (Principle component analysis)
+![[Pasted image 20251113103159.png]]
