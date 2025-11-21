@@ -1,0 +1,3 @@
+ #LIT #LIT/Světová 
+- ruský prozaik a dramatik, vystudovaný lékař, od 30. let nežádoucí spisovatel, ale žádost o emigraci zamítnuta této dob napsal dílo Mistr a Markétka
+- **Mistr a Markétka** (publikováno až v 60. letech, předtím jako samizda a cenzurované také časopisecky na pokračování) - satirický román, podobenství: hlavní postava d'ábel přichází do Moskvy - spojení hrůzy a komična, seznámí se se spisovatelem (Mistrem) a jeho milenkou Marketkou: základní příběh doplněn příběhem o Ježíšovi napsaný Mistrem; fantastické sily zasahují do světa reálného, román Ize považovala kategorický obraz autorovy současnosti (stalinský teror)

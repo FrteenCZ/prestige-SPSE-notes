@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba77fe33ebdb0925",
+        "id": "8844844b5c477ec7",
         "type": "tabs",
         "children": [
           {
-            "id": "b5af0e83ed25db89",
+            "id": "17a86ca9e6a50504",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MAT/Příklady",
+                "query": "orten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "kyb/Přechodová a impulzní charakteristika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Přechodová a impulzní charakteristika"
             }
           },
           {
@@ -137,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "kyb/Přechodová a impulzní charakteristika.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Přechodová a impulzní charakteristika"
             }
           },
           {
@@ -175,42 +177,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c64889a6afec7644",
+  "active": "17a86ca9e6a50504",
   "lastOpenFiles": [
-    "kyb/AI/Umělá inteligence.md",
-    "kyb/AI/Clustering.md",
-    "kyb/AI/Klasifikace.md",
-    "Images/Pasted image 20251113103159.png",
-    "Images/Pasted image 20251113100626.png",
-    "kyb/AI/Regression.md",
-    "LIT/po 2. světové válce/autoři/Umberto Eco.md",
-    "LIT/po 2. světové válce/Postmodernismus.md",
-    "LIT/po 2. světové válce/autoři/Albert Camus.md",
+    "LIT/po 2. světové válce/autoři/Jean-Paul Sartre.md",
     "LIT/po 2. světové válce/Beat generation.md",
+    "LIT/po 2. světové válce/autoři/William Styron.md",
+    "LIT/po 2. světové válce/existencialismus.md",
+    "LIT/po 2. světové válce/autoři/Ken Kesey.md",
+    "LIT/po 2. světové válce/autoři/Umberto Eco.md",
+    "LIT/po 2. světové válce/autoři/Michail Bulgakov (1891-1940).md",
+    "LIT/po 2. světové válce/autoři/Joseph Heller.md",
+    "LIT/po 2. světové válce/autoři/Jack Kerouac.md",
+    "LIT/po 2. světové válce/autoři/Gabriel García Márquez (1927-2014).md",
+    "LIT/po 2. světové válce/autoři/Alexandr Solženicyn (1918-2008).md",
+    "LIT/po 2. světové válce/autoři/Albert Camus.md",
+    "LIT/po 2. světové válce/Totalitní společnost a její odraz v literatuře.md",
+    "LIT/po 2. světové válce/Magický realismus.md",
+    "MAT/Kombinatorika/Pascalův trojúhelník.md",
+    "MAT/Kombinatorika/Variace.md",
+    "MAT/Kombinatorika/Kombinatorika.md",
     "MAT/Příklady/2. Analytické vyjádření paraboly.md",
     "MAT/Příklady/9. Analytické vyjádření kružnice.md",
-    "MAT/Příklady/29. Analytické vyjádření hyperboly.md",
-    "MAT/Příklady/25b. Analytické vyjádření přímky v rovině a prostoru.md",
-    "MAT/Příklady/25a. Operace s vektory.md",
-    "LIT/po 2. světové válce/existencialismus.md",
-    "MAT/Příklady/5a. Vzájemná poloha přímek a rovin v prostoru.md",
-    "MAT/Příklady/5b. Odchylky přímek a rovin.md",
-    "MAT/Příklady/5c. Vzdálenost v analytické geometrii.md",
+    "FYZ/optika/Disperze světla.md",
     "MAT/Kombinatorika/Combination.md",
-    "MAT/Kombinatorika/Pascalův trojúhelník.md",
-    "FYZ/optika/Čočky.md",
-    "FYZ/optika/8. kulové zrcadlo.md",
-    "kyb/Přechodová a impulzní charakteristika.md",
-    "kyb/Regulační Technika - 2.md",
-    "MAT/Kombinatorika/Variace.md",
-    "MAT/Kombinatorika/Permutace.md",
+    "MAT/Křivky/Kružnice.md",
+    "MAT/Křivky/Elipsa.md",
+    "MAT/Křivky/Parabola.md",
+    "MAT/Křivky/Hyperbola.md",
+    "Images/Pasted image 20251119093135.png",
+    "Images/Pasted image 20251119092853.png",
+    "FYZ/optika/Barva světla.md",
+    "Images/Pasted image 20251119091807.png",
+    "Images/Pasted image 20251119091741.png",
+    "Untitled.base",
+    "Images/Pasted image 20251113103159.png",
+    "Images/Pasted image 20251113100626.png",
     "Images/Pasted image 20251106112427.png",
     "Images/Pasted image 20251106112318.png",
     "Images/Pasted image 20251106111731.png",
     "Images/Pasted image 20251106095511.png",
-    "Images/Pasted image 20251106092828.png",
-    "Images/Pasted image 20251106092717.png",
-    "Images/Pasted image 20251106092657.png",
     "kyb/AI",
     "kyb",
     "TEF/číslicová elektronika",
@@ -220,8 +225,6 @@
     "TEF/induktur(cívky)",
     "TEF/Kondezátory",
     "TEF",
-    "MAT/Příklady",
-    "Images/zenerova dioda.png",
     "Untitled.canvas"
   ]
 }
