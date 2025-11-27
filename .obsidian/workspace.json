@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAT/Pravděpodobnosti/Pravděpodobnosti.md",
+                "file": "kyb/AI/Reinforcement learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pravděpodobnosti"
+              "title": "Reinforcement learning"
             }
           },
           {
@@ -193,6 +193,11 @@
   },
   "active": "f2c921d9f669081e",
   "lastOpenFiles": [
+    "kyb/AI/Regression.md",
+    "kyb/AI/Clustering.md",
+    "kyb/AI/Klasifikace.md",
+    "kyb/AI/Umělá inteligence.md",
+    "kyb/AI/Reinforcement learning.md",
     "MAT/Pravděpodobnosti/Pravděpodobnosti.md",
     "kyb/BOOL algebra.md",
     "kyb/13 Pasivní součástky.md",
@@ -217,9 +222,6 @@
     "LIT/po 2. světové válce/autoři/Alexandr Solženicyn (1918-2008).md",
     "LIT/po 2. světové válce/autoři/Albert Camus.md",
     "LIT/po 2. světové válce/Totalitní společnost a její odraz v literatuře.md",
-    "LIT/po 2. světové válce/Magický realismus.md",
-    "MAT/Kombinatorika/Pascalův trojúhelník.md",
-    "MAT/Kombinatorika/Variace.md",
     "Images/Pasted image 20251119093135.png",
     "Images/Pasted image 20251119092853.png",
     "Images/Pasted image 20251119091807.png",

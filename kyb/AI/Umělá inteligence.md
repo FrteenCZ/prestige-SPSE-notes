@@ -46,3 +46,5 @@ je technologie, která se zabývá vytvářením strojů a systémů schopných 
 
 ### PCA (Principle component analysis)
 ![[Pasted image 20251113103159.png]]
+## Reinforcement learning
+![[Reinforcement learning]]
