@@ -4,3 +4,5 @@
 - algoritmy:
 	- genetický
 		- dědí se z nejlepších jedinců + mutace
+
+A*, dijisktra

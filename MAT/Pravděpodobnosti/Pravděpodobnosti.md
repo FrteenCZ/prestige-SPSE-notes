@@ -33,7 +33,6 @@ Jev vyjadřuje tvrzení o výsledku náhodného pokusu, o kterém lze rozhodnout
 
 ---
 
-# Příklad
 Máme 4 různé koule: **B, Č, M, Z**  
 Vybíráme 2 koule ([[Combination]]):
 $$  
@@ -67,3 +66,117 @@ P(A)=\frac{m}{n}
 $$
 $m$ - počet příznivých výsledků jevu A
 $n$ -  celkový počet výsledků
+
+---
+číslo od 1-20, P=? že je prime
+$$
+\begin{align}
+\text{primes} = \{ 2, 3, 5,7, 11, 14, 17,19 \} \\
+P(A)=\frac{8}{20}
+\end{align}
+$$
+---
+30 celkem
+2   *1*
+10 *2*
+12 *3*
+5   *4*
+1   *5*
+
+$$
+\begin{gathered}
+1 && 2,3 && <4 \\
+P(1)=\frac{2}{30}=\frac{1}{15} && P(2,3)=\frac{22}{30}=\frac{11}{15} && P(1,2,3)=\frac{12}{15}
+\end{gathered}
+$$
+---
+dvě kostky
+padne 1 a 1
+$$
+\frac{1}{6}\cdot \frac{1}{6} =\frac{1}{36}
+$$
+---
+celkem 60
+špatný  6
+$P$ správný 4
+$$
+\begin{align}
+P=\frac{\begin{pmatrix}
+54 \\
+4
+\end{pmatrix}}{\begin{pmatrix}
+60 \\
+4
+\end{pmatrix}} = 0.64
+\end{align}
+$$
+---
+ze 32 dostane 8
+$P$ esa
+$$
+\begin{align}
+P=\frac{\begin{pmatrix}
+28 \\
+4
+\end{pmatrix}}{\begin{pmatrix}
+32 \\
+8
+\end{pmatrix}}=\pu{ 2‰ }
+\end{align}
+$$
+---
+500 lístků
+5 *1.*
+10 *2.*
+40 *3.*
+$$
+\begin{align}
+P(\text{výhra}) = \frac{55}{500}=0.11
+\end{align}
+$$---
+25 studentů
+10 dívek
+5 lístků
+$$
+P=\frac{\begin{pmatrix}
+10 \\
+2
+\end{pmatrix}\cdot \begin{pmatrix}
+15 \\
+3
+\end{pmatrix}}{\begin{pmatrix}
+25 \\
+5
+\end{pmatrix}}=\frac{13}{43}
+$$
+---
+52 karet
+4 vybíram
+$$
+\begin{align}
+\text{esa}=1 && \text{esa}\geq1 \\
+P=\frac{4\cdot\begin{pmatrix}
+48 \\
+3
+\end{pmatrix}}{\begin{pmatrix}
+52 \\
+4
+\end{pmatrix}} && P'=\frac{\begin{pmatrix}
+48 \\
+4
+\end{pmatrix}}{\begin{pmatrix}
+52 \\
+4
+\end{pmatrix}} \\
+P=0.26 && P'= 0.7187367 \\
+&& P=1-P' \\
+&& P=0.28
+\end{align}
+$$
+---
+10 broskví
+2 nahnělé
+2 berem
+$$
+P=\frac{8}{10}\cdot \frac{7}{9}=0.622
+$$

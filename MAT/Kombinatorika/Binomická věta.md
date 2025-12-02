@@ -67,3 +67,7 @@ $$
 k=9
 \end{align}
 $$
+# S komplexními čísly
+$$
+(\sqrt{ 2 }-i)^5=11\sqrt{ 2 }-i
+$$
