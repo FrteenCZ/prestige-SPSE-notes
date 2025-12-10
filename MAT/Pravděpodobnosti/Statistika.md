@@ -58,4 +58,4 @@ $$
 ## Variační koeficient
 $$
 v_{x}=\frac{s_{x}}{\over{x}}
-$$
+$$---

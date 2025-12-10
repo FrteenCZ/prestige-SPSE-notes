@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAT/Kombinatorika/Combination.md",
+                "file": "FYZ/optika/Interference Světla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combination"
+              "title": "Interference Světla"
+            }
+          },
+          {
+            "id": "5c0749e5e2421a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kyb/AD a DA převodníky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AD a DA převodníky"
             }
           }
         ]
@@ -183,32 +197,32 @@
   },
   "active": "92be92f17a4de605",
   "lastOpenFiles": [
-    "README.md",
+    "FYZ/optika/Interference světla na tenké vrstvě.md",
+    "FYZ/optika/Ohyb světla (difrakce).md",
+    "Images/Pasted image 20251210092617.png",
     "FYZ/optika/Interference Světla.md",
+    "MAT/Pravděpodobnosti/Statistika.md",
+    "kyb/13 Pasivní součástky.md",
+    "kyb/Přechodová a impulzní charakteristika.md",
+    "kyb/AI/Clustering.md",
+    "kyb/AI/Klasifikace.md",
+    "kyb/AI/Regression.md",
+    "kyb/AI/Umělá inteligence.md",
+    "kyb/AI/Reinforcement learning.md",
+    "kyb/Git.md",
+    "kyb/AD a DA převodníky.md",
+    "kyb/PWM.md",
+    "Images/Drawing 2024-11-28 08.13.48.excalidraw.md",
+    "TEF/polovodiče/Polovodiče.md",
+    "TEF/induktur(cívky)/cívky.md",
+    "TEF/polovodiče/TRANZISTOR.md",
     "MAT/Kombinatorika/Combination.md",
+    "README.md",
     "MAT/Pravděpodobnosti/Pravděpodobnosti.md",
     "FYZ/optika/Optické přístroje​.md",
     "LIT/po 2. světové válce/autoři/Gabriel García Márquez (1927-2014).md",
     "LIT/po 2. světové válce/autoři/Alexandr Solženicyn (1918-2008).md",
     "LIT/po 2. světové válce/Totalitní společnost a její odraz v literatuře.md",
-    "LIT/po 2. světové válce/autoři/Alexandr Sotženicyn.md",
-    "MAT/Pravděpodobnosti/Statistika.md",
-    "MAT/Goniometrie/Goniometrie.md",
-    "LIT/po 2. světové válce/autoři/George Orwell (1903-1950).md",
-    "LIT/po 2. světové válce/autoři/Michail Bulgakov (1891-1940).md",
-    "MAT/Kombinatorika/Permutace.md",
-    "MAT/Kombinatorika/Binomická věta.md",
-    "MAT/Kombinatorika/Pascalův trojúhelník.md",
-    "MAT/Křivky/Hyperbola.md",
-    "MAT/Křivky/Elipsa.md",
-    "kyb/AI/Reinforcement learning.md",
-    "kyb/AI/Regression.md",
-    "kyb/AI/Clustering.md",
-    "kyb/AI/Klasifikace.md",
-    "kyb/AI/Umělá inteligence.md",
-    "kyb/BOOL algebra.md",
-    "kyb/13 Pasivní součástky.md",
-    "TEF/Kondezátory/KONDENZÁTOR.md",
     "Images/Pasted image 20251125110023.png",
     "Images/Pasted image 20251125105733.png",
     "MAT/Pravděpodobnosti",
@@ -220,7 +234,6 @@
     "Images/Pasted image 20251113103159.png",
     "Images/Pasted image 20251113100626.png",
     "Images/Pasted image 20251106112427.png",
-    "Images/Pasted image 20251106112318.png",
     "kyb/AI",
     "kyb",
     "TEF/číslicová elektronika",

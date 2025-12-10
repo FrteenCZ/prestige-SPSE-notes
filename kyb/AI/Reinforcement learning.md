@@ -1,4 +1,4 @@
-#KYB #KYB/AI 
+#KYB #KYB/AI #Coding
 - učení pomocí odměn a trestů
 - zkouší náhodný kroky a podle počtu bodů rozhodne, který jsou nejlepší
 - algoritmy:

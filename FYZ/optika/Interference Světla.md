@@ -8,3 +8,15 @@ $$
 \boxed{\Delta l=2k\cdot \frac{\lambda}{2}=k\lambda}
 $$
 $k$ - řád interferenčního minima
+
+# Interference světla na tenké vrstvě
+![[Interference světla na tenké vrstvě]]
+
+# Využití
+- Interferometrie - LIGO
+- Hologramy
+- Tenké vrstvy - brýle
+
+
+# Ohyb světla (difrakce)
+![[Ohyb světla (difrakce)]]
