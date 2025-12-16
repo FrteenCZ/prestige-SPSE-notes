@@ -179,4 +179,20 @@ $$
 2 berem
 $$
 P=\frac{8}{10}\cdot \frac{7}{9}=0.622
-$$
+$$---
+
+# Statistická definice pravděpodobnosti
+[[Statistika]]
+$$p(A) = \frac{\text{jev nastal}=\text{absolutní četnost}~n(A)}{\text{počet pokusů}=n}$$
+
+| n    | n(A) | p(A) |
+| ---- | ---- | ---- |
+| 100  | 18   | .18  |
+| 500  | 75   | .15  |
+| 1000 | 170  | .17  |
+| 2000 | 330  | .165 |
+| 3000 | 512  | .171 |
+| 4000 | 664  | .166 |
+| 5000 | 831  | .166 |
+
+---
