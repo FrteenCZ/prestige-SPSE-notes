@@ -69,3 +69,14 @@ $$
 \end{matrix}
 \end{align}
 $$
+---
+$$
+\begin{align}
+\cos 2x=? &&\sin 2x=? \\
+\sin x=\frac{\sqrt{ 2 }}{3}&&x \in(2\pi;\pi) \\
+\sin 2x=2\sin x\cdot \cos x \\
+\cos2x=\cos ^{2}-\sin ^{2}x \\
+\cos^2x=-\frac{\sqrt{ 7 }}{3} \\
+necesemi
+\end{align}
+$$
