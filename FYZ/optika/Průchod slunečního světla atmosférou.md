@@ -24,3 +24,9 @@
 # Zelený paprsek
 ![[Pasted image 20260107150707.png]]
 
+
+# Halové jevy
+- Mezi sluncem (Měsícem) a okem P: oblak ledových krystalků
+![[Pasted image 20260114150126.png]]
+
+![[Pasted image 20260114150949.png]]

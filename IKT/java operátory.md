@@ -19,7 +19,7 @@ Používají **dva operandy**:
 | ----------- | ----------------- |
 | Aritmetické | `+ - * / %`       |
 | Porovnávací | `== != < > <= >=` |
-| Logické     | `&&               |
+| Logické     | `&&`              |
 | Přiřazovací | `= += -= *= /=`   |
 
 ---

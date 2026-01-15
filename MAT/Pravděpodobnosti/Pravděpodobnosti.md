@@ -196,3 +196,30 @@ $$p(A) = \frac{\text{jev nastal}=\text{absolutní četnost}~n(A)}{\text{počet p
 | 5000 | 831  | .166 |
 
 ---
+2 bílé
+3 černé
+
+$\frac{2}{5}$
+$\frac{3}{5}\cdot \frac{2}{4} = \frac{3}{10}$
+$\frac{2}{5}\cdot \frac{3}{4} + \frac{3}{5}\cdot \frac{2}{4} = \frac{3}{5}$
+
+---
+52 karet
+odebráno 7
+v balíku zůstalo 9 ❤️
+
+$1-\frac{9}{45} = 0.8$
+
+---
+$$
+\begin{align}
+P(D)+P(d)=0.6 \\
+P(d)=0.4 \\
+P(c)=0.3 \\ \\
+P(D)=0.2 \\
+P(C)+P(c)=0.4 \\
+P(C)=0.1
+\end{align}
+$$
+
+---
