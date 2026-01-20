@@ -14,8 +14,13 @@
 
 # Lineární lomená
 ![[Pasted image 20260113150752.png]]
+$$
+\begin{align}
+f:y=\frac{x+1}{x-2} = 1+\frac{3}{x-2}
+\end{align}
+$$
 
-# Mocniné
+# Mocninné
 ![[Pasted image 20260113150838.png]]
 
 # Exponenciální

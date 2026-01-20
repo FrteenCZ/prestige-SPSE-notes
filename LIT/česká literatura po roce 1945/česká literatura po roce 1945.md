@@ -18,7 +18,9 @@
 - r. 1956 na II. sjezdu Svazu československých spisovatelů - kritika schematické literatury, Seifert Hrubín se zastali zakazovaných spisovatelů
 
 - **oficiální lit.** - státem podporovaná, socialisticky orientovaná literatura
+	- [[Marie Majerová]], [[Vladimír Neff]], [[Adolf Branald]], [[Ladislav Fuks]], [[Ota Pavel]]
 - **neoficiální lit.**
 	- **samizdatová lit.** - vydávaná tajně
 	- **undergroundová lit.** - vzniká mimo všechny proudy, protest proti systému a konzumní společnosti
+	- [[Václav Havel]], [[Jaroslav Seifert]]
 - **exilová lit.** - vydávaná mimo Československo
