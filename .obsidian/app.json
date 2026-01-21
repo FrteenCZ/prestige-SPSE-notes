@@ -9,5 +9,7 @@
   },
   "newFileLocation": "current",
   "attachmentFolderPath": "Images",
-  "vimMode": false
+  "vimMode": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

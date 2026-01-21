@@ -13,15 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAT/Calculus/Diferenciální počet.md",
+                "file": "FYZ/molekoule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diferenciální počet"
+              "title": "molekoule"
+            }
+          },
+          {
+            "id": "149f0a68e4cc0e80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/Speciální teorie relativity/Speciální teorie relativity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speciální teorie relativity"
+            }
+          },
+          {
+            "id": "4d1f78070685a394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/Speciální teorie relativity/2. Vznik STR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Vznik STR"
+            }
+          },
+          {
+            "id": "39104bfac8dcfb82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/Speciální teorie relativity/2. Vznik STR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Vznik STR"
+            }
+          },
+          {
+            "id": "4b09b629d5d583c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/Speciální teorie relativity/3. Základní principy STR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Základní principy STR"
+            }
+          },
+          {
+            "id": "fcd12be4c4ccac66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/Speciální teorie relativity/5. Dilatace času.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Dilatace času"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -53,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#KYB",
+                "query": "orten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FYZ/optika/Optické klamy.md",
+                "file": "FYZ/Speciální teorie relativity/5. Dilatace času.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Optické klamy"
+              "title": "Outline of 5. Dilatace času"
             }
           },
           {
@@ -181,8 +252,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c85775b186ad1238",
+  "active": "c64889a6afec7644",
   "lastOpenFiles": [
+    "FYZ/Speciální teorie relativity/Speciální teorie relativity.md",
+    "FYZ/Speciální teorie relativity/5. Dilatace času.md",
+    "Images/Pasted image 20260121152331.png",
+    "FYZ/Speciální teorie relativity/4..md",
+    "FYZ/Speciální teorie relativity/Důsledky STR.md",
+    "FYZ/Speciální teorie relativity/3. Základní principy STR.md",
+    "FYZ/Speciální teorie relativity/2. Vznik STR.md",
+    "FYZ/Speciální teorie relativity/1. Prostor a čas v klasické mechanice.md",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Orten.md",
+    "MAT/Příklady/2. Analytické vyjádření paraboly.md",
+    "FYZ/molekoule.md",
+    "FYZ/Speciální teorie relativity",
     "MAT/Calculus/Diferenciální počet.md",
     "MAT/Příklady/1b. Užití goniometrických vzorců.md",
     "MAT/Příklady/1a. Goniometrické funkce a jejich grafy.md",
@@ -193,7 +276,6 @@
     "Images/Pasted image 20260119205133.png",
     "Images/Pasted image 20260119204504.png",
     "Images/Pasted image 20260119203725.png",
-    "MAT/Příklady/2. Analytické vyjádření paraboly.md",
     "MAT/Příklady/5c. Vzdálenost v analytické geometrii.md",
     "MAT/Křivky/Elipsa.md",
     "FYZ/optika/Průchod slunečního světla atmosférou.md",
@@ -206,21 +288,10 @@
     "Images/Pasted image 20260113150752.png",
     "Images/Pasted image 20260113150838.png",
     "Images/Pasted image 20260113150949.png",
-    "Images/Pasted image 20260113151025.png",
     "sx.md",
     "LIT/česká literatura po roce 1945",
     "MAT/Křivky/Parabola.md",
-    "README.md",
-    "IKT/algoritmy.md",
-    "IKT/java otázky.md",
-    "IKT/java operátory.md",
-    "FYZ/optika/Optické přístroje​.md",
-    "MAT/Pravděpodobnosti/Pravděpodobnosti.md",
     "MAT/Calculus",
-    "MAT/Pravděpodobnosti/Binomické rozdělení.md",
-    "MAT/Kombinatorika/Binomická věta.md",
-    "kyb/Kombinační a sekvenční elektronika/Klopné obvody.md",
-    "kyb/Kombinační a sekvenční elektronika/Kombinační a sekvenční elektronika.md",
     "kyb/Kombinační a sekvenční elektronika",
     "MAT/Pravděpodobnosti/Untitled 1.base",
     "MAT/Pravděpodobnosti/Untitled.base",
@@ -228,7 +299,6 @@
     "Untitled.base",
     "kyb/AI",
     "kyb",
-    "TEF/číslicová elektronika",
     "Untitled.canvas"
   ]
 }
