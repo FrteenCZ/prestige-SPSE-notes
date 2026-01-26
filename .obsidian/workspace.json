@@ -4,95 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "289de66c77789009",
+        "id": "abc94c62880facdc",
         "type": "tabs",
         "children": [
           {
-            "id": "c85775b186ad1238",
+            "id": "8ae17d0996e92976",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYZ/molekoule.md",
+                "file": "MAT/Calculus/Limita funkce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "molekoule"
+              "title": "Limita funkce"
             }
           },
           {
-            "id": "149f0a68e4cc0e80",
+            "id": "a0de2892cf97d341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FYZ/Speciální teorie relativity/Speciální teorie relativity.md",
+                "file": "MAT/Calculus/Limita funkce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Speciální teorie relativity"
+              "title": "Limita funkce"
             }
           },
           {
-            "id": "4d1f78070685a394",
+            "id": "4b82feb75637ea29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/Speciální teorie relativity/2. Vznik STR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Vznik STR"
-            }
-          },
-          {
-            "id": "39104bfac8dcfb82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/Speciální teorie relativity/2. Vznik STR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Vznik STR"
-            }
-          },
-          {
-            "id": "4b09b629d5d583c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/Speciální teorie relativity/3. Základní principy STR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Základní principy STR"
-            }
-          },
-          {
-            "id": "fcd12be4c4ccac66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/Speciální teorie relativity/5. Dilatace času.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Dilatace času"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,26 +206,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c64889a6afec7644",
+  "active": "a0de2892cf97d341",
   "lastOpenFiles": [
+    "MAT/Calculus/Untitled.md",
+    "MAT/Calculus/Limita funkce.md",
+    "MAT/Calculus/Funkce.md",
+    "MAT/Calculus/Diferenciální počet.md",
+    "MAT/Příklady/1b. Užití goniometrických vzorců.md",
+    "MAT/Příklady/1a. Goniometrické funkce a jejich grafy.md",
+    "MAT/Příklady/30.  Goniometrické rovnice.md",
+    "MAT/Příklady/25b. Analytické vyjádření přímky v rovině a prostoru.md",
+    "FYZ/molekoule.md",
     "FYZ/Speciální teorie relativity/Speciální teorie relativity.md",
+    "FYZ/Speciální teorie relativity/2. Vznik STR.md",
+    "FYZ/Speciální teorie relativity/3. Základní principy STR.md",
+    "kyb/AI/Umělá inteligence.md",
     "FYZ/Speciální teorie relativity/5. Dilatace času.md",
     "Images/Pasted image 20260121152331.png",
     "FYZ/Speciální teorie relativity/4..md",
     "FYZ/Speciální teorie relativity/Důsledky STR.md",
-    "FYZ/Speciální teorie relativity/3. Základní principy STR.md",
-    "FYZ/Speciální teorie relativity/2. Vznik STR.md",
     "FYZ/Speciální teorie relativity/1. Prostor a čas v klasické mechanice.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Orten.md",
     "MAT/Příklady/2. Analytické vyjádření paraboly.md",
-    "FYZ/molekoule.md",
     "FYZ/Speciální teorie relativity",
-    "MAT/Calculus/Diferenciální počet.md",
-    "MAT/Příklady/1b. Užití goniometrických vzorců.md",
-    "MAT/Příklady/1a. Goniometrické funkce a jejich grafy.md",
     "FYZ/optika/Optické klamy.md",
-    "MAT/Calculus/Funkce.md",
-    "MAT/Příklady/30.  Goniometrické rovnice.md",
     "MAT/Goniometrie/Goniometrie.md",
     "Images/Pasted image 20260119205133.png",
     "Images/Pasted image 20260119204504.png",
@@ -281,16 +239,13 @@
     "FYZ/optika/Průchod slunečního světla atmosférou.md",
     "LIT/česká literatura po roce 1945/česká literatura po roce 1945.md",
     "LIT/světová v 1. polovině 20. stol/Autoři/Jaroslav Seifert.md",
-    "MAT/Kombinatorika/Variace.md",
     "Images/Pasted image 20260114150949.png",
     "Images/Pasted image 20260114150126.png",
     "Images/Pasted image 20260113150710.png",
     "Images/Pasted image 20260113150752.png",
     "Images/Pasted image 20260113150838.png",
     "Images/Pasted image 20260113150949.png",
-    "sx.md",
     "LIT/česká literatura po roce 1945",
-    "MAT/Křivky/Parabola.md",
     "MAT/Calculus",
     "kyb/Kombinační a sekvenční elektronika",
     "MAT/Pravděpodobnosti/Untitled 1.base",
