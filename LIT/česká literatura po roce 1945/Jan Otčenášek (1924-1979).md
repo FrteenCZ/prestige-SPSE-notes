@@ -1,0 +1,7 @@
+- za 2. se války totálně nasazený, koncem války v ilegálním hnutí mládeže
+- spisovatel, scénáristo, nedokončil studio FFUK, úředník, později no sekretariátu Svazu či spisovateli, spisovatel dramaturg na Barrandově, manželka herečka Libuše Švormová
+- **Občan Brych** - politický román, mladík ze Žitkova v komunistické straně
+- **Kulhavý Orfeus** - snaha mládeže zapojit se do odboje ve 2. sv. válce
+- **Když v ráji pršelo** - román formou deníkových záznamů, vztah dvou mladých Intelektuálů, těžké podmínky na šumavské samotě
+- **Romeo, Julie a tma** - ***v maturitní četbě***
+- scénář k filmu Lásky mezi kapkami deště, seriálu Byl jednou jeden dům

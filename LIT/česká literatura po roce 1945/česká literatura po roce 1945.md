@@ -24,3 +24,7 @@
 	- **undergroundová lit.** - vzniká mimo všechny proudy, protest proti systému a konzumní společnosti
 	- [[Václav Havel]], [[Jaroslav Seifert]]
 - **exilová lit.** - vydávaná mimo Československo
+
+# Autoři
+- [[Jan Otčenášek (1924-1979)]]
+- 
