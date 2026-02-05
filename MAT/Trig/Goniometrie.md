@@ -1,4 +1,4 @@
-#MAT #MAT/Goniometrie
+#MAT #MAT/Trig
 # Jednotková kružnice
 ![[Pasted image 20251013135946.png]]
 - $\sin \theta$ na ose `y`

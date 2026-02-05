@@ -1,6 +1,8 @@
 #MAT #MAT/Calc
+`Vlastní bod` = $x \in \mathbb{R}$
 ``Nevlastní bod`` = $x=\infty,-\infty$
 `Nevlastní limita` - výsledek limity je $\infty,-\infty$
+[Nevlastní bod](Nevlastní%20bod.md)
 
 # Vlastní limita ve vlastním bodě
 Funkce $f$ má v bodě $a$ limitu $L$, jestliže libovolnému **okolí bodu $L$** existuje **okolí bodu $a$** tak, že pro všechna $x \neq a$ z tohoto okolí patří funkční hodnoty do zvoleného okolí $L$.

@@ -1,4 +1,4 @@
-s#FYZ #FYZ/relativity 
+#FYZ #FYZ/relativity 
 $$
 l=l_{0}\sqrt{ 1- \frac{v^{2}}{c^{2}} }
 $$

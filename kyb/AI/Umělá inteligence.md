@@ -48,3 +48,7 @@ je technologie, která se zabývá vytvářením strojů a systémů schopných 
 ![[Pasted image 20251113103159.png]]
 ## Reinforcement learning
 ![[Reinforcement learning]]
+
+
+# Neuronky
+![Neuronky](Neuonky/Neuronky.md)
