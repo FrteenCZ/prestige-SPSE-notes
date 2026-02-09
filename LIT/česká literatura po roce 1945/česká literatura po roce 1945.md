@@ -27,4 +27,5 @@
 
 # Autoři
 - [[Jan Otčenášek (1924-1979)]]
+- [Milan Kundera (1929-2023)](Milan%20Kundera%20(1929-2023).md)
 - 

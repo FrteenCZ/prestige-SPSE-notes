@@ -1,3 +1,4 @@
+#MAT #MAT/Calc 
 Prvky množiny $\mathbb{R}$ nazýváme:  **vlastní** reálná čísla
 Symboly $-\infty$, $\infty$ nazýváme:   **nevlastní** reálná čísla
 # Úmluva pro operace s těmito čísly

@@ -1,3 +1,4 @@
+#LIT #LIT/Česká 
 - za 2. se války totálně nasazený, koncem války v ilegálním hnutí mládeže
 - spisovatel, scénáristo, nedokončil studio FFUK, úředník, později no sekretariátu Svazu či spisovateli, spisovatel dramaturg na Barrandově, manželka herečka Libuše Švormová
 - **Občan Brych** - politický román, mladík ze Žitkova v komunistické straně
