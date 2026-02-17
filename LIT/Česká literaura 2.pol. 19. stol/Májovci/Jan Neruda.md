@@ -5,6 +5,6 @@
 	- 13 povídek 
 	- život na Malé Straně v období Nerudova dětství 
 	- typizace postav, svérázné figurky 
-	- zachycení atmosféry 
+	- zachycení atmosféry
 	- humorný a satirický tón střídán tónem vážným 
 	- inspirace Nerudovými vzpomínkami; někdy i vlastní zážitky
