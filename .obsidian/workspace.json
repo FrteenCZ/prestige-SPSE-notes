@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "350677f1a87298ca",
+        "id": "3dc87a3675fbe727",
         "type": "tabs",
         "children": [
           {
-            "id": "d50ae2512fc296c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAT/Calculus/Diferenciální počet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diferenciální počet"
-            }
-          },
-          {
-            "id": "90f890bc99d97147",
+            "id": "0899f4ada69b29be",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Speciální teorie relativity"
+            }
+          },
+          {
+            "id": "77d1e49804e9259c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAT/Calculus/Derivation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derivation"
             }
           }
         ],
@@ -196,21 +196,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90f890bc99d97147",
+  "active": "77d1e49804e9259c",
   "lastOpenFiles": [
-    "MAT/Calculus/Derivation.md",
-    "Images/Pasted image 20260217161736.png",
     "MAT/Calculus/Diferenciální počet.md",
-    "MAT/Calculus/Funkce.md",
     "FYZ/Speciální teorie relativity/Speciální teorie relativity.md",
-    "FYZ/Speciální teorie relativity/1. Prostor a čas v klasické mechanice.md",
-    "FYZ/Speciální teorie relativity/2. Vznik STR.md",
-    "FYZ/Speciální teorie relativity/3. Základní principy STR.md",
-    "FYZ/Speciální teorie relativity/4. Relativnost současnosti.md",
-    "FYZ/Speciální teorie relativity/5. Dilatace času.md",
-    "FYZ/Speciální teorie relativity/6. Kontrakce délek.md",
-    "FYZ/Speciální teorie relativity/7. Skládání rychlostí ve STR.md",
     "FYZ/Speciální teorie relativity/8. Relativistická dynamika.md",
+    "FYZ/Speciální teorie relativity/7. Skládání rychlostí ve STR.md",
+    "MAT/Calculus/Derivation.md",
+    "FYZ/Speciální teorie relativity/5. Dilatace času.md",
+    "FYZ/Speciální teorie relativity/4. Relativnost současnosti.md",
+    "FYZ/Speciální teorie relativity/3. Základní principy STR.md",
+    "FYZ/Speciální teorie relativity/2. Vznik STR.md",
+    "Images/Pasted image 20260217161736.png",
+    "MAT/Calculus/Funkce.md",
+    "FYZ/Speciální teorie relativity/1. Prostor a čas v klasické mechanice.md",
+    "FYZ/Speciální teorie relativity/6. Kontrakce délek.md",
     "FYZ/Speciální teorie relativity/9. Vztah mezi energií a hmotností.md",
     "Images/Pasted image 20260217102902.png",
     "Images/Michelsonův_interferometr.gif",
