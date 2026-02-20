@@ -29,13 +29,13 @@
 | $\dfrac{d}{d x}\left(\frac{1}{\sqrt{x+1}}\right)=\dfrac{-1}{2 \cdot \sqrt{(x+1)^3}}$ | $\dfrac{d}{d x}\left(\frac{1}{\sqrt[3]{x+1}}\right)=\dfrac{-1}{3 \cdot \sqrt[3]{(x+1)^4}}$  | $\dfrac{d}{d x}\left(\frac{1}{\sqrt[n]{x+1}}\right)=\dfrac{-1}{n \cdot \sqrt[n]{(x+1)^{n+1}}}$            |
 ## Trigonometric Functions
 
-| $\dfrac{d}{d x} \sin x=\cos x$ | $\dfrac{d}{d x} \sinh x=\cosh x$ |
-| :--- | :--- |
-| $\dfrac{d}{d x} \cos x=-\sin x$ | $\dfrac{d}{d x} \cosh x=\sinh x$ |
-| $\dfrac{d}{d x} \tan x=\sec ^2 x=\dfrac{1}{\cos ^2 x}$ | $\dfrac{d}{d x} \tanh x=1-\tanh ^2 x=\operatorname{sech}^2 x$ |
-| $\dfrac{d}{d x} \cot x=-\csc ^2 x=-\dfrac{1}{\sin ^2 x}$ | $\dfrac{d}{d x} \operatorname{coth} x=-\operatorname{csch}^2 x$ |
-| $\dfrac{d}{d x} \csc x=-\csc x \cot x$ | $\dfrac{d}{d x} \operatorname{csch} x=-\operatorname{csch} x \operatorname{coth} x$ |
-| $\dfrac{d}{d x} \sec x=\sec x \tan x$ | $\dfrac{d}{d x} \operatorname{sech} x=-\operatorname{sech} x \tanh x$ |
+| $\dfrac{d}{d x} \sin x=\cos x$                           | $\dfrac{d}{d x} \sinh x=\cosh x$                                                    |
+| :------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| $\dfrac{d}{d x} \cos x=-\sin x$                          | $\dfrac{d}{d x} \cosh x=\sinh x$                                                    |
+| $\dfrac{d}{d x} \tan x=\sec ^2 x=\dfrac{1}{\cos ^2 x}$   | $\dfrac{d}{d x} \tanh x=1-\tanh ^2 x=\operatorname{sech}^2 x$                       |
+| $\dfrac{d}{d x} \cot x=-\csc ^2 x=-\dfrac{1}{\sin ^2 x}$ | $\dfrac{d}{d x} \operatorname{coth} x=-\operatorname{csch}^2 x$                     |
+| $\dfrac{d}{d x} \csc x=-\csc x \cot x$                   | $\dfrac{d}{d x} \operatorname{csch} x=-\operatorname{csch} x \operatorname{coth} x$ |
+| $\dfrac{d}{d x} \sec x=\sec x \tan x$                    | $\dfrac{d}{d x} \operatorname{sech} x=-\operatorname{sech} x \tanh x$               |
 
 | $\dfrac{d}{d x} \sin ^{-1} x=\dfrac{1}{\sqrt{1-x^2}}$          $\|x\|<1$  | $\dfrac{d}{d x} \sinh ^{-1} x=\dfrac{1}{\sqrt{1+x^2}}$                       |
 | :------------------------------------------------------------------------ | :--------------------------------------------------------------------------- |
@@ -104,5 +104,23 @@ f_{2}'=&\frac{-6x+6x^{2}-4+8x+3x-6x^{2}}{(x-x^{2})^{2}} \\
 f_{2}'=&\frac{-3x^{2}+8x-4}{(x-x^{2})^{2}} \\
 f_{2}'>&0 \quad x \in \left( \frac{2}{3},2 \right) \quad \text{roustoucí}  \\
 f_{2}'<&0 \quad x \in \mathbb{R}-\left( \frac{2}{3},2 \right) \quad \text{klesající} 
+\end{align}
+$$
+---
+$$
+\begin{align}
+f_{1}&=x^{3}-x \\
+f_{1}'&=3x^{2}-1 \\
+f_{1}'&= 3\left( x- \frac{\sqrt{ 3 }}{3} \right)\left( x+\frac{\sqrt{ 3 }}{3} \right) \\
+&+ \quad - \quad + \\
+ \\
+f_{2}&=2\tan x- \frac{x^4}{3}+ \frac{\sqrt[3]{ x }}{x^{2}} \\
+f_{2}'&=\frac{2}{\cos ^{2}x}-\frac{4x^{3}}{3}+\frac{-11}{3x^{\frac{2}{3}}} \\
+ \\
+f_{3}&=\cos x^{3} \\
+f_{3}'&=-2x^{2}\sin x^{3} \\
+ \\
+f_{4}&=\frac{3-x^{3}}{1-\sin x} \\
+f_{4}'&=\frac{-3x^{2}\left(1-\sin x\right)+\left(3-x^{3}\right)\cos x}{\left(1-\sin x\right)^{2}}
 \end{align}
 $$

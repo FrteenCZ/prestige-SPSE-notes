@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3dc87a3675fbe727",
+        "id": "eaca83112b39db86",
         "type": "tabs",
         "children": [
           {
-            "id": "0899f4ada69b29be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FYZ/Speciální teorie relativity/Speciální teorie relativity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Speciální teorie relativity"
-            }
-          },
-          {
-            "id": "77d1e49804e9259c",
+            "id": "d40974fc07af61ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Derivation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bass",
+                "query": "tag:#KYB/AI/NeuralNetworks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,13 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77d1e49804e9259c",
+  "active": "d40974fc07af61ab",
   "lastOpenFiles": [
-    "MAT/Calculus/Diferenciální počet.md",
     "FYZ/Speciální teorie relativity/Speciální teorie relativity.md",
+    "kyb/AI/Neuonky/Deep Neural Networks.pdf",
+    "kyb/AI/Neuonky/Neuronky.md",
+    "MAT/Calculus/Derivation.md",
+    "MAT/Calculus/Diferenciální počet.md",
     "FYZ/Speciální teorie relativity/8. Relativistická dynamika.md",
     "FYZ/Speciální teorie relativity/7. Skládání rychlostí ve STR.md",
-    "MAT/Calculus/Derivation.md",
     "FYZ/Speciální teorie relativity/5. Dilatace času.md",
     "FYZ/Speciální teorie relativity/4. Relativnost současnosti.md",
     "FYZ/Speciální teorie relativity/3. Základní principy STR.md",
@@ -226,9 +213,7 @@
     "TEF/polovodiče/TRANZISTOR.md",
     "Images/Pasted image 20260211150837.png",
     "FYZ/FYZIKA MIKROSVĚTA/1. ATOMY A MOLEKULY.md",
-    "MAT/Calculus/Limita funkce.md",
     "FYZ/FYZIKA MIKROSVĚTA",
-    "kyb/AI/Neuonky/Deep Neural Networks.pdf",
     "kyb/AI/Neuonky",
     "Images/Pasted image 20260107150653.png",
     "Images/dvousměrný usměrňovač s kondenzátorem.png",
