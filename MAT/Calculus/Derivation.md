@@ -124,3 +124,34 @@ f_{4}&=\frac{3-x^{3}}{1-\sin x} \\
 f_{4}'&=\frac{-3x^{2}\left(1-\sin x\right)+\left(3-x^{3}\right)\cos x}{\left(1-\sin x\right)^{2}}
 \end{align}
 $$
+## Extrémy
+$$
+\boxed{f'(x)=0} 
+$$
+$$
+\begin{align}
+f_{1}&=\frac{1}{3}x^{3} -\frac{1}{2}x^{2}-2x+1 \\
+f_{1}'&=x^{2}-x-2=(x-2)(x+1) \\
+(-\infty-1)&:+ \\
+\langle-1,2\rangle&:- \\
+(2,\infty)&:+
+\end{align}
+$$
+## Inflexní bod
+$$
+\begin{gathered}
+\boxed{f'(x)=0 \quad f''(x)=0,\text{neexistuje}}  \\
+\boxed{f''(x)>0\implies \text{konvexní}} \quad \boxed{f''(x)<0\implies \text{konkávní}} 
+\end{gathered}
+$$
+---
+$$
+\begin{align}
+f_{1}&=x^4-2x^{2}+5 \\
+f_{1}'&=4x^{3}-4x \\
+f_{1}''&=12x^{2}-4=4(\sqrt{ 3 }x-1)(\sqrt{ 3 }x+1) \\
+\left( -\infty,-\frac{1}{\sqrt{ 3 }} \right)&: \text{convex} \\
+\left( -\frac{1}{\sqrt{ 3 }}, \frac{1}{\sqrt{ 3 }} \right)&: \text{concave} \\
+\left( \frac{1}{\sqrt{ 3 }},\infty \right)&: \text{convex}
+\end{align}
+$$

@@ -62,4 +62,27 @@ $$
 \begin{align}
 
 \end{align}
+$$$$
+\mathbf{x}_{centrovaný} = \mathbf{E} \hat{\mathbf{x}}^\star
+$$---
+$$
+\begin{align}
+\lim_{ x \to 2 } (x^{2}-3)=1 \\
+ \\
+\lim_{ x \to 0 } \frac{3x^{2}-x}{x}=\lim_{ x \to 0 } 3x-1=-1 \\
+ \\
+\lim_{ x \to 0 } \frac{\sin 2x}{3x}=\frac{2}{3} \\
+ \\
+\lim_{ x \to 0 } \frac{1-\cos 2x}{x\sin x}=\lim_{ x \to 0 } \frac{1-\cos ^{2}x+\sin ^{2}x}{x\sin x}= \lim_{ x \to 0 } \frac{\sin ^{2}x+\sin ^{2}x}{x\sin x}=\lim_{ x \to 0 } \frac{2\sin x}{x}=2 \\
+\lim_{ x \to -3 } \frac{x+3}{\sqrt{ x+4 }-1}= \lim_{ x \to -3 } \frac{(x+3)(\sqrt{ x+4 }+1)}{x+4-1}= \lim_{ x \to -3 } \frac{(x+3)(\sqrt{ x+4 }+1)}{x+3}=\lim_{ x \to -3 } \sqrt{ x+4 }+1=2 \\
+ \\
+\lim_{ x \to \infty } \frac{x^{2}+x+2}{x^{2}+5x+6}=\lim_{ x \to \infty } \frac{1+\frac{1}{x}+\frac{2}{x^{2}}}{1+\frac{5}{x}+\frac{6}{x^{2}}}=\frac{1+0+0}{1+0+0}=1 \\
+ \\
+\lim_{ x \to 0 } \frac{3\tan ^{2}x}{2x^{2}}=\lim_{ x \to 0 } \frac{3}{2x^{2}}\cdot \frac{\sin ^{2}x}{\cos ^{2}x}=\frac{\sin ^{2}x}{x^{2}}\cdot \frac{3}{2\cos ^{2}x}=\frac{3}{2} \\
+ \\
+\lim_{ x \to 7 } \frac{2-\sqrt{ x-3 }}{x^{2}-49}=\lim_{ x \to 7 } \frac{4+x+3}{(x-7)(x+7)(2+\sqrt{ x-3 })}=\lim_{ x \to 7 } \frac{7-x}{(x-7)(x+7)(2+\sqrt{ x-3 })}= \\
+=-\frac{1}{14\cdot(2+\sqrt{ 4 })}=\frac{-1}{14\cdot4}=-\frac{1}{56} \\
+ \\
+\lim_{ x \to \frac{\pi}{4} } \frac{\sin x-\cos x}{1-\tan x}=\lim_{ x \to \frac{\pi}{4} } \frac{\sin x-\cos x}{1- \frac{\sin x}{\cos x}}=\lim_{ x \to \frac{\pi}{4} } \frac{\sin x-\cos x}{\frac{\cos x-\sin x}{\cos x}}=\lim_{ x \to \frac{\pi}{4} } -\cos x=-\frac{\sqrt{ 2 }}{2} 
+\end{align}
 $$
