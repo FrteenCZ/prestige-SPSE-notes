@@ -46,6 +46,20 @@
 | $\dfrac{d}{d x} \sec ^{-1} x=\dfrac{1}{x \sqrt{x^2-1}}$        $\|x\|>1$  | $\dfrac{d}{d x} \operatorname{sech}^{-1} x=\dfrac{-1}{x \sqrt{x^2-1}}$       |
 
 ---
+# How 2
+
+1. Definiční obor (body nespojitosti)
+2. průsečíky s osami
+3. sudá nebo lichá funkce
+4. intervaly monotónosti
+5. extrémy
+6. inflexní body
+7. konvexnost, konkávnost
+8. limity v nevlastních bodech + bodech nespojitosti
+9. Sestrojíme graf
+10. PROFIT!!!
+
+---
 
 # Příklady
 $$
