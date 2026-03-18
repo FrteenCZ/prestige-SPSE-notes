@@ -45,19 +45,6 @@
 | $\dfrac{d}{d x} \csc ^{-1} x=\dfrac{-1}{x \sqrt{x^2-1}}$        $\|x\|>1$ | $\dfrac{d}{d x} \operatorname{csch}^{-1} x=\dfrac{-1}{x \sqrt{x^2+1}}$       |
 | $\dfrac{d}{d x} \sec ^{-1} x=\dfrac{1}{x \sqrt{x^2-1}}$        $\|x\|>1$  | $\dfrac{d}{d x} \operatorname{sech}^{-1} x=\dfrac{-1}{x \sqrt{x^2-1}}$       |
 
----
-# How 2
-
-1. Definiční obor (body nespojitosti)
-2. průsečíky s osami
-3. sudá nebo lichá funkce
-4. intervaly monotónosti
-5. extrémy
-6. inflexní body
-7. konvexnost, konkávnost
-8. limity v nevlastních bodech + bodech nespojitosti
-9. Sestrojíme graf
-10. PROFIT!!!
 
 ---
 
@@ -167,5 +154,110 @@ f_{1}''&=12x^{2}-4=4(\sqrt{ 3 }x-1)(\sqrt{ 3 }x+1) \\
 \left( -\infty,-\frac{1}{\sqrt{ 3 }} \right)&: \text{convex} \\
 \left( -\frac{1}{\sqrt{ 3 }}, \frac{1}{\sqrt{ 3 }} \right)&: \text{concave} \\
 \left( \frac{1}{\sqrt{ 3 }},\infty \right)&: \text{convex}
+\end{align}
+$$
+# Průběh funkcí
+
+1. Definiční obor (body nespojitosti)
+2. průsečíky s osami
+3. sudá nebo lichá funkce
+4. intervaly monotónosti
+5. extrémy
+6. inflexní body
+7. konvexnost, konkávnost
+8. limity v nevlastních bodech + bodech nespojitosti
+9. Sestrojíme graf
+10. PROFIT!!!
+
+---
+$$
+\begin{align}
+&&f_{1}(x)=x^{3}+\frac{x^4}{4} \\
+ \\
+1) && D_{f_{1}}=\mathbb{R} \\
+ \\
+2) && P_{x_{1}}=[0,0] \\
+&& P_{x_{2}}=[-4,0] \\
+ \\
+3) && \text{sudá} \\
+ \\
+4) && (-\infty,-3) \quad \text{klesající} \\
+&& (-3,0) \quad \text{rostoucí} \\
+&& (0,\infty) \quad \text{rostoucí} \\
+ \\
+5) && f_{1}''=6x+3x^{2} \\
+&& f_{1}''(0)=0 \quad \text{není extrém} \\
+&& f_{1}''(-3)>0 \quad \text{minimum} \quad [-3,-6.75] \\
+ \\
+6+7) && (-\infty,2) \quad + \\
+&& (-2,0) \quad - \\
+&& (0, \infty) \quad + \\
+&& [0,0] \quad [-2,-4] \\
+ \\
+.8) && \lim_{ x \to \infty } \left( x^3+\frac{x^4}{4} \right) = \infty \\
+&& \lim_{ x \to -\infty } = \infty
+\end{align}
+$$---
+min $A_{cil}$ 
+$V=\text{konst.}$
+$$
+\begin{align}
+V=\pi r^{2}v \\
+S=2\pi r^{2}+2\pi rv \\
+ \\
+S=2\pi r^{2}+2\pi r \cdot \frac{V}{\pi r^{2}} \\
+S=2\pi r^{2}+\frac{2V}{r} \\
+S'=4\pi r-\frac{2V}{r^{2}} \\
+0=\frac{4\pi r^{3}-2V}{r^{2}} \\
+0=2\pi r^{3}-V \\
+r=\sqrt[3]{ \frac{V}{2\pi} } \\
+v=\frac{\sqrt[3]{V  }}{\pi}
+\end{align}
+$$
+
+---
+
+$V=\pu{ 200m3 }$
+$l=4w$
+$m^2$ podstavy je $\frac{1}{2}$ než $m^2$ stěny
+cena podstavy je 1/2 ceny stěny
+
+$$
+\begin{align}
+V=l\cdot w\cdot h \\
+P=\frac{p}{2}\cdot w\cdot l+p\cdot h\cdot2\cdot(w+l) \\
+l=4w \\
+ \\
+V=4w^{2}h \\
+P=2p\cdot w^{2}+10phw \\
+ \\
+P=2p\cdot w^{2}+\frac{2.5pV}{w} \\
+P'=4p\cdot w-\frac{2.5pV}{w^{2}} \\
+P'=\frac{4p\cdot w^3-2.5pV}{w^{2}} \\
+4\cdot w^3=2.5V \\
+w^3=0.625V \\
+w=\sqrt[3]{ 0.625V }=5 \\
+l=20 \\
+h=2
+\end{align}
+$$
+---
+$$
+\begin{align}
+&&f(x)=\frac{x}{x^{2}-1} \\
+1)&& D=\mathbb{R}-\{ -1,1 \} \\
+2) && P=[0,0] \\
+3) && \text{lichá} \\
+4) && f'(x)=\frac{(x^{2}-1)-2x^{2}}{(x^{2}-1)^{2}} \\
+&& f'(x)=-\frac{x^{2}+1}{x^4-2x^{2}+1} \\
+&& D \text{ klesající} \\
+5) && \emptyset \\
+6) &&f''(x)=-\frac{(2x)(x^{2}-1)^{2}-2(x^{2}-1)(2x)(x^{2}+1)}{(x^{2}-1)^4} \\
+&&f''(x)=\frac{2x(x^4+2x^2-3)}{(x^{2}-1)^4} \\
+&& \emptyset \\
+7) && (-\infty,-1)\text{ concave} \\
+&& (-1,0)\text{ convex} \\
+&& (0,1)\text{ concave} \\
+&& (1,\infty)\text{ convex}
 \end{align}
 $$
