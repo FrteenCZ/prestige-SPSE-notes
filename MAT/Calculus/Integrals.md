@@ -39,3 +39,32 @@ $$
 \int (x^{-2}-4x^{-2/3})=-\frac{1}{x}-12\sqrt[3]{ x }+c
 \end{align}
 $$
+---
+$$
+\begin{align}
+\int x^{3}+3\sqrt{ x }+x^{-5}dx=\frac{x^4}{4}+2 \sqrt{ x^{3} }-\frac{1}{4x^4}+c \\
+ \\
+\int(x^{2}-x^{-3}+5x)dx=\frac{x^{3}}{3}+\frac{1}{2x}+\frac{5}{2}x^{2}+c \\
+ \\
+\int \frac{(\sqrt{ x }-1)^{2}}{x}dx=\int \frac{x-2\sqrt{ x }+1}{x}dx=\int(1-2x^{-1/2}+x^{-1})dx=x-\frac{2\sqrt{ x }}{\frac{1}{2}}+\ln|x|= \\
+x-4\sqrt{ x }+\ln |x|+c \\
+ \\
+\int \frac{x^{2}\sqrt{ x }}{x^5}dx=\int x^{-2.5}dx=\frac{x^{-3/2}}{-\frac{3}{2}}=-\frac{2}{3\sqrt{ x^{3} }}+c \\
+ \\
+\int (x^{2}-1)(x+2)^{2}dx=\int(x^{2}-1)(x^{2}+4x+4)dx=\int(x^4-x^{2}+4x^{3}-4x+4x^{2}-4)dx= \\
+=\frac{x^{5}}{5}-x+x^4-2x^{2}+\frac{4x^{3}}{3}-4x+c \\
+ \\
+\int x^{3}\sqrt[5]{ x^{2} }dx=\int x^{3.4}dx=\frac{x^{4.4}}{4.4}+c \\
+ \\
+\int \tan ^{2}xdx=\int \frac{\sin ^{2}x}{\cos ^{2}x}dx=\int \frac{1-\cos ^{2}x}{\cos ^{2}x}dx=\int\left( \frac{1}{\cos ^{2}x}-1 \right)dx=\tan x-x+c \\
+ \\
+\int \cot ^{2}xdx=-\cot x-x+c \\
+ \\
+\int \frac{\sin 2x}{\sin x}dx=\int \frac{2\sin x\cdot\cos x}{\sin x}dx=-2\cos x+c \\
+ \\
+\int \frac{\cos2x}{\cos ^{2}x}dx=\int \left( 1-\frac{1}{\cos ^{2}x}+1 \right)dx=2x-\tan x+c \\
+ \\
+ \\
+\int (2e^x)-\frac{2}{x})dx=2e^x-2\ln|x|+c
+\end{align}
+$$
