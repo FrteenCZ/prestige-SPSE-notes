@@ -67,4 +67,38 @@ x-4\sqrt{ x }+\ln |x|+c \\
  \\
 \int (2e^x)-\frac{2}{x})dx=2e^x-2\ln|x|+c
 \end{align}
+$$---
+$$
+\begin{align}
+\int 2x\cdot \sin (x^{2}+3)dx \\
+u=x^{2}+3 \\
+du=2xdx \\
+dx=\frac{du}{2x} \\
+\int2x\cdot \sin u\frac{du}{2x} \\
+\int \sin (u) du=-\cos u+c=-\cos(x^{2}+3)+c
+\end{align}
+$$
+$$
+\begin{align}
+\int \frac{2x}{\sqrt{ x^{2}-2 }}dx=2\sqrt{ x^{2}-2 }+c \\
+u=2x^{2}-2 \\
+dx=\frac{du}{2x} \\
+\int \frac{2xdu}{\sqrt{ u }2x}=\int u^{-1/2}du=2\sqrt{ u }=2\sqrt{ x^{2}-2 }+c
+\end{align}
+$$
+$$
+\begin{align}
+\int x^{2}\cdot \sqrt{ x^{3}-1 }dx=\frac{1}{3}\int 3x^{2}\sqrt{ x^{3}-1 }dx= \frac{2(x^{3}-1)^{3/2}}{9} +c \\ \\
+
+\int \sin 3xdx=\frac{1}{3}\int3\sin3xdx=\boxed{-\frac{1}{3}\cos(3x) +c}  \\
+\int \sqrt{ 1+3x }dx=\frac{1}{3}\int 3\sqrt{ 1+3x }dx=\boxed{\frac{2}{9}(1+3x)^{3/2}+c}  \\
+\int \frac{1}{\sqrt{ x-3 }}dx=\boxed{2\sqrt{ x-3 }+c} 
+\end{align}
+$$
+$$
+\begin{align}
+\int e^{-3x}dx=-\frac{1}{3}e^{-3x}+c \\
+\int \frac{1}{x+3}dx=\ln|x+3|+c \\
+\int \tan x dx= \int \sin x(\cos x)^{-1}dx=\int \sin x(u)^{-1}\frac{du}{-\sin x}=-\ln|u|=-\ln|\cos x|+c
+\end{align}
 $$

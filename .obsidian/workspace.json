@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MAT/Calculus/Derivation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Derivation"
             }
           },
           {
@@ -27,16 +27,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAT/Příklady/14. Úlohy na aplikaci Pythagorovy věty a Euklidových vět.md",
+                "file": "MAT/Příklady/12. Soustavy rovnic, slovní úlohy vedoucí k soustavě rovnic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Úlohy na aplikaci Pythagorovy věty a Euklidových vět"
+              "title": "12. Soustavy rovnic, slovní úlohy vedoucí k soustavě rovnic"
+            }
+          },
+          {
+            "id": "28ae81027ff96328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAT/Příklady/10a. Určení extrémů funkce a vyšetření průběhu funkce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10a. Určení extrémů funkce a vyšetření průběhu funkce"
+            }
+          },
+          {
+            "id": "4861fdf7c335be71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAT/Příklady/16a. Limita a spojitost funkce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16a. Limita a spojitost funkce"
+            }
+          },
+          {
+            "id": "7edf53488a8d7f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FYZ/Fotoelektrický jev.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fotoelektrický jev"
+            }
+          },
+          {
+            "id": "65f8b5c4ad148eed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kyb/AI/Clustering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clustering"
+            }
+          },
+          {
+            "id": "599492bd1a351a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kyb/AI/Computer vision.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer vision"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,45 +266,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1509d45dea62bf6",
+  "active": "599492bd1a351a84",
   "lastOpenFiles": [
+    "kyb/AI/Clustering.md",
+    "kyb/AI/Computer vision.md",
+    "kyb/AI/Neuonky/Neuronky.md",
+    "FYZ/Jádro atomu.md",
+    "FYZ/Fotoelektrický jev.md",
+    "FYZ/FYZIKA MIKROSVĚTA/1. ATOMY A MOLEKULY.md",
+    "FYZ/FYZIKA MIKROSVĚTA/FYZIKA MIKROSVĚTA.md",
+    "FYZ/FYZIKA MIKROSVĚTA/STAVBA ATOMU.md",
+    "MAT/Příklady/16b. Derivace a její geometrický a fyzikální význam.md",
+    "MAT/Příklady/16a. Limita a spojitost funkce.md",
+    "MAT/Příklady/10a. Určení extrémů funkce a vyšetření průběhu funkce.md",
     "MAT/Calculus/Integrals.md",
+    "MAT/Calculus/Derivation.md",
+    "Images/Pasted image 20260325085927.png",
+    "README.md",
+    "Images/Pasted image 20260325082408.png",
+    "MAT/Příklady/25a. Operace s vektory.md",
+    "MAT/Příklady/12. Soustavy rovnic, slovní úlohy vedoucí k soustavě rovnic.md",
+    "MAT/Calculus/Diferenciální počet.md",
+    "MAT/Příklady/14. Úlohy na aplikaci Pythagorovy věty a Euklidových vět.md",
     "LIT/po 2. světové válce/autoři/Alexandr Solženicyn (1918-2008).md",
     "Ota Pavel.md",
     "kyb/AI/Umělá inteligence.md",
     "kyb/AI/Neuonky/Deep Neural Networks.pdf",
-    "FYZ/Fotoelektrický jev.md",
     "Images/Pasted image 20260318150905.png",
     "Images/Pasted image 20260318150526.png",
     "FYZ/molekoule.md",
-    "README.md",
     "Images/Pasted image 20260318104358.png",
     "Images/Pasted image 20260318104058.png",
-    "MAT/Calculus/Derivation.md",
-    "MAT/Calculus/Diferenciální počet.md",
     "MAT/Příklady/Limita funkce ve vlastním bodě.md",
     "MAT/Příklady/30.  Goniometrické rovnice.md",
     "MAT/Calculus/Funkce.md",
     "MAT/Calculus/Limita funkce.md",
-    "MAT/Calculus/Nevlastní bod.md",
-    "LIT/po 2. světové válce/existencialismus.md",
-    "FYZ/📃FYZ.md",
-    "IKT/Zpracování programu v Javě.md",
-    "IKT/základní algoritmické struktury.md",
-    "IKT/Rozdělení programů v Javě.md",
-    "IKT/java příkazy.md",
-    "IKT/java Proměnné a datové typy.md",
-    "IKT/java operátory.md",
-    "IKT/algoritmy.md",
-    "IKT/java.md",
-    "MAT/Trig/Goniometrie.md",
-    "kyb/AI/Neuonky/Neuronky.md",
     "Images/Pasted image 20260224105317.png",
     "Images/Pasted image 20260224094857.png",
     "Images/Pasted image 20260224094823.png",
     "Images/Pasted image 20260224094737.png",
-    "Images/Pasted image 20260224092817.png",
-    "Images/Pasted image 20260224092520.png",
     "FYZ/FYZIKA MIKROSVĚTA",
     "kyb/AI/Neuonky",
     "FYZ/Speciální teorie relativity",
