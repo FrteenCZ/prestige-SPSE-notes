@@ -206,3 +206,28 @@ $$
 f(x)=x^{2}+1
 \end{align}
 $$
+> ḱol
+
+$$
+\begin{align}
+f(x)=x^{2}-2x \\
+g(x)=x
+\end{align}
+$$
+## Objem rotačních těles
+![](../../Images/Pasted%20image%2020260408110958.png)
+
+$$
+V=\pi \int_{a}^{b}f^{2}(x)dx
+$$
+---
+$$
+\begin{align}
+f(x)=2\sqrt{ x };\text{v } \langle0,4\rangle \\
+V=\pi \int_{0}^44xdx=4\pi \left[ \frac{x^{2}}{2}  \right]_{0}^4=32\pi
+\end{align}
+$$
+$$
+\pi\int_{0}^vr^{2} dx=\pi r^{2}\cdot[x]_{0}^v=\pi r^{2}v
+$$
+
