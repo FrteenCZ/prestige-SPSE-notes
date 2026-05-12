@@ -30,6 +30,33 @@
 | $$\int \frac{1}{x}dx=\ln\|x\|+c$$ | $$\int a^xdx=\frac{a^x}{\ln a}+c$$ | $$\int \sin xdx=-\cos x+c$$ | $$\int\frac{1}{\cos ^{2}x}dx=\tan x+c$$ |
 
 ---
+# Určitý integrál
+$$
+\begin{gathered}
+f(x) \text{ spojitá v } \langle a,b \rangle \\
+I=\int_{a}^b f(x)dx=\text{určitý integrál} \\
+\int_{a}^b f(x)dx=[F(x)]_{a}^b =F(b)-F(a)
+\end{gathered}
+$$
+
+---
+
+# ILATE (nebo LIATE) priority list
+$$
+\int u \cdot v' dx=uv-\int u'vdx
+$$
+Vyber $u$ podle listu (první nahoře)
+
+| **I** | **Inverse Trigonometric** | $$\sin^{-1}x,~\tan^{-1}x,~\dots$$        |
+| ----- | ------------------------- | ---------------------------------------- |
+| **L** | **Logarithmic**           | $$ \log_{3}x,~\log x,~\ln x,~\dots $$    |
+| **A** | **Algebraic**             | $$ x^{3},~\sqrt[3]{ x },~x^{2},~\dots $$ |
+| **T** | **Trigonometric**         | $$ \sin x,~\tan x,~\csc x,~ \dots$$      |
+| **E** | **Exponential**           | $$ 3^x,~e^x,~\dots $$                    |
+
+
+---
+# Příklady
 $$
 \begin{align}
 \int (x^{3}-6x^{2}+5x-4)dx=\frac{x^4}{4}-2x^{3}+5 \frac{x^{2}}{2}-4x+c \\
@@ -67,4 +94,140 @@ x-4\sqrt{ x }+\ln |x|+c \\
  \\
 \int (2e^x)-\frac{2}{x})dx=2e^x-2\ln|x|+c
 \end{align}
+$$---
 $$
+\begin{align}
+\int 2x\cdot \sin (x^{2}+3)dx \\
+u=x^{2}+3 \\
+du=2xdx \\
+dx=\frac{du}{2x} \\
+\int2x\cdot \sin u\frac{du}{2x} \\
+\int \sin (u) du=-\cos u+c=-\cos(x^{2}+3)+c
+\end{align}
+$$
+$$
+\begin{align}
+\int \frac{2x}{\sqrt{ x^{2}-2 }}dx=2\sqrt{ x^{2}-2 }+c \\
+u=2x^{2}-2 \\
+dx=\frac{du}{2x} \\
+\int \frac{2xdu}{\sqrt{ u }2x}=\int u^{-1/2}du=2\sqrt{ u }=2\sqrt{ x^{2}-2 }+c
+\end{align}
+$$
+$$
+\begin{align}
+\int x^{2}\cdot \sqrt{ x^{3}-1 }dx=\frac{1}{3}\int 3x^{2}\sqrt{ x^{3}-1 }dx= \frac{2(x^{3}-1)^{3/2}}{9} +c \\ \\
+
+\int \sin 3xdx=\frac{1}{3}\int3\sin3xdx=\boxed{-\frac{1}{3}\cos(3x) +c}  \\
+\int \sqrt{ 1+3x }dx=\frac{1}{3}\int 3\sqrt{ 1+3x }dx=\boxed{\frac{2}{9}(1+3x)^{3/2}+c}  \\
+\int \frac{1}{\sqrt{ x-3 }}dx=\boxed{2\sqrt{ x-3 }+c} 
+\end{align}
+$$
+$$
+\begin{align}
+\int e^{-3x}dx=-\frac{1}{3}e^{-3x}+c \\
+\int \frac{1}{x+3}dx=\ln|x+3|+c \\
+\int \tan x dx= \int \sin x(\cos x)^{-1}dx=\int \sin x(u)^{-1}\frac{du}{-\sin x}=-\ln|u|=-\ln|\cos x|+c
+\end{align}
+$$---
+$$
+\begin{align}
+\int xe^xdx = xe^x-\int e^xdx=xe^x-e^x+c \\
+u'=e^x\quad u=e^x \\
+v=x \quad v'=1 \\
+ \\
+\int x\sin xdx=-x\cos x-\int -\cos xdx=\sin x-x\cos x+c \\
+\end{align}
+$$
+
+---
+$$
+\begin{align}
+\int(x^{2}+7x-5)\cos xdx=\sin x(x^{2}+7x-5)-\int 2x\sin xdx-\int7\sin xdx= \\
+=(x^{2}+7x-5)\sin x+7\cos x+2x\cos x+2\sin x=(x^{2}+7x-7)\sin x+(2x+7)\cos x+c \\
+ \\
+\int x^{3}\cos xdx=x^{3}\sin x-\int 3x^{2}\sin xdx=x^{3}\sin x+3x^{2}\cos x-\int 6x\cos xdx= \\
+=x^{3}\sin x+3x^{2}\cos x-6x\sin x+\int6\sin xdx=x^{3}\sin x+3x^{2}\cos x-6x\sin x-6\cos x= \\
+=\boxed{(x^{3}-6x)\sin x+(3x^{2}-6)\cos x+c}
+\end{align}
+$$
+
+---
+$$
+\begin{align}
+\int \sin x \cos ^{3}xdx \\
+u'=\sin x \\
+u=-\cos x \\
+v=\cos ^{3}x \\
+v'=-3\cos ^{2}x\cdot \sin x \\
+ \\
+- \cos ^{4} x-3\int\cos ^{3} x\sin xdx=\int \cos ^{3}x\sin xdx \\
+-\cos^4x=4\int \cos ^{3}x\sin xdx \\
+c-\frac{\cos^4x}{4}=\int \cos ^{3}x\sin xdx
+\end{align}
+$$
+---
+$$
+\begin{align}
+\int (3x^{2}+4x-3)\sin xdx=-(3x^{2}+4x-3)\cos x+\int(6x+4)\cos xdx= \\
+=-(3x^{2}+4x-3)\cos x+(6x+4)\sin x-\int6\sin xdx= \\
+=\boxed{-(3x^{2}+4x-3)\cos x+(6x+4)\sin x+6\cos x+c} 
+\end{align}
+$$
+---
+$$
+\begin{align}
+\int(5x-2)\sqrt[3]{ 5x^{2}-4x }dx=\frac{1}{2}\int  u^{1/3}du=-\frac{3(5x^{2}-4x)^{4/3}}{4}+c \\
+\int \frac{e^x}{e^x+1}dx=\int \frac{1}{u}du
+=\ln|e^x+1|+c\end{align}
+$$
+---
+$$
+\begin{align}
+\int_{-1}^2 3x^{2}dx=[x^{3}]_{-1}^2=2^3-(-1)^3=9 \\
+\int_{1}^2(x^{2}-3x+2)dx=\left[ \frac{x^{3}}{3}-\frac{3x^{2}}{2}+2x \right]_{1}^2=-\frac{1}{6} \\
+\int_{1}^34x^{3}dx=[x^4]_{1}^3=80 \\
+\int_{0}^{2\pi}(1-\cos x)dx=[x-\sin x]_{0}^{2\pi}=(2\pi-0)-(0-0)=2\pi \\
+ \\
+\int_{1}^2\frac{x+1}{x}dx=[x+\ln|x|]_{1}^2\approx1.69 \\
+\int_{0}^4 \frac{1}{x}dx=\emptyset \\
+\int_{1}^4\sqrt{ x }(1+2\sqrt{ x })=\int_{1}^4 (\sqrt{ x }+2x)dx=\left[ \frac{2x^{3/2}}{3}+x^{2} \right]_{1}^4=\frac{59}{3} \\
+ \\
+\int_{1}^e \frac{\ln x}{x}dx=[\ln x\cdot \ln|x|]_{1}^e-\int_{1}^e\frac{\ln x}{x}dx=\frac{[\ln x\cdot \ln |x|]_{1}^e}{2}=0.5 \\
+\int_{0}^{\pi/2} e^{\cos x}\sin xdx\dots -\int e^u du=-e^{\cos x}+c\dots[-e^{\cos x}]_{0}^{\pi/2}=e-1
+\end{align}
+$$
+---
+
+## Obsah rovinného obrazce
+![](../../Images/Pasted%20image%2020260401111705.png)
+
+$$
+\begin{align}
+f(x)=x^{2}+1
+\end{align}
+$$
+> ḱol
+
+$$
+\begin{align}
+f(x)=x^{2}-2x \\
+g(x)=x
+\end{align}
+$$
+## Objem rotačních těles
+![](../../Images/Pasted%20image%2020260408110958.png)
+
+$$
+V=\pi \int_{a}^{b}f^{2}(x)dx
+$$
+---
+$$
+\begin{align}
+f(x)=2\sqrt{ x };\text{v } \langle0,4\rangle \\
+V=\pi \int_{0}^44xdx=4\pi \left[ \frac{x^{2}}{2}  \right]_{0}^4=32\pi
+\end{align}
+$$
+$$
+\pi\int_{0}^vr^{2} dx=\pi r^{2}\cdot[x]_{0}^v=\pi r^{2}v
+$$
+
