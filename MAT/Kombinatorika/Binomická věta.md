@@ -9,10 +9,10 @@ n \\
 0
 \end{pmatrix}a^nb^0+\begin{pmatrix}
 n \\
-n-1
+1
 \end{pmatrix}a^{n-1}b^1+\begin{pmatrix}
 n \\
-n-2
+2
 \end{pmatrix}a^{n-2}b^2+\dots+\begin{pmatrix}
 n \\
 k
@@ -36,7 +36,7 @@ $$
 $$
 ---
 čtvrtý člen $=-14$
-$4x- \frac{1}{3x}^8$
+$\left( 4x- \frac{1}{3x} \right)^8$
 $$
 \begin{align}
 -14=-56\cdot1024\cdot x^5\cdot \frac{1}{27} \cdot x^{-3} \\
