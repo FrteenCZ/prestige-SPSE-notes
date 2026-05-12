@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a03d41e6869931fa",
+        "id": "8bbc120c3c861f9c",
         "type": "tabs",
         "children": [
           {
-            "id": "cab9250309eeb0be",
+            "id": "4598b119c518144d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAT/Příklady/28b,22. Výpočet obsahu rovinného obrazce a objemu rotačního tělesa pomocí určitého integrálu.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "28b,22. Výpočet obsahu rovinného obrazce a objemu rotačního tělesa pomocí určitého integrálu"
+              "title": "Nová karta"
             }
           }
         ]
@@ -133,26 +129,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Štítky"
             }
           },
           {
-            "id": "7ad0b5796624c888",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "kyb/AI/Neuonky/Neuronky.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Neuronky"
-            }
-          },
-          {
-            "id": "c64889a6afec7644",
+            "id": "4aa1d56f0142b62f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -162,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,12 +162,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cab9250309eeb0be",
+  "active": "e232afcdb0e18de0",
   "lastOpenFiles": [
-    "MAT/Příklady/28. Primitivní funkce.md",
+    "MAT/Příklady/22. Výpočet obsahu rovinného obrazce a objemu rotačního tělesa pomocí určitého integrálu.md",
+    "MAT/Příklady/23a. Metrické vztahy v prostoru.md",
+    "MAT/Pravděpodobnosti/Pravděpodobnosti.md",
+    "MAT/Pravděpodobnosti/Binomické rozdělení.md",
+    "MAT/Příklady/23b. Obsahy rovinných obrazců.md",
+    "MAT/Příklady/23c.md",
+    "MAT/Příklady/14. Úlohy na aplikaci Pythagorovy věty a Euklidových vět.md",
+    "README.md",
+    "MAT/Příklady/28b. Výpočet obsahu rovinného obrazce a objemu rotačního tělesa pomocí určitého integrálu.md",
+    "kyb/AI/Neuonky/Deep Neural Networks.pdf",
+    "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Orten.md",
+    "kyb/AI/Neuonky/Neuronky.md",
+    "Images/Pasted image 20260412171044.png",
+    "MAT/Příklady/25a. Operace s vektory.md",
     "MAT/Calculus/Integrals.md",
+    "MAT/Příklady/28. Primitivní funkce.md",
     "Images/Pasted image 20260408110958.png",
-    "MAT/Příklady/28b,22. Výpočet obsahu rovinného obrazce a objemu rotačního tělesa pomocí určitého integrálu.md",
     "MAT/Calculus/Derivation.md",
     "MAT/Příklady/27b. Grafy funkcí s absolutními hodnotami.md",
     "MAT/Příklady/21b. Vztahy mezi kořeny a koeficienty kvadratické rovnice.md",
@@ -195,30 +189,18 @@
     "FYZ/Jádro atomu.md",
     "kyb/AI/Computer vision.md",
     "kyb/AI/Clustering.md",
-    "kyb/AI/Neuonky/Neuronky.md",
     "FYZ/Fotoelektrický jev.md",
     "FYZ/FYZIKA MIKROSVĚTA/1. ATOMY A MOLEKULY.md",
     "FYZ/FYZIKA MIKROSVĚTA/FYZIKA MIKROSVĚTA.md",
     "FYZ/FYZIKA MIKROSVĚTA/STAVBA ATOMU.md",
     "MAT/Příklady/16b. Derivace a její geometrický a fyzikální význam.md",
-    "MAT/Příklady/16a. Limita a spojitost funkce.md",
-    "MAT/Příklady/10a. Určení extrémů funkce a vyšetření průběhu funkce.md",
     "Images/Pasted image 20260325085927.png",
-    "README.md",
     "Images/Pasted image 20260325082408.png",
-    "MAT/Příklady/25a. Operace s vektory.md",
-    "MAT/Příklady/12. Soustavy rovnic, slovní úlohy vedoucí k soustavě rovnic.md",
-    "MAT/Calculus/Diferenciální počet.md",
-    "MAT/Příklady/14. Úlohy na aplikaci Pythagorovy věty a Euklidových vět.md",
-    "LIT/po 2. světové válce/autoři/Alexandr Solženicyn (1918-2008).md",
-    "Ota Pavel.md",
-    "kyb/AI/Neuonky/Deep Neural Networks.pdf",
     "Images/Pasted image 20260318150905.png",
     "Images/Pasted image 20260318150526.png",
     "Images/Pasted image 20260318104358.png",
     "Images/Pasted image 20260318104058.png",
     "Images/Pasted image 20260224105317.png",
-    "Images/Pasted image 20260224094857.png",
     "FYZ/FYZIKA MIKROSVĚTA",
     "kyb/AI/Neuonky",
     "FYZ/Speciální teorie relativity",
