@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8bbc120c3c861f9c",
+        "id": "5f786ea3e25b22a8",
         "type": "tabs",
         "children": [
           {
-            "id": "4598b119c518144d",
+            "id": "4277977fa02e447a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LIT/Povinná četba/Knížky/Ostře sledované vlaky.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nová karta"
+              "title": "Ostře sledované vlaky"
+            }
+          },
+          {
+            "id": "562ff7e189e8e01e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "MAT/Příklady/16a. Limita a spojitost funkce.md",
+                "bFile": "MAT/Příklady/16a. Limita a spojitost funkce.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 16a. Limita a spojitost funkce"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAT/Pravděpodobnosti/Pravděpodobnosti.md",
+                "file": "kyb/BOOL algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pravděpodobnosti"
+              "title": "Backlinks for BOOL algebra"
             }
           },
           {
@@ -109,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kyb/Přechodová a impulzní charakteristika.md",
+                "file": "kyb/BOOL algebra.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Přechodová a impulzní charakteristika"
+              "title": "Outgoing links from BOOL algebra"
             }
           },
           {
@@ -133,13 +152,28 @@
             }
           },
           {
-            "id": "4aa1d56f0142b62f",
+            "id": "aca0605c1dcaeb38",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "398e5837bfa90bec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MAT/Posloupnosti/Finanční matematika.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Finanční matematika"
             }
           }
         ],
@@ -162,54 +196,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e232afcdb0e18de0",
+  "active": "562ff7e189e8e01e",
   "lastOpenFiles": [
-    "MAT/Příklady/22. Výpočet obsahu rovinného obrazce a objemu rotačního tělesa pomocí určitého integrálu.md",
-    "MAT/Příklady/23a. Metrické vztahy v prostoru.md",
-    "MAT/Pravděpodobnosti/Pravděpodobnosti.md",
-    "MAT/Pravděpodobnosti/Binomické rozdělení.md",
-    "MAT/Příklady/23b. Obsahy rovinných obrazců.md",
-    "MAT/Příklady/23c.md",
-    "MAT/Příklady/14. Úlohy na aplikaci Pythagorovy věty a Euklidových vět.md",
-    "README.md",
-    "MAT/Příklady/28b. Výpočet obsahu rovinného obrazce a objemu rotačního tělesa pomocí určitého integrálu.md",
-    "kyb/AI/Neuonky/Deep Neural Networks.pdf",
-    "LIT/světová v 1. polovině 20. stol/Autoři/Jiří Orten.md",
-    "kyb/AI/Neuonky/Neuronky.md",
-    "Images/Pasted image 20260412171044.png",
-    "MAT/Příklady/25a. Operace s vektory.md",
-    "MAT/Calculus/Integrals.md",
-    "MAT/Příklady/28. Primitivní funkce.md",
-    "Images/Pasted image 20260408110958.png",
-    "MAT/Calculus/Derivation.md",
-    "MAT/Příklady/27b. Grafy funkcí s absolutními hodnotami.md",
-    "MAT/Příklady/21b. Vztahy mezi kořeny a koeficienty kvadratické rovnice.md",
+    "LIT/Povinná četba/Seznam.base",
+    "LIT/Povinná četba/Knížky/Ostře sledované vlaky.md",
+    "LIT/Povinná četba/Knížky/Havran.md",
+    "Images/Pasted image 20251113100626.png",
+    "Images/Pasted image 20250516100756.png",
+    "MAT/Křivky/Hyperbola.md",
+    "MAT/Křivky/Elipsa.md",
     "MAT/Příklady/2. Analytické vyjádření paraboly.md",
+    "MAT/Křivky/Parabola.md",
+    "Images/Pasted image 20250929135443.png",
+    "MAT/Křivky/Kružnice.md",
+    "MAT/Příklady/9. Analytické vyjádření kružnice.md",
+    "Images/cricle_line_types.svg",
+    "LIT/Povinná četba/Knížky/Osudy dobrého vojáka Švejka za světové války.md",
+    "LIT/Povinná četba/Knížky/Bez názvu.md",
+    "LIT/Povinná četba/Knížky/Úžasná zeměplocha - Barva kouzel.md",
+    "LIT/Povinná četba/Knížky/Těžká Barbora.md",
+    "LIT/Povinná četba/Knížky/Revizor.md",
+    "LIT/Povinná četba/Knížky/R.U.R..md",
+    "LIT/Povinná četba/Knížky/Bylo nás pět.md",
+    "LIT/Povinná četba/Knížky/Bílá nemoc.md",
+    "LIT/Povinná četba/Knížky/Proměna.md",
+    "LIT/Povinná četba/Knížky/Podkoní a žák.md",
+    "LIT/Povinná četba/Knížky/Na západní frontě klid.md",
+    "LIT/Povinná četba/Knížky/Mastičkář.md",
+    "LIT/Povinná četba/Knížky/Malý princ.md",
+    "LIT/Povinná četba/Knížky/Lakomec.md",
+    "LIT/Povinná četba/Knížky/Krysař.md",
+    "LIT/Povinná četba/Knížky/Král Lávra.md",
+    "LIT/Povinná četba/Knížky/Farma zvířat.md",
+    "LIT/Povinná četba/Knížky",
+    "LIT/Povinná četba",
+    "Images/Pasted image 20260408110958.png",
     "Images/Pasted image 20260401111705.png",
-    "FYZ/Jádro atomu.md",
-    "kyb/AI/Computer vision.md",
-    "kyb/AI/Clustering.md",
-    "FYZ/Fotoelektrický jev.md",
-    "FYZ/FYZIKA MIKROSVĚTA/1. ATOMY A MOLEKULY.md",
-    "FYZ/FYZIKA MIKROSVĚTA/FYZIKA MIKROSVĚTA.md",
-    "FYZ/FYZIKA MIKROSVĚTA/STAVBA ATOMU.md",
-    "MAT/Příklady/16b. Derivace a její geometrický a fyzikální význam.md",
     "Images/Pasted image 20260325085927.png",
     "Images/Pasted image 20260325082408.png",
-    "Images/Pasted image 20260318150905.png",
-    "Images/Pasted image 20260318150526.png",
-    "Images/Pasted image 20260318104358.png",
-    "Images/Pasted image 20260318104058.png",
-    "Images/Pasted image 20260224105317.png",
-    "FYZ/FYZIKA MIKROSVĚTA",
-    "kyb/AI/Neuonky",
+    "Images/Pasted image 20260503204251.png",
     "FYZ/Speciální teorie relativity",
-    "LIT/česká literatura po roce 1945",
+    "FYZ/FYZIKA MIKROSVĚTA",
+    "kyb/AI/Neuonky/Deep Neural Networks.pdf",
+    "kyb/AI/Neuonky",
+    "MAT/Trig",
     "MAT/Calculus",
-    "kyb/Kombinační a sekvenční elektronika",
-    "MAT/Pravděpodobnosti/Untitled 1.base",
-    "MAT/Pravděpodobnosti/Untitled.base",
-    "MAT/Pravděpodobnosti",
+    "Images/Pasted image 20260318150905.png",
     "Untitled.canvas"
   ]
 }

@@ -1,3 +1,4 @@
+#FYZ 
 # Energie fotonu
 $$
 E=hf=h\cdot \frac{c}{\lambda}

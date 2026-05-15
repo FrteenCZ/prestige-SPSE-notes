@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Tabulka
+    filters:
+      and:
+        - file.inFolder("LIT/Povinná četba/Knížky")
+    order:
+      - file.name
+      - autor
+      - literární druh
+      - Literární směr/období
+      - přečteno?
+      - známka
+    sort:
+      - property: známka
+        direction: ASC
+      - property: přečteno?
+        direction: DESC
+    columnSize:
+      file.name: 302
+      note.autor: 237
+      note.literární druh: 154
+      note.Literární směr/období: 303
