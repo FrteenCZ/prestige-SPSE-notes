@@ -10,3 +10,29 @@ známka: "2"
 ---
 > [!summary]
 >  Protiválečný román, vyd. 1928, Německo, „ztracená generace“. Paul Bäumer a jeho spolužáci na frontě 1.sv.v. zažívají ne hrdinství, ale všední hrůzy války, boj o přežití a cenu kamarádství.
+
+- **Základní údaje o knize**
+	- *Autor:*
+	- *Název díla:*
+	- *Rok vydání:*
+- **O autorovi**
+	- *Země, město původu:*
+	- *Doba, kdy žil:*
+	- *Život (stručně), vlivy na umělecké dílo:*
+	- *Další díla:*
+- **O díle**
+	- *Literární druh:*
+	- *Literární žánr:*
+	- *Téma (popř. motivy), hlavní myšlenka díla:*
+	- *Časoprostor:*
+	- *Děj (jen u epických děl), klíčové scény:*
+	- *Kompozice:*
+	- *Vypravěč /lyrický subjekt:*
+	- *Postavy:*
+	- *Verš (pokud se vyskytuje):*
+	- *Jazykové prostředky, tropy a figury, a jejich funkce v textu:*
+- **Literárněhistorická kontext**
+	- *Zasazení díla do kontextu autorovy tvorby:*
+	- *Charakteristika literárního směru nebo skupiny a doložení v textu:*
+	- *Literární/obecně kulturní kontext (soudobí autoři souvislosti):*
+	- *Bylo dílo inspirací pro jiné umělecké dílo? Jak bylo ve své době přijato?:*
